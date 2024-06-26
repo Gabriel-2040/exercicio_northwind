@@ -1,0 +1,132 @@
+--Clientes mais lucrativos
+
+ SELECT dc.nome_empresa AS cliente,
+    sum(fve.valor_venda_real) AS total_vendas,
+    sum(fve.valor_custo) AS custo_total,
+    sum(fve.quantidade_vendida) AS qtd_vendida,
+    sum(fve.lucro) AS lucro_total
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+     JOIN data_warehouse.dim_cliente dc ON dc.id = fve.id_cliente
+  GROUP BY dc.nome_empresa
+  ORDER BY (sum(fve.lucro)) DESC;
+
+--Controle estoque
+
+ SELECT dp.nome AS produto,
+    dl.cidade,
+    dl.pais,
+    dt.data AS data_inteira,
+    sum(fve.unidades_em_estoque) AS und_estoque,
+    sum(fve.nivel_reabastecimento) AS esp_estoque,
+    (sum(fve.unidades_em_estoque) - sum(fve.nivel_reabastecimento)) >= 0::numeric AS "Excesso"
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+     JOIN data_warehouse.dim_local dl ON dl.id = fve.id_local
+     JOIN data_warehouse.dim_tempo dt ON dt.id = fve.id_tempo
+  GROUP BY dp.nome, dl.cidade, dl.pais, dt.data
+  ORDER BY dp.nome;
+
+--desempenho vendas atual
+
+ SELECT sum(fato_vendas_estoque.valor_venda_real) AS total_vendas,
+    sum(fato_vendas_estoque.valor_custo) AS total_custo,
+    sum(fato_vendas_estoque.lucro) AS lucro
+   FROM data_warehouse.fato_vendas_estoque;
+
+--distribuição produtos estoque
+
+ SELECT dp.nome AS produto,
+    dl.cidade AS cidade_produto,
+    dl.pais AS pais_produto,
+    dt.data AS data_inteira
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_local dl ON dl.id = fve.id_local
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+     JOIN data_warehouse.dim_tempo dt ON dt.id = fve.id_tempo
+  GROUP BY dp.nome, dl.cidade, dl.pais, dt.data
+  ORDER BY dt.data;
+
+--previsão demanda
+
+OBSERVAÇÕES:
+-- possivel ordenação  de produtos para cada 6 meses
+-- CASE 
+--         WHEN dt.mes BETWEEN 1 AND 6 THEN 'primeiro semestre'
+--         ELSE 'segundo semestre'
+--     END AS semestre,
+
+CÓDIGO:
+
+ SELECT dp.nome AS nome_produto,
+    dt.mes,
+    dt.ano,
+    sum(fve.quantidade_vendida) AS qtd_vendida
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+     JOIN data_warehouse.dim_tempo dt ON dt.id = fve.id_tempo
+  GROUP BY dp.nome, dt.mes, dt.ano
+  ORDER BY dp.nome, dt.mes, dt.ano;
+
+--produtos mais vendidos
+
+ SELECT fve.id_produto AS id,
+    dp.nome AS nome_produto,
+    sum(fve.valor_venda_real) AS total_vendas,
+    sum(fve.valor_custo) AS custo_total,
+    sum(fve.quantidade_vendida) AS qtd_vendida,
+    sum(fve.lucro) AS lucro_total
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+  GROUP BY dp.nome, fve.id_produto
+  ORDER BY (sum(fve.valor_venda_real));
+
+--variação sazonal
+
+ SELECT dp.nome AS nome_produto,
+    sum(fve.quantidade_vendida) AS qtd_vendida,
+    dt.mes,
+    dl.pais,
+    dl.regiao,
+    dl.cidade,
+    (sum(fve.unidades_em_estoque) - sum(fve.nivel_reabastecimento)) >= 0::numeric AS "Excesso"
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+     JOIN data_warehouse.dim_tempo dt ON dt.id = fve.id_tempo
+     JOIN data_warehouse.dim_local dl ON dl.id = fve.id_local
+  GROUP BY dp.nome, dt.mes, dl.pais, dl.regiao, dl.cidade
+  ORDER BY dp.nome, dt.mes;
+
+--opção não usada
+
+--variação sazonal 2 
+
+--OBSERVAÇÕES
+
+-- fazer uma consulta de pedido por DATA
+-- comparar com uma consulta de estoque por data
+-- apontar os locais proximos na cidade ou regiao onde os estoques estão vazios naquela data
+-- de maneira a balencear as cargas nos estoques EX:
+
+--CODIGO
+
+ SELECT dp.id AS id_produto,
+    dp.nome AS nome_produto,
+    sum(fve.quantidade_vendida) AS qtd_vendida,
+    fve.unidades_em_estoque AS qtd_estoque,
+    dt.dia,
+    dt.mes,
+    dt.ano,
+    dl.cidade,
+    dl.regiao,
+    dl.pais,
+    (sum(fve.unidades_em_estoque) - sum(fve.nivel_reabastecimento)) >= 0::numeric AS "Excesso"
+   FROM data_warehouse.fato_vendas_estoque fve
+     JOIN data_warehouse.dim_produto dp ON dp.id = fve.id_produto
+     JOIN data_warehouse.dim_tempo dt ON dt.id = fve.id_tempo
+     JOIN data_warehouse.dim_local dl ON dl.id = fve.id_local
+  GROUP BY dp.nome, dt.mes, dl.pais, dl.regiao, dl.cidade, dp.id, dt.dia, fve.unidades_em_estoque, dt.ano
+  ORDER BY dt.ano, dt.mes, dt.dia, dl.pais;
+
+
+

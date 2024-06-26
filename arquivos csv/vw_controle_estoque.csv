@@ -1,0 +1,2155 @@
+"produto","cidade","pais","data_inteira","und_estoque","esp_estoque","Excesso"
+"Alice Mutton","Albuquerque","USA","1996-08-30","0.00","0.00",True
+"Alice Mutton","Albuquerque","USA","1996-11-05","0.00","0.00",True
+"Alice Mutton","Albuquerque","USA","1997-06-10","0.00","0.00",True
+"Alice Mutton","Albuquerque","USA","1998-01-26","0.00","0.00",True
+"Alice Mutton","Anchorage","USA","1996-10-25","0.00","0.00",True
+"Alice Mutton","Boise","USA","1997-07-22","0.00","0.00",True
+"Alice Mutton","Boise","USA","1997-10-22","0.00","0.00",True
+"Alice Mutton","Boise","USA","1998-05-01","0.00","0.00",True
+"Alice Mutton","Charleroi","Belgium","1996-09-10","0.00","0.00",True
+"Alice Mutton","Elgin","USA","1997-01-15","0.00","0.00",True
+"Alice Mutton","Frankfurt a.M.","Germany","1996-08-13","0.00","0.00",True
+"Alice Mutton","Graz","Austria","1997-01-30","0.00","0.00",True
+"Alice Mutton","Graz","Austria","1997-10-09","0.00","0.00",True
+"Alice Mutton","Graz","Austria","1997-12-11","0.00","0.00",True
+"Alice Mutton","Graz","Austria","1997-12-24","0.00","0.00",True
+"Alice Mutton","London","UK","1997-05-01","0.00","0.00",True
+"Alice Mutton","Luleå","Sweden","1997-02-12","0.00","0.00",True
+"Alice Mutton","Madrid","Spain","1997-12-29","0.00","0.00",True
+"Alice Mutton","Marseille","France","1998-02-05","0.00","0.00",True
+"Alice Mutton","México D.F.","Mexico","1996-10-02","0.00","0.00",True
+"Alice Mutton","México D.F.","Mexico","1997-06-19","0.00","0.00",True
+"Alice Mutton","México D.F.","Mexico","1998-02-27","0.00","0.00",True
+"Alice Mutton","Montréal","Canada","1996-10-28","0.00","0.00",True
+"Alice Mutton","Nantes","France","1998-02-16","0.00","0.00",True
+"Alice Mutton","Reggio Emilia","Italy","1997-11-03","0.00","0.00",True
+"Alice Mutton","Rio de Janeiro","Brazil","1998-03-03","0.00","0.00",True
+"Alice Mutton","Rio de Janeiro","Brazil","1998-04-29","0.00","0.00",True
+"Alice Mutton","Salzburg","Austria","1997-05-08","0.00","0.00",True
+"Alice Mutton","Salzburg","Austria","1997-09-30","0.00","0.00",True
+"Alice Mutton","Seattle","USA","1997-10-08","0.00","0.00",True
+"Alice Mutton","Seattle","USA","1998-01-30","0.00","0.00",True
+"Alice Mutton","Sevilla","Spain","1997-05-28","0.00","0.00",True
+"Alice Mutton","Sevilla","Spain","1998-02-26","0.00","0.00",True
+"Alice Mutton","Strasbourg","France","1996-07-25","0.00","0.00",True
+"Alice Mutton","Tsawassen","Canada","1997-01-30","0.00","0.00",True
+"Alice Mutton","Tsawassen","Canada","1998-03-13","0.00","0.00",True
+"Alice Mutton","Versailles","France","1998-03-24","0.00","0.00",True
+"Aniseed Syrup","Albuquerque","USA","1998-05-06","13.00","25.00",False
+"Aniseed Syrup","Århus","Denmark","1997-07-07","13.00","25.00",False
+"Aniseed Syrup","Berlin","Germany","1997-10-13","13.00","25.00",False
+"Aniseed Syrup","Brandenburg","Germany","1998-01-23","13.00","25.00",False
+"Aniseed Syrup","Cunewalde","Germany","1997-05-19","13.00","25.00",False
+"Aniseed Syrup","Graz","Austria","1997-12-03","13.00","25.00",False
+"Aniseed Syrup","Graz","Austria","1998-04-13","13.00","25.00",False
+"Aniseed Syrup","I. de Margarita","Venezuela","1997-01-06","13.00","25.00",False
+"Aniseed Syrup","I. de Margarita","Venezuela","1997-03-25","13.00","25.00",False
+"Aniseed Syrup","London","UK","1996-08-26","13.00","25.00",False
+"Aniseed Syrup","Luleå","Sweden","1998-01-28","13.00","25.00",False
+"Aniseed Syrup","Tsawassen","Canada","1997-11-14","13.00","25.00",False
+"Boston Crab Meat","Århus","Denmark","1997-03-05","123.00","30.00",True
+"Boston Crab Meat","Århus","Denmark","1997-11-17","123.00","30.00",True
+"Boston Crab Meat","Bergamo","Italy","1997-11-25","123.00","30.00",True
+"Boston Crab Meat","Boise","USA","1997-07-22","123.00","30.00",True
+"Boston Crab Meat","Boise","USA","1997-11-20","123.00","30.00",True
+"Boston Crab Meat","Brandenburg","Germany","1998-01-06","123.00","30.00",True
+"Boston Crab Meat","Bruxelles","Belgium","1998-03-26","123.00","30.00",True
+"Boston Crab Meat","Buenos Aires","Argentina","1997-02-17","123.00","30.00",True
+"Boston Crab Meat","Butte","USA","1998-04-06","123.00","30.00",True
+"Boston Crab Meat","Charleroi","Belgium","1998-04-21","123.00","30.00",True
+"Boston Crab Meat","Cork","Ireland","1998-04-30","123.00","30.00",True
+"Boston Crab Meat","Cunewalde","Germany","1996-08-05","123.00","30.00",True
+"Boston Crab Meat","Cunewalde","Germany","1996-08-20","123.00","30.00",True
+"Boston Crab Meat","Cunewalde","Germany","1997-09-05","123.00","30.00",True
+"Boston Crab Meat","Frankfurt a.M.","Germany","1997-04-30","123.00","30.00",True
+"Boston Crab Meat","Frankfurt a.M.","Germany","1997-05-12","123.00","30.00",True
+"Boston Crab Meat","Graz","Austria","1998-02-18","123.00","30.00",True
+"Boston Crab Meat","Helsinki","Finland","1998-02-10","123.00","30.00",True
+"Boston Crab Meat","I. de Margarita","Venezuela","1998-01-02","123.00","30.00",True
+"Boston Crab Meat","I. de Margarita","Venezuela","1998-03-02","123.00","30.00",True
+"Boston Crab Meat","Kirkland","USA","1997-06-19","123.00","30.00",True
+"Boston Crab Meat","Köln","Germany","1997-09-26","123.00","30.00",True
+"Boston Crab Meat","London","UK","1997-03-24","123.00","30.00",True
+"Boston Crab Meat","Luleå","Sweden","1997-06-18","123.00","30.00",True
+"Boston Crab Meat","Luleå","Sweden","1998-01-16","123.00","30.00",True
+"Boston Crab Meat","Marseille","France","1997-05-02","123.00","30.00",True
+"Boston Crab Meat","Marseille","France","1997-09-10","123.00","30.00",True
+"Boston Crab Meat","México D.F.","Mexico","1997-03-13","123.00","30.00",True
+"Boston Crab Meat","México D.F.","Mexico","1997-05-13","123.00","30.00",True
+"Boston Crab Meat","München","Germany","1996-07-29","123.00","30.00",True
+"Boston Crab Meat","San Cristóbal","Venezuela","1997-04-07","123.00","30.00",True
+"Boston Crab Meat","San Cristóbal","Venezuela","1997-08-22","123.00","30.00",True
+"Boston Crab Meat","Sao Paulo","Brazil","1996-11-06","123.00","30.00",True
+"Boston Crab Meat","Sao Paulo","Brazil","1997-01-07","123.00","30.00",True
+"Boston Crab Meat","Sao Paulo","Brazil","1997-09-05","123.00","30.00",True
+"Boston Crab Meat","Sao Paulo","Brazil","1997-11-04","123.00","30.00",True
+"Boston Crab Meat","Sevilla","Spain","1996-09-11","123.00","30.00",True
+"Boston Crab Meat","Stuttgart","Germany","1996-09-09","123.00","30.00",True
+"Boston Crab Meat","Torino","Italy","1997-12-31","123.00","30.00",True
+"Boston Crab Meat","Tsawassen","Canada","1997-01-30","123.00","30.00",True
+"Boston Crab Meat","Walla Walla","USA","1997-03-21","123.00","30.00",True
+"Camembert Pierrot","Albuquerque","USA","1996-08-30","19.00","0.00",True
+"Camembert Pierrot","Albuquerque","USA","1998-05-06","19.00","0.00",True
+"Camembert Pierrot","Barquisimeto","Venezuela","1996-08-16","19.00","0.00",True
+"Camembert Pierrot","Barquisimeto","Venezuela","1996-11-19","19.00","0.00",True
+"Camembert Pierrot","Bern","Switzerland","1997-04-28","19.00","0.00",True
+"Camembert Pierrot","Boise","USA","1997-07-28","19.00","0.00",True
+"Camembert Pierrot","Boise","USA","1997-09-04","19.00","0.00",True
+"Camembert Pierrot","Boise","USA","1998-01-22","19.00","0.00",True
+"Camembert Pierrot","Campinas","Brazil","1997-10-17","19.00","0.00",True
+"Camembert Pierrot","Charleroi","Belgium","1996-07-09","19.00","0.00",True
+"Camembert Pierrot","Colchester","UK","1997-12-08","19.00","0.00",True
+"Camembert Pierrot","Cork","Ireland","1996-12-12","19.00","0.00",True
+"Camembert Pierrot","Cowes","UK","1998-01-13","19.00","0.00",True
+"Camembert Pierrot","Cunewalde","Germany","1996-11-22","19.00","0.00",True
+"Camembert Pierrot","Cunewalde","Germany","1997-04-23","19.00","0.00",True
+"Camembert Pierrot","Cunewalde","Germany","1997-09-05","19.00","0.00",True
+"Camembert Pierrot","Cunewalde","Germany","1998-03-10","19.00","0.00",True
+"Camembert Pierrot","Eugene","USA","1998-04-30","19.00","0.00",True
+"Camembert Pierrot","Frankfurt a.M.","Germany","1996-08-19","19.00","0.00",True
+"Camembert Pierrot","Frankfurt a.M.","Germany","1997-05-14","19.00","0.00",True
+"Camembert Pierrot","Genève","Switzerland","1997-01-20","19.00","0.00",True
+"Camembert Pierrot","Graz","Austria","1998-01-16","19.00","0.00",True
+"Camembert Pierrot","Graz","Austria","1998-02-18","19.00","0.00",True
+"Camembert Pierrot","I. de Margarita","Venezuela","1998-03-17","19.00","0.00",True
+"Camembert Pierrot","Köln","Germany","1997-09-26","19.00","0.00",True
+"Camembert Pierrot","Lander","USA","1996-12-17","19.00","0.00",True
+"Camembert Pierrot","Lisboa","Portugal","1997-03-04","19.00","0.00",True
+"Camembert Pierrot","Lisboa","Portugal","1998-03-19","19.00","0.00",True
+"Camembert Pierrot","London","UK","1996-11-21","19.00","0.00",True
+"Camembert Pierrot","London","UK","1998-04-28","19.00","0.00",True
+"Camembert Pierrot","Luleå","Sweden","1996-12-16","19.00","0.00",True
+"Camembert Pierrot","Luleå","Sweden","1997-08-11","19.00","0.00",True
+"Camembert Pierrot","Madrid","Spain","1998-03-02","19.00","0.00",True
+"Camembert Pierrot","Mannheim","Germany","1998-04-29","19.00","0.00",True
+"Camembert Pierrot","México D.F.","Mexico","1997-08-08","19.00","0.00",True
+"Camembert Pierrot","México D.F.","Mexico","1998-04-02","19.00","0.00",True
+"Camembert Pierrot","Montréal","Canada","1997-07-21","19.00","0.00",True
+"Camembert Pierrot","München","Germany","1997-09-02","19.00","0.00",True
+"Camembert Pierrot","München","Germany","1998-04-09","19.00","0.00",True
+"Camembert Pierrot","Oulu","Finland","1997-06-30","19.00","0.00",True
+"Camembert Pierrot","Rio de Janeiro","Brazil","1997-03-20","19.00","0.00",True
+"Camembert Pierrot","Rio de Janeiro","Brazil","1998-04-29","19.00","0.00",True
+"Camembert Pierrot","Sao Paulo","Brazil","1996-12-04","19.00","0.00",True
+"Camembert Pierrot","Sao Paulo","Brazil","1997-04-21","19.00","0.00",True
+"Camembert Pierrot","Sao Paulo","Brazil","1997-11-04","19.00","0.00",True
+"Camembert Pierrot","Sao Paulo","Brazil","1998-01-13","19.00","0.00",True
+"Camembert Pierrot","Sevilla","Spain","1998-04-08","19.00","0.00",True
+"Camembert Pierrot","Torino","Italy","1998-04-30","19.00","0.00",True
+"Camembert Pierrot","Tsawassen","Canada","1997-11-14","19.00","0.00",True
+"Camembert Pierrot","Tsawassen","Canada","1998-03-02","19.00","0.00",True
+"Camembert Pierrot","Warszawa","Poland","1997-07-25","19.00","0.00",True
+"Carnarvon Tigers","Anchorage","USA","1996-09-13","42.00","0.00",True
+"Carnarvon Tigers","Cork","Ireland","1997-04-24","42.00","0.00",True
+"Carnarvon Tigers","Cork","Ireland","1998-03-30","42.00","0.00",True
+"Carnarvon Tigers","Cunewalde","Germany","1997-07-03","42.00","0.00",True
+"Carnarvon Tigers","Cunewalde","Germany","1997-11-18","42.00","0.00",True
+"Carnarvon Tigers","Graz","Austria","1996-12-13","42.00","0.00",True
+"Carnarvon Tigers","I. de Margarita","Venezuela","1998-01-19","42.00","0.00",True
+"Carnarvon Tigers","Lander","USA","1997-11-27","42.00","0.00",True
+"Carnarvon Tigers","Lille","France","1997-08-15","42.00","0.00",True
+"Carnarvon Tigers","Lille","France","1997-12-22","42.00","0.00",True
+"Carnarvon Tigers","Mannheim","Germany","1998-01-27","42.00","0.00",True
+"Carnarvon Tigers","Marseille","France","1996-10-29","42.00","0.00",True
+"Carnarvon Tigers","Marseille","France","1997-03-11","42.00","0.00",True
+"Carnarvon Tigers","México D.F.","Mexico","1996-08-29","42.00","0.00",True
+"Carnarvon Tigers","Montréal","Canada","1996-10-17","42.00","0.00",True
+"Carnarvon Tigers","Paris","France","1998-03-20","42.00","0.00",True
+"Carnarvon Tigers","Portland","USA","1998-04-13","42.00","0.00",True
+"Carnarvon Tigers","Resende","Brazil","1997-08-25","42.00","0.00",True
+"Carnarvon Tigers","Resende","Brazil","1998-03-09","42.00","0.00",True
+"Carnarvon Tigers","Rio de Janeiro","Brazil","1997-08-26","42.00","0.00",True
+"Carnarvon Tigers","Rio de Janeiro","Brazil","1998-02-09","42.00","0.00",True
+"Carnarvon Tigers","Salzburg","Austria","1998-04-27","42.00","0.00",True
+"Carnarvon Tigers","San Francisco","USA","1997-10-27","42.00","0.00",True
+"Carnarvon Tigers","Seattle","USA","1998-01-30","42.00","0.00",True
+"Carnarvon Tigers","Stavern","Norway","1997-08-20","42.00","0.00",True
+"Carnarvon Tigers","Strasbourg","France","1997-06-12","42.00","0.00",True
+"Carnarvon Tigers","Torino","Italy","1998-04-15","42.00","0.00",True
+"Chai","Albuquerque","USA","1996-08-30","39.00","10.00",True
+"Chai","Bern","Switzerland","1996-12-03","39.00","10.00",True
+"Chai","Boise","USA","1997-10-10","39.00","10.00",True
+"Chai","Boise","USA","1998-01-22","39.00","10.00",True
+"Chai","Boise","USA","1998-04-17","39.00","10.00",True
+"Chai","Butte","USA","1998-04-06","39.00","10.00",True
+"Chai","Charleroi","Belgium","1998-04-20","39.00","10.00",True
+"Chai","Cork","Ireland","1997-08-27","39.00","10.00",True
+"Chai","Cunewalde","Germany","1996-08-20","39.00","10.00",True
+"Chai","Cunewalde","Germany","1997-10-03","39.00","10.00",True
+"Chai","Eugene","USA","1998-04-07","39.00","10.00",True
+"Chai","Frankfurt a.M.","Germany","1997-04-30","39.00","10.00",True
+"Chai","Frankfurt a.M.","Germany","1998-05-05","39.00","10.00",True
+"Chai","Helsinki","Finland","1998-04-07","39.00","10.00",True
+"Chai","I. de Margarita","Venezuela","1997-11-04","39.00","10.00",True
+"Chai","I. de Margarita","Venezuela","1998-01-19","39.00","10.00",True
+"Chai","Lisboa","Portugal","1997-03-17","39.00","10.00",True
+"Chai","London","UK","1997-11-24","39.00","10.00",True
+"Chai","London","UK","1998-02-04","39.00","10.00",True
+"Chai","London","UK","1998-04-24","39.00","10.00",True
+"Chai","Luleå","Sweden","1997-10-01","39.00","10.00",True
+"Chai","México D.F.","Mexico","1996-11-14","39.00","10.00",True
+"Chai","México D.F.","Mexico","1997-06-23","39.00","10.00",True
+"Chai","Montréal","Canada","1997-07-07","39.00","10.00",True
+"Chai","Nantes","France","1997-07-24","39.00","10.00",True
+"Chai","Oulu","Finland","1997-05-05","39.00","10.00",True
+"Chai","Oulu","Finland","1998-04-15","39.00","10.00",True
+"Chai","Portland","USA","1996-09-30","39.00","10.00",True
+"Chai","Resende","Brazil","1998-02-24","39.00","10.00",True
+"Chai","Resende","Brazil","1998-03-09","39.00","10.00",True
+"Chai","San Cristóbal","Venezuela","1998-02-02","39.00","10.00",True
+"Chai","Sao Paulo","Brazil","1997-01-07","39.00","10.00",True
+"Chai","Sevilla","Spain","1998-02-26","39.00","10.00",True
+"Chai","Strasbourg","France","1997-08-12","39.00","10.00",True
+"Chai","Stuttgart","Germany","1996-11-07","39.00","10.00",True
+"Chai","Toulouse","France","1997-01-14","39.00","10.00",True
+"Chai","Tsawassen","Canada","1998-03-02","39.00","10.00",True
+"Chai","Warszawa","Poland","1997-07-25","39.00","10.00",True
+"Chang","Albuquerque","USA","1998-01-26","17.00","25.00",False
+"Chang","Albuquerque","USA","1998-05-06","17.00","25.00",False
+"Chang","Bergamo","Italy","1998-03-10","17.00","25.00",False
+"Chang","Bern","Switzerland","1998-04-22","17.00","25.00",False
+"Chang","Boise","USA","1996-12-25","17.00","25.00",False
+"Chang","Boise","USA","1997-02-10","17.00","25.00",False
+"Chang","Boise","USA","1997-10-22","17.00","25.00",False
+"Chang","Boise","USA","1997-10-29","17.00","25.00",False
+"Chang","Boise","USA","1998-04-17","17.00","25.00",False
+"Chang","Bräcke","Sweden","1996-07-24","17.00","25.00",False
+"Chang","Bräcke","Sweden","1996-10-11","17.00","25.00",False
+"Chang","Bräcke","Sweden","1997-10-14","17.00","25.00",False
+"Chang","Campinas","Brazil","1998-04-24","17.00","25.00",False
+"Chang","Charleroi","Belgium","1998-02-12","17.00","25.00",False
+"Chang","Colchester","UK","1997-11-14","17.00","25.00",False
+"Chang","Cork","Ireland","1996-09-05","17.00","25.00",False
+"Chang","Cork","Ireland","1996-10-22","17.00","25.00",False
+"Chang","Cowes","UK","1998-01-13","17.00","25.00",False
+"Chang","Cunewalde","Germany","1997-01-17","17.00","25.00",False
+"Chang","Cunewalde","Germany","1998-04-01","17.00","25.00",False
+"Chang","Cunewalde","Germany","1998-04-14","17.00","25.00",False
+"Chang","Frankfurt a.M.","Germany","1998-05-05","17.00","25.00",False
+"Chang","Genève","Switzerland","1996-07-12","17.00","25.00",False
+"Chang","Genève","Switzerland","1998-05-06","17.00","25.00",False
+"Chang","Graz","Austria","1996-07-17","17.00","25.00",False
+"Chang","Graz","Austria","1998-05-05","17.00","25.00",False
+"Chang","I. de Margarita","Venezuela","1997-03-25","17.00","25.00",False
+"Chang","Köln","Germany","1997-12-05","17.00","25.00",False
+"Chang","London","UK","1997-02-04","17.00","25.00",False
+"Chang","Luleå","Sweden","1998-02-03","17.00","25.00",False
+"Chang","Lyon","France","1997-12-31","17.00","25.00",False
+"Chang","México D.F.","Mexico","1998-01-28","17.00","25.00",False
+"Chang","München","Germany","1996-10-30","17.00","25.00",False
+"Chang","Rio de Janeiro","Brazil","1997-08-06","17.00","25.00",False
+"Chang","Rio de Janeiro","Brazil","1998-01-05","17.00","25.00",False
+"Chang","Rio de Janeiro","Brazil","1998-01-26","17.00","25.00",False
+"Chang","San Cristóbal","Venezuela","1997-08-22","17.00","25.00",False
+"Chang","Seattle","USA","1997-03-10","17.00","25.00",False
+"Chang","Seattle","USA","1997-04-11","17.00","25.00",False
+"Chang","Sevilla","Spain","1998-02-16","17.00","25.00",False
+"Chang","Stuttgart","Germany","1997-08-14","17.00","25.00",False
+"Chang","Toulouse","France","1997-12-19","17.00","25.00",False
+"Chang","Warszawa","Poland","1997-07-25","17.00","25.00",False
+"Chang","Warszawa","Poland","1997-12-23","17.00","25.00",False
+"Chartreuse verte","Albuquerque","USA","1998-05-06","69.00","5.00",True
+"Chartreuse verte","Anchorage","USA","1996-09-13","69.00","5.00",True
+"Chartreuse verte","Barquisimeto","Venezuela","1998-02-20","69.00","5.00",True
+"Chartreuse verte","Bergamo","Italy","1997-12-18","69.00","5.00",True
+"Chartreuse verte","Berlin","Germany","1997-08-25","69.00","5.00",True
+"Chartreuse verte","Bräcke","Sweden","1997-12-02","69.00","5.00",True
+"Chartreuse verte","Bräcke","Sweden","1998-03-26","69.00","5.00",True
+"Chartreuse verte","Brandenburg","Germany","1996-10-07","69.00","5.00",True
+"Chartreuse verte","Cork","Ireland","1997-09-09","69.00","5.00",True
+"Chartreuse verte","Cunewalde","Germany","1996-11-22","69.00","5.00",True
+"Chartreuse verte","Cunewalde","Germany","1998-02-02","69.00","5.00",True
+"Chartreuse verte","Graz","Austria","1997-12-03","69.00","5.00",True
+"Chartreuse verte","Graz","Austria","1998-02-18","69.00","5.00",True
+"Chartreuse verte","I. de Margarita","Venezuela","1998-01-19","69.00","5.00",True
+"Chartreuse verte","Kirkland","USA","1997-06-23","69.00","5.00",True
+"Chartreuse verte","Köln","Germany","1997-04-16","69.00","5.00",True
+"Chartreuse verte","Lisboa","Portugal","1997-03-17","69.00","5.00",True
+"Chartreuse verte","London","UK","1996-12-09","69.00","5.00",True
+"Chartreuse verte","Luleå","Sweden","1997-02-13","69.00","5.00",True
+"Chartreuse verte","Luleå","Sweden","1997-09-02","69.00","5.00",True
+"Chartreuse verte","Mannheim","Germany","1997-07-29","69.00","5.00",True
+"Chartreuse verte","Marseille","France","1998-01-12","69.00","5.00",True
+"Chartreuse verte","México D.F.","Mexico","1998-05-04","69.00","5.00",True
+"Chartreuse verte","Oulu","Finland","1997-02-24","69.00","5.00",True
+"Chartreuse verte","Rio de Janeiro","Brazil","1996-07-10","69.00","5.00",True
+"Chartreuse verte","Rio de Janeiro","Brazil","1997-08-27","69.00","5.00",True
+"Chartreuse verte","San Cristóbal","Venezuela","1996-07-16","69.00","5.00",True
+"Chartreuse verte","Sao Paulo","Brazil","1996-11-06","69.00","5.00",True
+"Chartreuse verte","Sao Paulo","Brazil","1998-01-13","69.00","5.00",True
+"Chartreuse verte","Strasbourg","France","1996-09-04","69.00","5.00",True
+"Chef Anton's Cajun Seasoning","Albuquerque","USA","1998-04-06","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Albuquerque","USA","1998-05-06","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Bergamo","Italy","1997-08-18","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Bergamo","Italy","1998-03-16","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Bräcke","Sweden","1997-05-12","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Charleroi","Belgium","1998-01-22","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Cork","Ireland","1996-09-19","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Cunewalde","Germany","1997-05-05","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Lisboa","Portugal","1996-10-23","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Lisboa","Portugal","1997-03-04","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","London","UK","1997-11-03","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Luleå","Sweden","1997-09-02","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Madrid","Spain","1996-10-10","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Marseille","France","1997-04-18","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Montréal","Canada","1996-10-28","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Oulu","Finland","1997-08-19","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Sao Paulo","Brazil","1997-07-22","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Sao Paulo","Brazil","1997-10-14","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Sao Paulo","Brazil","1998-02-26","53.00","0.00",True
+"Chef Anton's Cajun Seasoning","Seattle","USA","1996-11-01","53.00","0.00",True
+"Chef Anton's Gumbo Mix","Albuquerque","USA","1996-07-22","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Bergamo","Italy","1997-08-18","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Boise","USA","1998-04-17","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Buenos Aires","Argentina","1998-03-18","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Graz","Austria","1996-07-17","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Graz","Austria","1996-12-13","0.00","0.00",True
+"Chef Anton's Gumbo Mix","London","UK","1998-01-23","0.00","0.00",True
+"Chef Anton's Gumbo Mix","London","UK","1998-04-24","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Portland","USA","1997-10-17","0.00","0.00",True
+"Chef Anton's Gumbo Mix","Sao Paulo","Brazil","1996-08-27","0.00","0.00",True
+"Chocolade","Colchester","UK","1997-02-21","15.00","25.00",False
+"Chocolade","Graz","Austria","1997-01-03","15.00","25.00",False
+"Chocolade","Lisboa","Portugal","1997-07-18","15.00","25.00",False
+"Chocolade","Lyon","France","1998-01-05","15.00","25.00",False
+"Chocolade","México D.F.","Mexico","1997-04-15","15.00","25.00",False
+"Chocolade","Sao Paulo","Brazil","1997-10-14","15.00","25.00",False
+"Côte de Blaye","Albuquerque","USA","1997-03-19","17.00","15.00",True
+"Côte de Blaye","Albuquerque","USA","1998-02-16","17.00","15.00",True
+"Côte de Blaye","Brandenburg","Germany","1998-01-06","17.00","15.00",True
+"Côte de Blaye","Buenos Aires","Argentina","1998-01-13","17.00","15.00",True
+"Côte de Blaye","Cunewalde","Germany","1997-05-19","17.00","15.00",True
+"Côte de Blaye","Cunewalde","Germany","1998-02-02","17.00","15.00",True
+"Côte de Blaye","Eugene","USA","1997-07-31","17.00","15.00",True
+"Côte de Blaye","Eugene","USA","1998-01-06","17.00","15.00",True
+"Côte de Blaye","Graz","Austria","1996-11-11","17.00","15.00",True
+"Côte de Blaye","Kobenhavn","Denmark","1997-01-16","17.00","15.00",True
+"Côte de Blaye","Lander","USA","1996-10-15","17.00","15.00",True
+"Côte de Blaye","Luleå","Sweden","1997-09-17","17.00","15.00",True
+"Côte de Blaye","México D.F.","Mexico","1997-04-25","17.00","15.00",True
+"Côte de Blaye","Montréal","Canada","1997-01-23","17.00","15.00",True
+"Côte de Blaye","Paris","France","1998-03-20","17.00","15.00",True
+"Côte de Blaye","Portland","USA","1997-12-30","17.00","15.00",True
+"Côte de Blaye","Rio de Janeiro","Brazil","1997-05-19","17.00","15.00",True
+"Côte de Blaye","Rio de Janeiro","Brazil","1997-12-18","17.00","15.00",True
+"Côte de Blaye","Rio de Janeiro","Brazil","1998-03-27","17.00","15.00",True
+"Côte de Blaye","Salzburg","Austria","1996-11-13","17.00","15.00",True
+"Côte de Blaye","Sao Paulo","Brazil","1996-12-04","17.00","15.00",True
+"Côte de Blaye","Seattle","USA","1998-04-17","17.00","15.00",True
+"Côte de Blaye","Stavern","Norway","1998-01-14","17.00","15.00",True
+"Côte de Blaye","Strasbourg","France","1996-11-22","17.00","15.00",True
+"Escargots de Bourgogne","Albuquerque","USA","1996-09-25","62.00","20.00",True
+"Escargots de Bourgogne","Anchorage","USA","1997-07-09","62.00","20.00",True
+"Escargots de Bourgogne","Berlin","Germany","1998-04-09","62.00","20.00",True
+"Escargots de Bourgogne","Boise","USA","1997-10-22","62.00","20.00",True
+"Escargots de Bourgogne","Bräcke","Sweden","1996-10-11","62.00","20.00",True
+"Escargots de Bourgogne","Charleroi","Belgium","1998-03-06","62.00","20.00",True
+"Escargots de Bourgogne","Cork","Ireland","1996-12-05","62.00","20.00",True
+"Escargots de Bourgogne","Cork","Ireland","1997-09-09","62.00","20.00",True
+"Escargots de Bourgogne","Cunewalde","Germany","1998-01-21","62.00","20.00",True
+"Escargots de Bourgogne","Genève","Switzerland","1997-05-14","62.00","20.00",True
+"Escargots de Bourgogne","I. de Margarita","Venezuela","1997-10-08","62.00","20.00",True
+"Escargots de Bourgogne","München","Germany","1997-09-19","62.00","20.00",True
+"Escargots de Bourgogne","Oulu","Finland","1997-08-19","62.00","20.00",True
+"Escargots de Bourgogne","San Cristóbal","Venezuela","1998-02-02","62.00","20.00",True
+"Escargots de Bourgogne","Sao Paulo","Brazil","1998-01-19","62.00","20.00",True
+"Escargots de Bourgogne","Sao Paulo","Brazil","1998-02-26","62.00","20.00",True
+"Escargots de Bourgogne","Seattle","USA","1998-02-24","62.00","20.00",True
+"Escargots de Bourgogne","Warszawa","Poland","1996-12-05","62.00","20.00",True
+"Filo Mix","Albuquerque","USA","1998-05-06","38.00","25.00",True
+"Filo Mix","Anchorage","USA","1997-07-09","38.00","25.00",True
+"Filo Mix","Århus","Denmark","1997-12-08","38.00","25.00",True
+"Filo Mix","Barquisimeto","Venezuela","1998-04-03","38.00","25.00",True
+"Filo Mix","Butte","USA","1998-04-06","38.00","25.00",True
+"Filo Mix","Charleroi","Belgium","1998-04-21","38.00","25.00",True
+"Filo Mix","Colchester","UK","1997-06-04","38.00","25.00",True
+"Filo Mix","Colchester","UK","1997-12-24","38.00","25.00",True
+"Filo Mix","Frankfurt a.M.","Germany","1998-01-30","38.00","25.00",True
+"Filo Mix","Genève","Switzerland","1997-11-28","38.00","25.00",True
+"Filo Mix","London","UK","1996-12-19","38.00","25.00",True
+"Filo Mix","London","UK","1997-04-24","38.00","25.00",True
+"Filo Mix","Luleå","Sweden","1997-11-07","38.00","25.00",True
+"Filo Mix","Lyon","France","1996-10-21","38.00","25.00",True
+"Filo Mix","Madrid","Spain","1998-03-24","38.00","25.00",True
+"Filo Mix","México D.F.","Mexico","1996-10-04","38.00","25.00",True
+"Filo Mix","Münster","Germany","1997-02-14","38.00","25.00",True
+"Filo Mix","Nantes","France","1997-09-26","38.00","25.00",True
+"Filo Mix","Reggio Emilia","Italy","1997-07-02","38.00","25.00",True
+"Filo Mix","Reggio Emilia","Italy","1998-02-26","38.00","25.00",True
+"Filo Mix","Reims","France","1997-11-12","38.00","25.00",True
+"Filo Mix","Resende","Brazil","1998-01-01","38.00","25.00",True
+"Filo Mix","Rio de Janeiro","Brazil","1997-06-10","38.00","25.00",True
+"Filo Mix","Rio de Janeiro","Brazil","1998-03-04","38.00","25.00",True
+"Filo Mix","Sao Paulo","Brazil","1997-10-31","38.00","25.00",True
+"Filo Mix","Sao Paulo","Brazil","1998-03-19","38.00","25.00",True
+"Filo Mix","Strasbourg","France","1997-02-18","38.00","25.00",True
+"Filo Mix","Vancouver","Canada","1997-08-05","38.00","25.00",True
+"Filo Mix","Versailles","France","1998-03-05","38.00","25.00",True
+"Flotemysost","Albuquerque","USA","1997-01-01","26.00","0.00",True
+"Flotemysost","Albuquerque","USA","1997-07-14","26.00","0.00",True
+"Flotemysost","Århus","Denmark","1996-12-31","26.00","0.00",True
+"Flotemysost","Berlin","Germany","1998-04-09","26.00","0.00",True
+"Flotemysost","Boise","USA","1997-10-10","26.00","0.00",True
+"Flotemysost","Boise","USA","1998-01-22","26.00","0.00",True
+"Flotemysost","Boise","USA","1998-04-17","26.00","0.00",True
+"Flotemysost","Bräcke","Sweden","1996-12-10","26.00","0.00",True
+"Flotemysost","Charleroi","Belgium","1997-02-26","26.00","0.00",True
+"Flotemysost","Charleroi","Belgium","1998-04-21","26.00","0.00",True
+"Flotemysost","Colchester","UK","1997-12-08","26.00","0.00",True
+"Flotemysost","Cork","Ireland","1996-09-19","26.00","0.00",True
+"Flotemysost","Cork","Ireland","1996-12-05","26.00","0.00",True
+"Flotemysost","Cork","Ireland","1997-08-27","26.00","0.00",True
+"Flotemysost","Cork","Ireland","1997-10-13","26.00","0.00",True
+"Flotemysost","Cowes","UK","1997-03-13","26.00","0.00",True
+"Flotemysost","Cowes","UK","1997-08-05","26.00","0.00",True
+"Flotemysost","Cunewalde","Germany","1998-03-10","26.00","0.00",True
+"Flotemysost","Eugene","USA","1997-07-31","26.00","0.00",True
+"Flotemysost","Graz","Austria","1997-09-12","26.00","0.00",True
+"Flotemysost","Graz","Austria","1997-12-10","26.00","0.00",True
+"Flotemysost","Graz","Austria","1998-04-08","26.00","0.00",True
+"Flotemysost","Köln","Germany","1997-01-07","26.00","0.00",True
+"Flotemysost","London","UK","1996-11-26","26.00","0.00",True
+"Flotemysost","London","UK","1998-04-15","26.00","0.00",True
+"Flotemysost","Luleå","Sweden","1997-08-11","26.00","0.00",True
+"Flotemysost","Luleå","Sweden","1997-09-17","26.00","0.00",True
+"Flotemysost","Marseille","France","1997-10-23","26.00","0.00",True
+"Flotemysost","México D.F.","Mexico","1996-09-12","26.00","0.00",True
+"Flotemysost","Montréal","Canada","1997-07-21","26.00","0.00",True
+"Flotemysost","München","Germany","1996-12-27","26.00","0.00",True
+"Flotemysost","München","Germany","1998-04-09","26.00","0.00",True
+"Flotemysost","Oulu","Finland","1996-10-03","26.00","0.00",True
+"Flotemysost","Oulu","Finland","1996-10-18","26.00","0.00",True
+"Flotemysost","Oulu","Finland","1997-02-24","26.00","0.00",True
+"Flotemysost","Reims","France","1996-08-06","26.00","0.00",True
+"Flotemysost","Rio de Janeiro","Brazil","1997-02-14","26.00","0.00",True
+"Flotemysost","Rio de Janeiro","Brazil","1997-05-19","26.00","0.00",True
+"Flotemysost","Rio de Janeiro","Brazil","1997-10-28","26.00","0.00",True
+"Flotemysost","San Cristóbal","Venezuela","1998-02-23","26.00","0.00",True
+"Flotemysost","Sao Paulo","Brazil","1998-02-27","26.00","0.00",True
+"Flotemysost","Stavern","Norway","1996-12-18","26.00","0.00",True
+"Geitost","Boise","USA","1997-07-22","112.00","20.00",True
+"Geitost","Boise","USA","1997-09-23","112.00","20.00",True
+"Geitost","Boise","USA","1998-01-05","112.00","20.00",True
+"Geitost","Buenos Aires","Argentina","1998-04-28","112.00","20.00",True
+"Geitost","Charleroi","Belgium","1996-07-09","112.00","20.00",True
+"Geitost","Cowes","UK","1997-03-13","112.00","20.00",True
+"Geitost","Cunewalde","Germany","1996-08-05","112.00","20.00",True
+"Geitost","Cunewalde","Germany","1997-04-23","112.00","20.00",True
+"Geitost","Elgin","USA","1997-01-15","112.00","20.00",True
+"Geitost","Eugene","USA","1997-05-06","112.00","20.00",True
+"Geitost","Frankfurt a.M.","Germany","1997-05-14","112.00","20.00",True
+"Geitost","Genève","Switzerland","1998-03-16","112.00","20.00",True
+"Geitost","Graz","Austria","1996-12-13","112.00","20.00",True
+"Geitost","Kirkland","USA","1997-06-19","112.00","20.00",True
+"Geitost","Kobenhavn","Denmark","1996-10-29","112.00","20.00",True
+"Geitost","Lander","USA","1996-08-01","112.00","20.00",True
+"Geitost","London","UK","1997-05-16","112.00","20.00",True
+"Geitost","London","UK","1998-04-15","112.00","20.00",True
+"Geitost","Lyon","France","1998-01-23","112.00","20.00",True
+"Geitost","México D.F.","Mexico","1997-09-22","112.00","20.00",True
+"Geitost","México D.F.","Mexico","1997-09-25","112.00","20.00",True
+"Geitost","México D.F.","Mexico","1998-02-27","112.00","20.00",True
+"Geitost","Reggio Emilia","Italy","1997-06-09","112.00","20.00",True
+"Geitost","Sao Paulo","Brazil","1997-01-14","112.00","20.00",True
+"Geitost","Sao Paulo","Brazil","1998-02-26","112.00","20.00",True
+"Geitost","Seattle","USA","1996-07-31","112.00","20.00",True
+"Geitost","Seattle","USA","1998-01-30","112.00","20.00",True
+"Geitost","Stuttgart","Germany","1997-08-14","112.00","20.00",True
+"Geitost","Toulouse","France","1997-02-21","112.00","20.00",True
+"Geitost","Tsawassen","Canada","1997-01-10","112.00","20.00",True
+"Geitost","Tsawassen","Canada","1998-04-23","112.00","20.00",True
+"Geitost","Versailles","France","1998-03-24","112.00","20.00",True
+"Genen Shouyu","Barquisimeto","Venezuela","1996-08-16","39.00","5.00",True
+"Genen Shouyu","Boise","USA","1997-09-04","39.00","5.00",True
+"Genen Shouyu","Brandenburg","Germany","1996-10-07","39.00","5.00",True
+"Genen Shouyu","Frankfurt a.M.","Germany","1997-07-08","39.00","5.00",True
+"Genen Shouyu","San Francisco","USA","1997-06-25","39.00","5.00",True
+"Genen Shouyu","Toulouse","France","1997-04-09","39.00","5.00",True
+"Gnocchi di nonna Alice","Albuquerque","USA","1996-07-22","21.00","30.00",False
+"Gnocchi di nonna Alice","Albuquerque","USA","1996-11-05","21.00","30.00",False
+"Gnocchi di nonna Alice","Albuquerque","USA","1997-01-01","21.00","30.00",False
+"Gnocchi di nonna Alice","Albuquerque","USA","1998-01-07","21.00","30.00",False
+"Gnocchi di nonna Alice","Anchorage","USA","1998-01-01","21.00","30.00",False
+"Gnocchi di nonna Alice","Anchorage","USA","1998-01-27","21.00","30.00",False
+"Gnocchi di nonna Alice","Barcelona","Spain","1997-01-27","21.00","30.00",False
+"Gnocchi di nonna Alice","Bern","Switzerland","1997-04-28","21.00","30.00",False
+"Gnocchi di nonna Alice","Bern","Switzerland","1998-03-20","21.00","30.00",False
+"Gnocchi di nonna Alice","Bern","Switzerland","1998-04-16","21.00","30.00",False
+"Gnocchi di nonna Alice","Boise","USA","1997-06-02","21.00","30.00",False
+"Gnocchi di nonna Alice","Boise","USA","1997-09-04","21.00","30.00",False
+"Gnocchi di nonna Alice","Boise","USA","1997-10-22","21.00","30.00",False
+"Gnocchi di nonna Alice","Boise","USA","1997-11-20","21.00","30.00",False
+"Gnocchi di nonna Alice","Bräcke","Sweden","1997-12-02","21.00","30.00",False
+"Gnocchi di nonna Alice","Bruxelles","Belgium","1998-02-19","21.00","30.00",False
+"Gnocchi di nonna Alice","Campinas","Brazil","1997-12-22","21.00","30.00",False
+"Gnocchi di nonna Alice","Charleroi","Belgium","1997-02-26","21.00","30.00",False
+"Gnocchi di nonna Alice","Charleroi","Belgium","1998-01-20","21.00","30.00",False
+"Gnocchi di nonna Alice","Colchester","UK","1996-12-16","21.00","30.00",False
+"Gnocchi di nonna Alice","Cork","Ireland","1997-10-21","21.00","30.00",False
+"Gnocchi di nonna Alice","Cowes","UK","1997-11-20","21.00","30.00",False
+"Gnocchi di nonna Alice","Eugene","USA","1997-07-31","21.00","30.00",False
+"Gnocchi di nonna Alice","Frankfurt a.M.","Germany","1997-04-04","21.00","30.00",False
+"Gnocchi di nonna Alice","Graz","Austria","1997-01-30","21.00","30.00",False
+"Gnocchi di nonna Alice","Graz","Austria","1997-04-22","21.00","30.00",False
+"Gnocchi di nonna Alice","Lander","USA","1996-10-15","21.00","30.00",False
+"Gnocchi di nonna Alice","Lander","USA","1996-12-02","21.00","30.00",False
+"Gnocchi di nonna Alice","Lisboa","Portugal","1997-02-03","21.00","30.00",False
+"Gnocchi di nonna Alice","Lisboa","Portugal","1997-03-04","21.00","30.00",False
+"Gnocchi di nonna Alice","Lisboa","Portugal","1997-09-10","21.00","30.00",False
+"Gnocchi di nonna Alice","London","UK","1997-03-11","21.00","30.00",False
+"Gnocchi di nonna Alice","Marseille","France","1997-11-26","21.00","30.00",False
+"Gnocchi di nonna Alice","Montréal","Canada","1997-06-17","21.00","30.00",False
+"Gnocchi di nonna Alice","Montréal","Canada","1997-08-01","21.00","30.00",False
+"Gnocchi di nonna Alice","Münster","Germany","1997-07-23","21.00","30.00",False
+"Gnocchi di nonna Alice","Oulu","Finland","1997-05-05","21.00","30.00",False
+"Gnocchi di nonna Alice","Oulu","Finland","1997-12-17","21.00","30.00",False
+"Gnocchi di nonna Alice","Portland","USA","1998-04-13","21.00","30.00",False
+"Gnocchi di nonna Alice","Reggio Emilia","Italy","1997-11-03","21.00","30.00",False
+"Gnocchi di nonna Alice","Reims","France","1996-09-02","21.00","30.00",False
+"Gnocchi di nonna Alice","Rio de Janeiro","Brazil","1997-10-02","21.00","30.00",False
+"Gnocchi di nonna Alice","San Francisco","USA","1998-02-12","21.00","30.00",False
+"Gnocchi di nonna Alice","Sao Paulo","Brazil","1997-04-02","21.00","30.00",False
+"Gnocchi di nonna Alice","Sao Paulo","Brazil","1997-08-19","21.00","30.00",False
+"Gnocchi di nonna Alice","Seattle","USA","1997-07-11","21.00","30.00",False
+"Gnocchi di nonna Alice","Seattle","USA","1997-11-13","21.00","30.00",False
+"Gnocchi di nonna Alice","Strasbourg","France","1997-02-05","21.00","30.00",False
+"Gnocchi di nonna Alice","Stuttgart","Germany","1996-09-09","21.00","30.00",False
+"Gnocchi di nonna Alice","Tsawassen","Canada","1998-03-12","21.00","30.00",False
+"Gorgonzola Telino","Aachen","Germany","1996-11-26","0.00","20.00",False
+"Gorgonzola Telino","Albuquerque","USA","1996-08-02","0.00","20.00",False
+"Gorgonzola Telino","Albuquerque","USA","1997-06-10","0.00","20.00",False
+"Gorgonzola Telino","Albuquerque","USA","1997-06-16","0.00","20.00",False
+"Gorgonzola Telino","Anchorage","USA","1997-09-24","0.00","20.00",False
+"Gorgonzola Telino","Anchorage","USA","1998-01-27","0.00","20.00",False
+"Gorgonzola Telino","Boise","USA","1996-12-25","0.00","20.00",False
+"Gorgonzola Telino","Boise","USA","1997-10-29","0.00","20.00",False
+"Gorgonzola Telino","Boise","USA","1998-03-11","0.00","20.00",False
+"Gorgonzola Telino","Bräcke","Sweden","1997-12-11","0.00","20.00",False
+"Gorgonzola Telino","Brandenburg","Germany","1996-10-09","0.00","20.00",False
+"Gorgonzola Telino","Buenos Aires","Argentina","1997-12-17","0.00","20.00",False
+"Gorgonzola Telino","Campinas","Brazil","1997-01-23","0.00","20.00",False
+"Gorgonzola Telino","Charleroi","Belgium","1997-03-14","0.00","20.00",False
+"Gorgonzola Telino","Colchester","UK","1997-12-08","0.00","20.00",False
+"Gorgonzola Telino","Colchester","UK","1998-03-16","0.00","20.00",False
+"Gorgonzola Telino","Colchester","UK","1998-04-10","0.00","20.00",False
+"Gorgonzola Telino","Cork","Ireland","1996-10-22","0.00","20.00",False
+"Gorgonzola Telino","Cork","Ireland","1997-06-12","0.00","20.00",False
+"Gorgonzola Telino","Cunewalde","Germany","1996-08-05","0.00","20.00",False
+"Gorgonzola Telino","Cunewalde","Germany","1997-05-27","0.00","20.00",False
+"Gorgonzola Telino","Frankfurt a.M.","Germany","1997-05-14","0.00","20.00",False
+"Gorgonzola Telino","Frankfurt a.M.","Germany","1998-05-05","0.00","20.00",False
+"Gorgonzola Telino","Genève","Switzerland","1997-05-14","0.00","20.00",False
+"Gorgonzola Telino","Graz","Austria","1996-12-23","0.00","20.00",False
+"Gorgonzola Telino","Graz","Austria","1997-12-11","0.00","20.00",False
+"Gorgonzola Telino","Graz","Austria","1997-12-15","0.00","20.00",False
+"Gorgonzola Telino","Graz","Austria","1998-03-26","0.00","20.00",False
+"Gorgonzola Telino","I. de Margarita","Venezuela","1998-03-17","0.00","20.00",False
+"Gorgonzola Telino","Köln","Germany","1998-01-15","0.00","20.00",False
+"Gorgonzola Telino","Leipzig","Germany","1998-03-12","0.00","20.00",False
+"Gorgonzola Telino","London","UK","1996-11-21","0.00","20.00",False
+"Gorgonzola Telino","Marseille","France","1997-11-05","0.00","20.00",False
+"Gorgonzola Telino","México D.F.","Mexico","1997-06-23","0.00","20.00",False
+"Gorgonzola Telino","Montréal","Canada","1996-12-09","0.00","20.00",False
+"Gorgonzola Telino","München","Germany","1996-10-30","0.00","20.00",False
+"Gorgonzola Telino","Münster","Germany","1997-02-14","0.00","20.00",False
+"Gorgonzola Telino","Oulu","Finland","1997-05-30","0.00","20.00",False
+"Gorgonzola Telino","Reggio Emilia","Italy","1998-01-02","0.00","20.00",False
+"Gorgonzola Telino","Rio de Janeiro","Brazil","1996-07-10","0.00","20.00",False
+"Gorgonzola Telino","Rio de Janeiro","Brazil","1997-12-18","0.00","20.00",False
+"Gorgonzola Telino","Rio de Janeiro","Brazil","1998-02-13","0.00","20.00",False
+"Gorgonzola Telino","Salzburg","Austria","1997-11-19","0.00","20.00",False
+"Gorgonzola Telino","San Cristóbal","Venezuela","1997-10-15","0.00","20.00",False
+"Gorgonzola Telino","Sao Paulo","Brazil","1997-04-04","0.00","20.00",False
+"Gorgonzola Telino","Sao Paulo","Brazil","1997-09-05","0.00","20.00",False
+"Gorgonzola Telino","Strasbourg","France","1997-06-30","0.00","20.00",False
+"Gorgonzola Telino","Strasbourg","France","1998-01-12","0.00","20.00",False
+"Gorgonzola Telino","Stuttgart","Germany","1996-11-18","0.00","20.00",False
+"Gorgonzola Telino","Stuttgart","Germany","1997-09-15","0.00","20.00",False
+"Gorgonzola Telino","Warszawa","Poland","1996-12-05","0.00","20.00",False
+"Grandma's Boysenberry Spread","Albuquerque","USA","1998-05-06","120.00","25.00",True
+"Grandma's Boysenberry Spread","Berlin","Germany","1998-03-16","120.00","25.00",True
+"Grandma's Boysenberry Spread","Brandenburg","Germany","1996-10-09","120.00","25.00",True
+"Grandma's Boysenberry Spread","Campinas","Brazil","1997-11-07","120.00","25.00",True
+"Grandma's Boysenberry Spread","Cork","Ireland","1996-09-19","120.00","25.00",True
+"Grandma's Boysenberry Spread","Frankfurt a.M.","Germany","1998-03-09","120.00","25.00",True
+"Grandma's Boysenberry Spread","Marseille","France","1998-02-05","120.00","25.00",True
+"Grandma's Boysenberry Spread","Marseille","France","1998-05-06","120.00","25.00",True
+"Grandma's Boysenberry Spread","Montréal","Canada","1997-08-01","120.00","25.00",True
+"Grandma's Boysenberry Spread","Rio de Janeiro","Brazil","1998-03-31","120.00","25.00",True
+"Grandma's Boysenberry Spread","Sao Paulo","Brazil","1998-01-13","120.00","25.00",True
+"Grandma's Boysenberry Spread","Tsawassen","Canada","1998-03-13","120.00","25.00",True
+"Gravad lax","Bern","Switzerland","1998-03-20","11.00","25.00",False
+"Gravad lax","Boise","USA","1998-01-22","11.00","25.00",False
+"Gravad lax","Lille","France","1997-01-08","11.00","25.00",False
+"Gravad lax","London","UK","1997-05-01","11.00","25.00",False
+"Gravad lax","México D.F.","Mexico","1996-07-18","11.00","25.00",False
+"Gravad lax","München","Germany","1996-10-24","11.00","25.00",False
+"Guaraná Fantástica","Albuquerque","USA","1998-04-06","20.00","0.00",True
+"Guaraná Fantástica","Århus","Denmark","1997-03-05","20.00","0.00",True
+"Guaraná Fantástica","Århus","Denmark","1998-03-12","20.00","0.00",True
+"Guaraná Fantástica","Bergamo","Italy","1996-08-07","20.00","0.00",True
+"Guaraná Fantástica","Bergamo","Italy","1997-03-06","20.00","0.00",True
+"Guaraná Fantástica","Bern","Switzerland","1996-07-11","20.00","0.00",True
+"Guaraná Fantástica","Boise","USA","1997-06-02","20.00","0.00",True
+"Guaraná Fantástica","Boise","USA","1998-03-30","20.00","0.00",True
+"Guaraná Fantástica","Boise","USA","1998-04-17","20.00","0.00",True
+"Guaraná Fantástica","Brandenburg","Germany","1997-12-26","20.00","0.00",True
+"Guaraná Fantástica","Brandenburg","Germany","1998-02-18","20.00","0.00",True
+"Guaraná Fantástica","Charleroi","Belgium","1998-02-12","20.00","0.00",True
+"Guaraná Fantástica","Colchester","UK","1996-11-15","20.00","0.00",True
+"Guaraná Fantástica","Graz","Austria","1996-07-23","20.00","0.00",True
+"Guaraná Fantástica","Graz","Austria","1998-02-18","20.00","0.00",True
+"Guaraná Fantástica","Graz","Austria","1998-03-23","20.00","0.00",True
+"Guaraná Fantástica","Graz","Austria","1998-03-26","20.00","0.00",True
+"Guaraná Fantástica","Helsinki","Finland","1997-10-07","20.00","0.00",True
+"Guaraná Fantástica","Lille","France","1997-12-03","20.00","0.00",True
+"Guaraná Fantástica","Lisboa","Portugal","1996-11-12","20.00","0.00",True
+"Guaraná Fantástica","London","UK","1997-03-12","20.00","0.00",True
+"Guaraná Fantástica","Luleå","Sweden","1996-08-14","20.00","0.00",True
+"Guaraná Fantástica","Luleå","Sweden","1998-02-03","20.00","0.00",True
+"Guaraná Fantástica","Madrid","Spain","1996-08-14","20.00","0.00",True
+"Guaraná Fantástica","México D.F.","Mexico","1996-08-29","20.00","0.00",True
+"Guaraná Fantástica","México D.F.","Mexico","1997-04-25","20.00","0.00",True
+"Guaraná Fantástica","México D.F.","Mexico","1998-05-05","20.00","0.00",True
+"Guaraná Fantástica","Montréal","Canada","1997-06-11","20.00","0.00",True
+"Guaraná Fantástica","München","Germany","1997-08-07","20.00","0.00",True
+"Guaraná Fantástica","München","Germany","1998-01-29","20.00","0.00",True
+"Guaraná Fantástica","Münster","Germany","1997-02-14","20.00","0.00",True
+"Guaraná Fantástica","Portland","USA","1998-02-12","20.00","0.00",True
+"Guaraná Fantástica","Reggio Emilia","Italy","1998-04-09","20.00","0.00",True
+"Guaraná Fantástica","Rio de Janeiro","Brazil","1997-05-19","20.00","0.00",True
+"Guaraná Fantástica","Rio de Janeiro","Brazil","1997-08-28","20.00","0.00",True
+"Guaraná Fantástica","Rio de Janeiro","Brazil","1998-03-03","20.00","0.00",True
+"Guaraná Fantástica","Salzburg","Austria","1997-07-11","20.00","0.00",True
+"Guaraná Fantástica","San Cristóbal","Venezuela","1997-04-07","20.00","0.00",True
+"Guaraná Fantástica","San Cristóbal","Venezuela","1998-03-19","20.00","0.00",True
+"Guaraná Fantástica","San Cristóbal","Venezuela","1998-04-28","20.00","0.00",True
+"Guaraná Fantástica","Sao Paulo","Brazil","1996-12-18","20.00","0.00",True
+"Guaraná Fantástica","Sao Paulo","Brazil","1997-04-21","20.00","0.00",True
+"Guaraná Fantástica","Sao Paulo","Brazil","1997-10-14","20.00","0.00",True
+"Guaraná Fantástica","Sevilla","Spain","1998-04-08","20.00","0.00",True
+"Guaraná Fantástica","Stavern","Norway","1996-12-18","20.00","0.00",True
+"Guaraná Fantástica","Stavern","Norway","1997-04-29","20.00","0.00",True
+"Guaraná Fantástica","Toulouse","France","1996-11-20","20.00","0.00",True
+"Guaraná Fantástica","Toulouse","France","1998-04-27","20.00","0.00",True
+"Guaraná Fantástica","Tsawassen","Canada","1998-04-16","20.00","0.00",True
+"Guaraná Fantástica","Vancouver","Canada","1997-08-05","20.00","0.00",True
+"Guaraná Fantástica","Warszawa","Poland","1998-04-03","20.00","0.00",True
+"Gudbrandsdalsost","Barquisimeto","Venezuela","1996-09-03","26.00","15.00",True
+"Gudbrandsdalsost","Bern","Switzerland","1997-11-19","26.00","15.00",True
+"Gudbrandsdalsost","Boise","USA","1998-02-18","26.00","15.00",True
+"Gudbrandsdalsost","Bruxelles","Belgium","1997-05-07","26.00","15.00",True
+"Gudbrandsdalsost","Cunewalde","Germany","1998-03-19","26.00","15.00",True
+"Gudbrandsdalsost","Frankfurt a.M.","Germany","1997-07-09","26.00","15.00",True
+"Gudbrandsdalsost","Genève","Switzerland","1997-01-20","26.00","15.00",True
+"Gudbrandsdalsost","Genève","Switzerland","1998-04-17","26.00","15.00",True
+"Gudbrandsdalsost","Graz","Austria","1997-07-10","26.00","15.00",True
+"Gudbrandsdalsost","Graz","Austria","1997-09-12","26.00","15.00",True
+"Gudbrandsdalsost","Köln","Germany","1997-01-07","26.00","15.00",True
+"Gudbrandsdalsost","Lander","USA","1997-11-27","26.00","15.00",True
+"Gudbrandsdalsost","London","UK","1996-11-26","26.00","15.00",True
+"Gudbrandsdalsost","London","UK","1997-11-24","26.00","15.00",True
+"Gudbrandsdalsost","Marseille","France","1997-11-26","26.00","15.00",True
+"Gudbrandsdalsost","México D.F.","Mexico","1996-09-18","26.00","15.00",True
+"Gudbrandsdalsost","München","Germany","1997-10-24","26.00","15.00",True
+"Gudbrandsdalsost","Nantes","France","1996-09-20","26.00","15.00",True
+"Gudbrandsdalsost","Oulu","Finland","1997-06-30","26.00","15.00",True
+"Gudbrandsdalsost","Paris","France","1998-03-20","26.00","15.00",True
+"Gudbrandsdalsost","Rio de Janeiro","Brazil","1998-04-14","26.00","15.00",True
+"Gudbrandsdalsost","Salzburg","Austria","1996-12-24","26.00","15.00",True
+"Gudbrandsdalsost","Salzburg","Austria","1997-11-19","26.00","15.00",True
+"Gudbrandsdalsost","San Cristóbal","Venezuela","1996-12-26","26.00","15.00",True
+"Gudbrandsdalsost","San Cristóbal","Venezuela","1997-05-29","26.00","15.00",True
+"Gudbrandsdalsost","San Cristóbal","Venezuela","1997-12-25","26.00","15.00",True
+"Gudbrandsdalsost","Seattle","USA","1997-10-06","26.00","15.00",True
+"Gudbrandsdalsost","Stuttgart","Germany","1996-11-18","26.00","15.00",True
+"Gudbrandsdalsost","Stuttgart","Germany","1997-08-21","26.00","15.00",True
+"Gudbrandsdalsost","Toulouse","France","1996-11-11","26.00","15.00",True
+"Gudbrandsdalsost","Toulouse","France","1997-04-02","26.00","15.00",True
+"Gula Malacca","Anchorage","USA","1998-04-20","27.00","15.00",True
+"Gula Malacca","Boise","USA","1997-02-20","27.00","15.00",True
+"Gula Malacca","Bräcke","Sweden","1997-06-06","27.00","15.00",True
+"Gula Malacca","Bruxelles","Belgium","1998-03-26","27.00","15.00",True
+"Gula Malacca","Butte","USA","1997-08-07","27.00","15.00",True
+"Gula Malacca","Cunewalde","Germany","1997-10-03","27.00","15.00",True
+"Gula Malacca","Cunewalde","Germany","1997-10-29","27.00","15.00",True
+"Gula Malacca","Cunewalde","Germany","1997-11-18","27.00","15.00",True
+"Gula Malacca","Eugene","USA","1997-09-04","27.00","15.00",True
+"Gula Malacca","Frankfurt a.M.","Germany","1996-08-19","27.00","15.00",True
+"Gula Malacca","Graz","Austria","1996-11-11","27.00","15.00",True
+"Gula Malacca","Lisboa","Portugal","1997-03-31","27.00","15.00",True
+"Gula Malacca","Lisboa","Portugal","1997-05-28","27.00","15.00",True
+"Gula Malacca","Luleå","Sweden","1996-08-12","27.00","15.00",True
+"Gula Malacca","México D.F.","Mexico","1997-04-25","27.00","15.00",True
+"Gula Malacca","México D.F.","Mexico","1997-06-23","27.00","15.00",True
+"Gula Malacca","México D.F.","Mexico","1997-09-22","27.00","15.00",True
+"Gula Malacca","Rio de Janeiro","Brazil","1996-08-27","27.00","15.00",True
+"Gula Malacca","San Cristóbal","Venezuela","1997-12-25","27.00","15.00",True
+"Gula Malacca","Sao Paulo","Brazil","1998-04-22","27.00","15.00",True
+"Gula Malacca","Seattle","USA","1997-03-10","27.00","15.00",True
+"Gula Malacca","Toulouse","France","1998-01-14","27.00","15.00",True
+"Gula Malacca","Tsawassen","Canada","1997-01-10","27.00","15.00",True
+"Gula Malacca","Tsawassen","Canada","1998-03-12","27.00","15.00",True
+"Gumbär Gummibärchen","Aachen","Germany","1998-01-09","15.00","0.00",True
+"Gumbär Gummibärchen","Barquisimeto","Venezuela","1996-10-16","15.00","0.00",True
+"Gumbär Gummibärchen","Barquisimeto","Venezuela","1996-11-19","15.00","0.00",True
+"Gumbär Gummibärchen","Bergamo","Italy","1997-01-03","15.00","0.00",True
+"Gumbär Gummibärchen","Boise","USA","1996-12-25","15.00","0.00",True
+"Gumbär Gummibärchen","Boise","USA","1997-10-22","15.00","0.00",True
+"Gumbär Gummibärchen","Brandenburg","Germany","1998-01-06","15.00","0.00",True
+"Gumbär Gummibärchen","Brandenburg","Germany","1998-01-23","15.00","0.00",True
+"Gumbär Gummibärchen","Bruxelles","Belgium","1998-04-07","15.00","0.00",True
+"Gumbär Gummibärchen","Buenos Aires","Argentina","1997-02-17","15.00","0.00",True
+"Gumbär Gummibärchen","Charleroi","Belgium","1997-02-26","15.00","0.00",True
+"Gumbär Gummibärchen","Cunewalde","Germany","1997-05-19","15.00","0.00",True
+"Gumbär Gummibärchen","Cunewalde","Germany","1998-04-14","15.00","0.00",True
+"Gumbär Gummibärchen","Frankfurt a.M.","Germany","1997-07-08","15.00","0.00",True
+"Gumbär Gummibärchen","Genève","Switzerland","1997-11-24","15.00","0.00",True
+"Gumbär Gummibärchen","Genève","Switzerland","1997-11-28","15.00","0.00",True
+"Gumbär Gummibärchen","Graz","Austria","1997-08-15","15.00","0.00",True
+"Gumbär Gummibärchen","Lander","USA","1997-01-31","15.00","0.00",True
+"Gumbär Gummibärchen","London","UK","1998-04-15","15.00","0.00",True
+"Gumbär Gummibärchen","Luleå","Sweden","1997-02-12","15.00","0.00",True
+"Gumbär Gummibärchen","Luleå","Sweden","1998-01-28","15.00","0.00",True
+"Gumbär Gummibärchen","México D.F.","Mexico","1997-09-22","15.00","0.00",True
+"Gumbär Gummibärchen","München","Germany","1996-10-24","15.00","0.00",True
+"Gumbär Gummibärchen","Rio de Janeiro","Brazil","1997-01-21","15.00","0.00",True
+"Gumbär Gummibärchen","Rio de Janeiro","Brazil","1997-07-02","15.00","0.00",True
+"Gumbär Gummibärchen","Salzburg","Austria","1997-09-30","15.00","0.00",True
+"Gumbär Gummibärchen","San Cristóbal","Venezuela","1997-12-25","15.00","0.00",True
+"Gumbär Gummibärchen","Sao Paulo","Brazil","1997-03-26","15.00","0.00",True
+"Gumbär Gummibärchen","Sao Paulo","Brazil","1998-02-04","15.00","0.00",True
+"Gumbär Gummibärchen","Seattle","USA","1997-10-30","15.00","0.00",True
+"Gumbär Gummibärchen","Torino","Italy","1997-01-22","15.00","0.00",True
+"Gumbär Gummibärchen","Versailles","France","1998-03-24","15.00","0.00",True
+"Gustaf's Knäckebröd","Bergamo","Italy","1997-08-18","104.00","25.00",True
+"Gustaf's Knäckebröd","Boise","USA","1997-07-18","104.00","25.00",True
+"Gustaf's Knäckebröd","Bräcke","Sweden","1998-04-06","104.00","25.00",True
+"Gustaf's Knäckebröd","Colchester","UK","1997-12-08","104.00","25.00",True
+"Gustaf's Knäckebröd","Graz","Austria","1998-01-16","104.00","25.00",True
+"Gustaf's Knäckebröd","Lille","France","1997-12-03","104.00","25.00",True
+"Gustaf's Knäckebröd","London","UK","1997-02-04","104.00","25.00",True
+"Gustaf's Knäckebröd","London","UK","1998-03-11","104.00","25.00",True
+"Gustaf's Knäckebröd","Lyon","France","1996-07-08","104.00","25.00",True
+"Gustaf's Knäckebröd","Montréal","Canada","1997-08-04","104.00","25.00",True
+"Gustaf's Knäckebröd","Oulu","Finland","1997-05-30","104.00","25.00",True
+"Gustaf's Knäckebröd","Rio de Janeiro","Brazil","1997-08-28","104.00","25.00",True
+"Gustaf's Knäckebröd","Salzburg","Austria","1998-01-21","104.00","25.00",True
+"Gustaf's Knäckebröd","Stuttgart","Germany","1997-09-01","104.00","25.00",True
+"Ikura","Albuquerque","USA","1998-05-06","31.00","0.00",True
+"Ikura","Århus","Denmark","1997-10-01","31.00","0.00",True
+"Ikura","Århus","Denmark","1998-03-12","31.00","0.00",True
+"Ikura","Barcelona","Spain","1997-06-13","31.00","0.00",True
+"Ikura","Barquisimeto","Venezuela","1996-11-19","31.00","0.00",True
+"Ikura","Bern","Switzerland","1997-04-28","31.00","0.00",True
+"Ikura","Boise","USA","1997-07-28","31.00","0.00",True
+"Ikura","Boise","USA","1997-10-22","31.00","0.00",True
+"Ikura","Butte","USA","1997-12-12","31.00","0.00",True
+"Ikura","Campinas","Brazil","1997-09-29","31.00","0.00",True
+"Ikura","Caracas","Venezuela","1997-12-18","31.00","0.00",True
+"Ikura","Charleroi","Belgium","1998-01-20","31.00","0.00",True
+"Ikura","Cork","Ireland","1997-08-27","31.00","0.00",True
+"Ikura","Cunewalde","Germany","1996-08-05","31.00","0.00",True
+"Ikura","Graz","Austria","1998-01-27","31.00","0.00",True
+"Ikura","Köln","Germany","1998-04-14","31.00","0.00",True
+"Ikura","Lisboa","Portugal","1997-09-10","31.00","0.00",True
+"Ikura","London","UK","1997-12-30","31.00","0.00",True
+"Ikura","Luleå","Sweden","1997-05-01","31.00","0.00",True
+"Ikura","Luleå","Sweden","1998-03-04","31.00","0.00",True
+"Ikura","Lyon","France","1997-02-19","31.00","0.00",True
+"Ikura","Lyon","France","1997-03-18","31.00","0.00",True
+"Ikura","Marseille","France","1997-10-23","31.00","0.00",True
+"Ikura","Marseille","France","1998-01-12","31.00","0.00",True
+"Ikura","México D.F.","Mexico","1996-08-08","31.00","0.00",True
+"Ikura","México D.F.","Mexico","1997-09-22","31.00","0.00",True
+"Ikura","Montréal","Canada","1997-10-30","31.00","0.00",True
+"Ikura","Nantes","France","1997-07-24","31.00","0.00",True
+"Ikura","Rio de Janeiro","Brazil","1998-02-13","31.00","0.00",True
+"Ikura","Sevilla","Spain","1998-02-06","31.00","0.00",True
+"Ikura","Strasbourg","France","1997-02-18","31.00","0.00",True
+"Ikura","Tsawassen","Canada","1996-12-20","31.00","0.00",True
+"Ikura","Tsawassen","Canada","1998-03-13","31.00","0.00",True
+"Inlagd Sill","Bergamo","Italy","1997-12-18","112.00","20.00",True
+"Inlagd Sill","Boise","USA","1997-07-28","112.00","20.00",True
+"Inlagd Sill","Boise","USA","1998-03-30","112.00","20.00",True
+"Inlagd Sill","Brandenburg","Germany","1997-10-27","112.00","20.00",True
+"Inlagd Sill","Brandenburg","Germany","1998-02-18","112.00","20.00",True
+"Inlagd Sill","Colchester","UK","1998-04-10","112.00","20.00",True
+"Inlagd Sill","Cork","Ireland","1996-09-05","112.00","20.00",True
+"Inlagd Sill","Cork","Ireland","1997-09-30","112.00","20.00",True
+"Inlagd Sill","Cunewalde","Germany","1996-09-24","112.00","20.00",True
+"Inlagd Sill","Cunewalde","Germany","1997-05-05","112.00","20.00",True
+"Inlagd Sill","Eugene","USA","1998-03-09","112.00","20.00",True
+"Inlagd Sill","Genève","Switzerland","1996-07-12","112.00","20.00",True
+"Inlagd Sill","I. de Margarita","Venezuela","1998-01-19","112.00","20.00",True
+"Inlagd Sill","Kobenhavn","Denmark","1997-09-15","112.00","20.00",True
+"Inlagd Sill","Lander","USA","1997-11-27","112.00","20.00",True
+"Inlagd Sill","London","UK","1997-05-23","112.00","20.00",True
+"Inlagd Sill","Marseille","France","1997-05-02","112.00","20.00",True
+"Inlagd Sill","München","Germany","1996-10-24","112.00","20.00",True
+"Inlagd Sill","München","Germany","1996-10-30","112.00","20.00",True
+"Inlagd Sill","Oulu","Finland","1996-08-01","112.00","20.00",True
+"Inlagd Sill","Portland","USA","1997-10-17","112.00","20.00",True
+"Inlagd Sill","Reims","France","1997-11-12","112.00","20.00",True
+"Inlagd Sill","Rio de Janeiro","Brazil","1997-06-10","112.00","20.00",True
+"Inlagd Sill","Rio de Janeiro","Brazil","1997-08-26","112.00","20.00",True
+"Inlagd Sill","Rio de Janeiro","Brazil","1998-03-04","112.00","20.00",True
+"Inlagd Sill","Sao Paulo","Brazil","1997-01-07","112.00","20.00",True
+"Inlagd Sill","Seattle","USA","1998-04-17","112.00","20.00",True
+"Inlagd Sill","Sevilla","Spain","1998-04-08","112.00","20.00",True
+"Inlagd Sill","Toulouse","France","1996-11-20","112.00","20.00",True
+"Inlagd Sill","Toulouse","France","1996-12-03","112.00","20.00",True
+"Inlagd Sill","Toulouse","France","1997-07-25","112.00","20.00",True
+"Ipoh Coffee","Albuquerque","USA","1996-08-30","17.00","25.00",False
+"Ipoh Coffee","Anchorage","USA","1997-10-16","17.00","25.00",False
+"Ipoh Coffee","Brandenburg","Germany","1997-03-07","17.00","25.00",False
+"Ipoh Coffee","Bruxelles","Belgium","1997-12-01","17.00","25.00",False
+"Ipoh Coffee","Buenos Aires","Argentina","1998-01-07","17.00","25.00",False
+"Ipoh Coffee","Charleroi","Belgium","1996-09-10","17.00","25.00",False
+"Ipoh Coffee","Charleroi","Belgium","1997-02-26","17.00","25.00",False
+"Ipoh Coffee","Cork","Ireland","1996-09-19","17.00","25.00",False
+"Ipoh Coffee","Cunewalde","Germany","1997-10-03","17.00","25.00",False
+"Ipoh Coffee","Cunewalde","Germany","1998-03-10","17.00","25.00",False
+"Ipoh Coffee","Helsinki","Finland","1997-09-18","17.00","25.00",False
+"Ipoh Coffee","Lisboa","Portugal","1997-03-04","17.00","25.00",False
+"Ipoh Coffee","London","UK","1998-03-31","17.00","25.00",False
+"Ipoh Coffee","London","UK","1998-04-14","17.00","25.00",False
+"Ipoh Coffee","Luleå","Sweden","1997-05-01","17.00","25.00",False
+"Ipoh Coffee","Lyon","France","1998-01-05","17.00","25.00",False
+"Ipoh Coffee","Marseille","France","1996-10-29","17.00","25.00",False
+"Ipoh Coffee","México D.F.","Mexico","1997-04-15","17.00","25.00",False
+"Ipoh Coffee","México D.F.","Mexico","1998-01-20","17.00","25.00",False
+"Ipoh Coffee","Oulu","Finland","1996-08-01","17.00","25.00",False
+"Ipoh Coffee","Resende","Brazil","1997-08-25","17.00","25.00",False
+"Ipoh Coffee","Rio de Janeiro","Brazil","1998-04-27","17.00","25.00",False
+"Ipoh Coffee","Salzburg","Austria","1997-05-08","17.00","25.00",False
+"Ipoh Coffee","Sao Paulo","Brazil","1998-05-04","17.00","25.00",False
+"Ipoh Coffee","Stavern","Norway","1998-01-14","17.00","25.00",False
+"Ipoh Coffee","Stuttgart","Germany","1996-09-23","17.00","25.00",False
+"Ipoh Coffee","Toulouse","France","1998-03-03","17.00","25.00",False
+"Ipoh Coffee","Tsawassen","Canada","1998-03-27","17.00","25.00",False
+"Jack's New England Clam Chowder","Aachen","Germany","1998-05-04","85.00","10.00",True
+"Jack's New England Clam Chowder","Albuquerque","USA","1996-09-27","85.00","10.00",True
+"Jack's New England Clam Chowder","Albuquerque","USA","1998-05-06","85.00","10.00",True
+"Jack's New England Clam Chowder","Århus","Denmark","1997-12-08","85.00","10.00",True
+"Jack's New England Clam Chowder","Bergamo","Italy","1998-01-07","85.00","10.00",True
+"Jack's New England Clam Chowder","Boise","USA","1997-09-04","85.00","10.00",True
+"Jack's New England Clam Chowder","Boise","USA","1997-09-23","85.00","10.00",True
+"Jack's New England Clam Chowder","Boise","USA","1997-10-21","85.00","10.00",True
+"Jack's New England Clam Chowder","Boise","USA","1998-05-01","85.00","10.00",True
+"Jack's New England Clam Chowder","Bräcke","Sweden","1996-07-24","85.00","10.00",True
+"Jack's New England Clam Chowder","Bräcke","Sweden","1998-01-09","85.00","10.00",True
+"Jack's New England Clam Chowder","Bräcke","Sweden","1998-04-01","85.00","10.00",True
+"Jack's New England Clam Chowder","Buenos Aires","Argentina","1997-04-29","85.00","10.00",True
+"Jack's New England Clam Chowder","Campinas","Brazil","1997-09-29","85.00","10.00",True
+"Jack's New England Clam Chowder","Colchester","UK","1997-12-24","85.00","10.00",True
+"Jack's New England Clam Chowder","Cork","Ireland","1997-04-24","85.00","10.00",True
+"Jack's New England Clam Chowder","Cork","Ireland","1998-04-30","85.00","10.00",True
+"Jack's New England Clam Chowder","Cowes","UK","1996-10-01","85.00","10.00",True
+"Jack's New England Clam Chowder","Genève","Switzerland","1998-03-16","85.00","10.00",True
+"Jack's New England Clam Chowder","Graz","Austria","1996-11-11","85.00","10.00",True
+"Jack's New England Clam Chowder","Graz","Austria","1998-05-05","85.00","10.00",True
+"Jack's New England Clam Chowder","I. de Margarita","Venezuela","1998-04-10","85.00","10.00",True
+"Jack's New England Clam Chowder","Köln","Germany","1996-07-19","85.00","10.00",True
+"Jack's New England Clam Chowder","Köln","Germany","1997-06-26","85.00","10.00",True
+"Jack's New England Clam Chowder","Köln","Germany","1998-04-03","85.00","10.00",True
+"Jack's New England Clam Chowder","London","UK","1997-05-01","85.00","10.00",True
+"Jack's New England Clam Chowder","Luleå","Sweden","1997-02-12","85.00","10.00",True
+"Jack's New England Clam Chowder","Luleå","Sweden","1997-12-16","85.00","10.00",True
+"Jack's New England Clam Chowder","Lyon","France","1998-01-05","85.00","10.00",True
+"Jack's New England Clam Chowder","Marseille","France","1996-10-29","85.00","10.00",True
+"Jack's New England Clam Chowder","München","Germany","1997-12-23","85.00","10.00",True
+"Jack's New England Clam Chowder","Münster","Germany","1997-05-26","85.00","10.00",True
+"Jack's New England Clam Chowder","Nantes","France","1998-02-16","85.00","10.00",True
+"Jack's New England Clam Chowder","Reggio Emilia","Italy","1997-09-03","85.00","10.00",True
+"Jack's New England Clam Chowder","Reims","France","1997-11-11","85.00","10.00",True
+"Jack's New England Clam Chowder","Rio de Janeiro","Brazil","1996-07-08","85.00","10.00",True
+"Jack's New England Clam Chowder","Rio de Janeiro","Brazil","1996-12-11","85.00","10.00",True
+"Jack's New England Clam Chowder","Rio de Janeiro","Brazil","1998-03-31","85.00","10.00",True
+"Jack's New England Clam Chowder","Salzburg","Austria","1997-11-19","85.00","10.00",True
+"Jack's New England Clam Chowder","San Cristóbal","Venezuela","1998-02-23","85.00","10.00",True
+"Jack's New England Clam Chowder","San Cristóbal","Venezuela","1998-03-19","85.00","10.00",True
+"Jack's New England Clam Chowder","Sao Paulo","Brazil","1997-10-31","85.00","10.00",True
+"Jack's New England Clam Chowder","Stavern","Norway","1998-02-26","85.00","10.00",True
+"Jack's New England Clam Chowder","Strasbourg","France","1997-06-05","85.00","10.00",True
+"Jack's New England Clam Chowder","Tsawassen","Canada","1997-01-10","85.00","10.00",True
+"Jack's New England Clam Chowder","Vancouver","Canada","1997-04-03","85.00","10.00",True
+"Jack's New England Clam Chowder","Versailles","France","1998-03-24","85.00","10.00",True
+"Konbu","Aachen","Germany","1996-12-23","24.00","5.00",True
+"Konbu","Aachen","Germany","1998-04-20","24.00","5.00",True
+"Konbu","Albuquerque","USA","1998-05-06","24.00","5.00",True
+"Konbu","Barquisimeto","Venezuela","1998-05-05","24.00","5.00",True
+"Konbu","Bern","Switzerland","1997-11-19","24.00","5.00",True
+"Konbu","Boise","USA","1998-02-18","24.00","5.00",True
+"Konbu","Boise","USA","1998-03-27","24.00","5.00",True
+"Konbu","Boise","USA","1998-04-06","24.00","5.00",True
+"Konbu","Boise","USA","1998-04-17","24.00","5.00",True
+"Konbu","Brandenburg","Germany","1996-10-09","24.00","5.00",True
+"Konbu","Brandenburg","Germany","1997-12-26","24.00","5.00",True
+"Konbu","Buenos Aires","Argentina","1998-02-20","24.00","5.00",True
+"Konbu","Colchester","UK","1996-12-16","24.00","5.00",True
+"Konbu","Cowes","UK","1998-01-13","24.00","5.00",True
+"Konbu","Cunewalde","Germany","1998-03-10","24.00","5.00",True
+"Konbu","Cunewalde","Germany","1998-03-19","24.00","5.00",True
+"Konbu","Elgin","USA","1996-12-25","24.00","5.00",True
+"Konbu","Genève","Switzerland","1998-03-06","24.00","5.00",True
+"Konbu","Graz","Austria","1997-08-15","24.00","5.00",True
+"Konbu","Graz","Austria","1998-01-27","24.00","5.00",True
+"Konbu","Köln","Germany","1997-04-16","24.00","5.00",True
+"Konbu","Leipzig","Germany","1998-03-12","24.00","5.00",True
+"Konbu","London","UK","1997-03-03","24.00","5.00",True
+"Konbu","London","UK","1997-05-16","24.00","5.00",True
+"Konbu","London","UK","1998-03-11","24.00","5.00",True
+"Konbu","Luleå","Sweden","1998-01-16","24.00","5.00",True
+"Konbu","Marseille","France","1998-03-11","24.00","5.00",True
+"Konbu","México D.F.","Mexico","1996-08-08","24.00","5.00",True
+"Konbu","México D.F.","Mexico","1998-03-04","24.00","5.00",True
+"Konbu","Oulu","Finland","1997-05-05","24.00","5.00",True
+"Konbu","Oulu","Finland","1998-04-15","24.00","5.00",True
+"Konbu","Reims","France","1997-11-11","24.00","5.00",True
+"Konbu","Resende","Brazil","1997-01-21","24.00","5.00",True
+"Konbu","Rio de Janeiro","Brazil","1996-08-27","24.00","5.00",True
+"Konbu","Rio de Janeiro","Brazil","1998-02-24","24.00","5.00",True
+"Konbu","Rio de Janeiro","Brazil","1998-04-29","24.00","5.00",True
+"Konbu","San Cristóbal","Venezuela","1997-07-16","24.00","5.00",True
+"Konbu","San Cristóbal","Venezuela","1997-07-29","24.00","5.00",True
+"Konbu","Toulouse","France","1998-01-14","24.00","5.00",True
+"Konbu","Vancouver","Canada","1998-01-01","24.00","5.00",True
+"Lakkalikööri","Aachen","Germany","1996-11-26","57.00","20.00",True
+"Lakkalikööri","Albuquerque","USA","1997-06-16","57.00","20.00",True
+"Lakkalikööri","Anchorage","USA","1998-01-01","57.00","20.00",True
+"Lakkalikööri","Århus","Denmark","1996-12-31","57.00","20.00",True
+"Lakkalikööri","Barcelona","Spain","1998-03-05","57.00","20.00",True
+"Lakkalikööri","Berlin","Germany","1997-10-13","57.00","20.00",True
+"Lakkalikööri","Boise","USA","1997-07-28","57.00","20.00",True
+"Lakkalikööri","Bräcke","Sweden","1997-02-03","57.00","20.00",True
+"Lakkalikööri","Bräcke","Sweden","1998-04-27","57.00","20.00",True
+"Lakkalikööri","Brandenburg","Germany","1997-08-13","57.00","20.00",True
+"Lakkalikööri","Bruxelles","Belgium","1998-04-07","57.00","20.00",True
+"Lakkalikööri","Buenos Aires","Argentina","1998-03-30","57.00","20.00",True
+"Lakkalikööri","Campinas","Brazil","1997-11-07","57.00","20.00",True
+"Lakkalikööri","Charleroi","Belgium","1997-03-14","57.00","20.00",True
+"Lakkalikööri","Cork","Ireland","1997-10-13","57.00","20.00",True
+"Lakkalikööri","Cowes","UK","1996-10-01","57.00","20.00",True
+"Lakkalikööri","Cowes","UK","1997-11-20","57.00","20.00",True
+"Lakkalikööri","Cunewalde","Germany","1996-08-05","57.00","20.00",True
+"Lakkalikööri","Cunewalde","Germany","1998-03-19","57.00","20.00",True
+"Lakkalikööri","Cunewalde","Germany","1998-04-01","57.00","20.00",True
+"Lakkalikööri","Frankfurt a.M.","Germany","1996-10-31","57.00","20.00",True
+"Lakkalikööri","Frankfurt a.M.","Germany","1997-07-09","57.00","20.00",True
+"Lakkalikööri","Genève","Switzerland","1998-05-06","57.00","20.00",True
+"Lakkalikööri","Helsinki","Finland","1998-02-10","57.00","20.00",True
+"Lakkalikööri","Leipzig","Germany","1997-06-20","57.00","20.00",True
+"Lakkalikööri","Lisboa","Portugal","1997-07-18","57.00","20.00",True
+"Lakkalikööri","Luleå","Sweden","1998-01-16","57.00","20.00",True
+"Lakkalikööri","Mannheim","Germany","1997-06-27","57.00","20.00",True
+"Lakkalikööri","Marseille","France","1997-11-06","57.00","20.00",True
+"Lakkalikööri","México D.F.","Mexico","1996-10-02","57.00","20.00",True
+"Lakkalikööri","München","Germany","1996-07-29","57.00","20.00",True
+"Lakkalikööri","Nantes","France","1998-01-29","57.00","20.00",True
+"Lakkalikööri","Portland","USA","1997-09-11","57.00","20.00",True
+"Lakkalikööri","Salzburg","Austria","1997-05-08","57.00","20.00",True
+"Lakkalikööri","Sao Paulo","Brazil","1998-03-19","57.00","20.00",True
+"Lakkalikööri","Strasbourg","France","1997-06-12","57.00","20.00",True
+"Lakkalikööri","Toulouse","France","1997-01-14","57.00","20.00",True
+"Lakkalikööri","Toulouse","France","1997-01-24","57.00","20.00",True
+"Lakkalikööri","Versailles","France","1998-03-05","57.00","20.00",True
+"Laughing Lumberjack Lager","Bergamo","Italy","1998-03-10","52.00","10.00",True
+"Laughing Lumberjack Lager","Buenos Aires","Argentina","1998-04-28","52.00","10.00",True
+"Laughing Lumberjack Lager","Butte","USA","1997-12-12","52.00","10.00",True
+"Laughing Lumberjack Lager","Colchester","UK","1998-02-02","52.00","10.00",True
+"Laughing Lumberjack Lager","Frankfurt a.M.","Germany","1996-08-19","52.00","10.00",True
+"Laughing Lumberjack Lager","México D.F.","Mexico","1997-04-10","52.00","10.00",True
+"Laughing Lumberjack Lager","München","Germany","1997-09-16","52.00","10.00",True
+"Laughing Lumberjack Lager","Portland","USA","1997-05-21","52.00","10.00",True
+"Laughing Lumberjack Lager","Sevilla","Spain","1998-02-26","52.00","10.00",True
+"Laughing Lumberjack Lager","Toulouse","France","1998-03-03","52.00","10.00",True
+"Longlife Tofu","Barquisimeto","Venezuela","1996-12-12","4.00","5.00",False
+"Longlife Tofu","Bern","Switzerland","1996-07-11","4.00","5.00",False
+"Longlife Tofu","Bern","Switzerland","1996-12-03","4.00","5.00",False
+"Longlife Tofu","Charleroi","Belgium","1998-01-22","4.00","5.00",False
+"Longlife Tofu","Cunewalde","Germany","1997-01-17","4.00","5.00",False
+"Longlife Tofu","Graz","Austria","1996-07-23","4.00","5.00",False
+"Longlife Tofu","Graz","Austria","1996-12-13","4.00","5.00",False
+"Longlife Tofu","Lyon","France","1997-12-31","4.00","5.00",False
+"Longlife Tofu","Montréal","Canada","1997-02-07","4.00","5.00",False
+"Longlife Tofu","Oulu","Finland","1997-12-17","4.00","5.00",False
+"Longlife Tofu","San Cristóbal","Venezuela","1997-03-26","4.00","5.00",False
+"Longlife Tofu","Torino","Italy","1997-11-25","4.00","5.00",False
+"Longlife Tofu","Warszawa","Poland","1998-04-03","4.00","5.00",False
+"Louisiana Fiery Hot Pepper Sauce","Albuquerque","USA","1997-01-01","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Anchorage","USA","1998-01-27","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Århus","Denmark","1996-11-28","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Barcelona","Spain","1996-11-28","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Cork","Ireland","1997-04-11","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Cork","Ireland","1997-11-11","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Cunewalde","Germany","1997-02-19","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Cunewalde","Germany","1997-12-04","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Genève","Switzerland","1997-09-12","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Graz","Austria","1996-11-11","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Graz","Austria","1997-04-22","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Graz","Austria","1997-10-09","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Helsinki","Finland","1998-02-10","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","I. de Margarita","Venezuela","1997-08-20","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Köln","Germany","1997-06-26","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Lisboa","Portugal","1996-10-14","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Lisboa","Portugal","1997-09-10","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","London","UK","1998-04-15","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Lyon","France","1996-07-08","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Lyon","France","1997-12-31","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Marseille","France","1997-11-05","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Nantes","France","1997-09-17","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Rio de Janeiro","Brazil","1996-07-08","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Rio de Janeiro","Brazil","1996-12-11","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Rio de Janeiro","Brazil","1997-02-14","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Rio de Janeiro","Brazil","1997-05-19","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Rio de Janeiro","Brazil","1998-02-24","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Salzburg","Austria","1997-07-11","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","San Francisco","USA","1998-02-12","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Sevilla","Spain","1996-09-11","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Sevilla","Spain","1998-02-05","76.00","0.00",True
+"Louisiana Fiery Hot Pepper Sauce","Toulouse","France","1997-04-02","76.00","0.00",True
+"Louisiana Hot Spiced Okra","Albuquerque","USA","1998-05-06","4.00","20.00",False
+"Louisiana Hot Spiced Okra","Bergamo","Italy","1996-09-09","4.00","20.00",False
+"Louisiana Hot Spiced Okra","Bräcke","Sweden","1997-12-11","4.00","20.00",False
+"Louisiana Hot Spiced Okra","Charleroi","Belgium","1997-03-14","4.00","20.00",False
+"Louisiana Hot Spiced Okra","Graz","Austria","1997-02-11","4.00","20.00",False
+"Louisiana Hot Spiced Okra","London","UK","1997-05-09","4.00","20.00",False
+"Louisiana Hot Spiced Okra","México D.F.","Mexico","1997-09-25","4.00","20.00",False
+"Louisiana Hot Spiced Okra","Toulouse","France","1997-04-02","4.00","20.00",False
+"Manjimup Dried Apples","Anchorage","USA","1998-03-20","20.00","10.00",True
+"Manjimup Dried Apples","Bern","Switzerland","1997-11-06","20.00","10.00",True
+"Manjimup Dried Apples","Boise","USA","1997-06-02","20.00","10.00",True
+"Manjimup Dried Apples","Bräcke","Sweden","1997-06-06","20.00","10.00",True
+"Manjimup Dried Apples","Bräcke","Sweden","1997-12-02","20.00","10.00",True
+"Manjimup Dried Apples","Bräcke","Sweden","1998-03-26","20.00","10.00",True
+"Manjimup Dried Apples","Buenos Aires","Argentina","1997-10-24","20.00","10.00",True
+"Manjimup Dried Apples","Campinas","Brazil","1997-10-17","20.00","10.00",True
+"Manjimup Dried Apples","Colchester","UK","1997-06-04","20.00","10.00",True
+"Manjimup Dried Apples","Cork","Ireland","1996-10-22","20.00","10.00",True
+"Manjimup Dried Apples","Cork","Ireland","1997-06-12","20.00","10.00",True
+"Manjimup Dried Apples","Cunewalde","Germany","1997-05-27","20.00","10.00",True
+"Manjimup Dried Apples","Cunewalde","Germany","1998-04-14","20.00","10.00",True
+"Manjimup Dried Apples","Genève","Switzerland","1997-05-14","20.00","10.00",True
+"Manjimup Dried Apples","Graz","Austria","1997-12-15","20.00","10.00",True
+"Manjimup Dried Apples","Kobenhavn","Denmark","1997-12-29","20.00","10.00",True
+"Manjimup Dried Apples","Köln","Germany","1998-04-03","20.00","10.00",True
+"Manjimup Dried Apples","Lander","USA","1998-01-08","20.00","10.00",True
+"Manjimup Dried Apples","Lille","France","1997-08-15","20.00","10.00",True
+"Manjimup Dried Apples","Lisboa","Portugal","1996-12-27","20.00","10.00",True
+"Manjimup Dried Apples","London","UK","1997-03-12","20.00","10.00",True
+"Manjimup Dried Apples","London","UK","1997-03-24","20.00","10.00",True
+"Manjimup Dried Apples","London","UK","1997-12-26","20.00","10.00",True
+"Manjimup Dried Apples","Lyon","France","1998-01-21","20.00","10.00",True
+"Manjimup Dried Apples","Mannheim","Germany","1998-03-17","20.00","10.00",True
+"Manjimup Dried Apples","Marseille","France","1996-11-25","20.00","10.00",True
+"Manjimup Dried Apples","Marseille","France","1997-09-10","20.00","10.00",True
+"Manjimup Dried Apples","México D.F.","Mexico","1998-04-02","20.00","10.00",True
+"Manjimup Dried Apples","Münster","Germany","1996-07-05","20.00","10.00",True
+"Manjimup Dried Apples","Nantes","France","1998-01-29","20.00","10.00",True
+"Manjimup Dried Apples","Portland","USA","1997-09-11","20.00","10.00",True
+"Manjimup Dried Apples","Rio de Janeiro","Brazil","1996-07-08","20.00","10.00",True
+"Manjimup Dried Apples","Rio de Janeiro","Brazil","1996-08-27","20.00","10.00",True
+"Manjimup Dried Apples","San Cristóbal","Venezuela","1997-03-26","20.00","10.00",True
+"Manjimup Dried Apples","San Cristóbal","Venezuela","1998-04-28","20.00","10.00",True
+"Manjimup Dried Apples","Sevilla","Spain","1998-03-13","20.00","10.00",True
+"Manjimup Dried Apples","Torino","Italy","1998-04-15","20.00","10.00",True
+"Manjimup Dried Apples","Tsawassen","Canada","1998-04-23","20.00","10.00",True
+"Manjimup Dried Apples","Warszawa","Poland","1998-02-04","20.00","10.00",True
+"Mascarpone Fabioli","Albuquerque","USA","1996-09-25","9.00","25.00",False
+"Mascarpone Fabioli","Albuquerque","USA","1998-05-06","9.00","25.00",False
+"Mascarpone Fabioli","Barquisimeto","Venezuela","1998-04-03","9.00","25.00",False
+"Mascarpone Fabioli","Bergamo","Italy","1998-01-07","9.00","25.00",False
+"Mascarpone Fabioli","Buenos Aires","Argentina","1998-02-27","9.00","25.00",False
+"Mascarpone Fabioli","Cork","Ireland","1996-10-22","9.00","25.00",False
+"Mascarpone Fabioli","Cork","Ireland","1998-03-30","9.00","25.00",False
+"Mascarpone Fabioli","Graz","Austria","1996-07-17","9.00","25.00",False
+"Mascarpone Fabioli","London","UK","1997-05-23","9.00","25.00",False
+"Mascarpone Fabioli","Luleå","Sweden","1997-06-18","9.00","25.00",False
+"Mascarpone Fabioli","México D.F.","Mexico","1997-11-28","9.00","25.00",False
+"Mascarpone Fabioli","Salzburg","Austria","1998-04-27","9.00","25.00",False
+"Mascarpone Fabioli","San Cristóbal","Venezuela","1997-10-15","9.00","25.00",False
+"Mascarpone Fabioli","Stuttgart","Germany","1997-04-22","9.00","25.00",False
+"Mascarpone Fabioli","Stuttgart","Germany","1998-04-23","9.00","25.00",False
+"Maxilaku","Barquisimeto","Venezuela","1997-04-08","10.00","15.00",False
+"Maxilaku","Bergamo","Italy","1997-01-03","10.00","15.00",False
+"Maxilaku","Boise","USA","1997-07-18","10.00","15.00",False
+"Maxilaku","Boise","USA","1997-07-28","10.00","15.00",False
+"Maxilaku","Boise","USA","1998-02-11","10.00","15.00",False
+"Maxilaku","Brandenburg","Germany","1997-02-25","10.00","15.00",False
+"Maxilaku","Buenos Aires","Argentina","1998-04-13","10.00","15.00",False
+"Maxilaku","Helsinki","Finland","1998-02-26","10.00","15.00",False
+"Maxilaku","I. de Margarita","Venezuela","1998-04-21","10.00","15.00",False
+"Maxilaku","London","UK","1997-01-01","10.00","15.00",False
+"Maxilaku","London","UK","1997-05-16","10.00","15.00",False
+"Maxilaku","London","UK","1997-12-30","10.00","15.00",False
+"Maxilaku","Luleå","Sweden","1998-02-06","10.00","15.00",False
+"Maxilaku","México D.F.","Mexico","1996-09-12","10.00","15.00",False
+"Maxilaku","Münster","Germany","1998-03-23","10.00","15.00",False
+"Maxilaku","Reggio Emilia","Italy","1998-03-11","10.00","15.00",False
+"Maxilaku","Rio de Janeiro","Brazil","1996-07-10","10.00","15.00",False
+"Maxilaku","Rio de Janeiro","Brazil","1997-03-20","10.00","15.00",False
+"Maxilaku","Sao Paulo","Brazil","1996-08-27","10.00","15.00",False
+"Maxilaku","Sao Paulo","Brazil","1998-02-04","10.00","15.00",False
+"Maxilaku","Strasbourg","France","1996-11-22","10.00","15.00",False
+"Mishi Kobe Niku","Cork","Ireland","1997-09-30","29.00","0.00",True
+"Mishi Kobe Niku","Cunewalde","Germany","1997-04-23","29.00","0.00",True
+"Mishi Kobe Niku","London","UK","1998-01-23","29.00","0.00",True
+"Mishi Kobe Niku","Resende","Brazil","1997-01-21","29.00","0.00",True
+"Mishi Kobe Niku","Seattle","USA","1997-10-06","29.00","0.00",True
+"Mozzarella di Giovanni","Albuquerque","USA","1996-08-02","14.00","0.00",True
+"Mozzarella di Giovanni","Barquisimeto","Venezuela","1996-08-16","14.00","0.00",True
+"Mozzarella di Giovanni","Barquisimeto","Venezuela","1996-10-16","14.00","0.00",True
+"Mozzarella di Giovanni","Bergamo","Italy","1997-12-18","14.00","0.00",True
+"Mozzarella di Giovanni","Boise","USA","1997-07-22","14.00","0.00",True
+"Mozzarella di Giovanni","Boise","USA","1998-03-11","14.00","0.00",True
+"Mozzarella di Giovanni","Bräcke","Sweden","1997-05-12","14.00","0.00",True
+"Mozzarella di Giovanni","Brandenburg","Germany","1996-10-09","14.00","0.00",True
+"Mozzarella di Giovanni","Bruxelles","Belgium","1997-08-28","14.00","0.00",True
+"Mozzarella di Giovanni","Buenos Aires","Argentina","1998-03-18","14.00","0.00",True
+"Mozzarella di Giovanni","Caracas","Venezuela","1996-07-30","14.00","0.00",True
+"Mozzarella di Giovanni","Cowes","UK","1997-12-26","14.00","0.00",True
+"Mozzarella di Giovanni","Cunewalde","Germany","1997-11-18","14.00","0.00",True
+"Mozzarella di Giovanni","Cunewalde","Germany","1998-04-14","14.00","0.00",True
+"Mozzarella di Giovanni","Eugene","USA","1997-05-06","14.00","0.00",True
+"Mozzarella di Giovanni","Frankfurt a.M.","Germany","1997-04-04","14.00","0.00",True
+"Mozzarella di Giovanni","Genève","Switzerland","1997-05-14","14.00","0.00",True
+"Mozzarella di Giovanni","Graz","Austria","1996-12-23","14.00","0.00",True
+"Mozzarella di Giovanni","I. de Margarita","Venezuela","1997-08-20","14.00","0.00",True
+"Mozzarella di Giovanni","Kobenhavn","Denmark","1997-06-03","14.00","0.00",True
+"Mozzarella di Giovanni","Leipzig","Germany","1997-06-20","14.00","0.00",True
+"Mozzarella di Giovanni","London","UK","1997-02-04","14.00","0.00",True
+"Mozzarella di Giovanni","London","UK","1997-05-15","14.00","0.00",True
+"Mozzarella di Giovanni","London","UK","1998-03-31","14.00","0.00",True
+"Mozzarella di Giovanni","Lyon","France","1997-02-27","14.00","0.00",True
+"Mozzarella di Giovanni","Marseille","France","1998-03-06","14.00","0.00",True
+"Mozzarella di Giovanni","México D.F.","Mexico","1998-03-04","14.00","0.00",True
+"Mozzarella di Giovanni","München","Germany","1996-10-24","14.00","0.00",True
+"Mozzarella di Giovanni","München","Germany","1996-12-27","14.00","0.00",True
+"Mozzarella di Giovanni","Portland","USA","1998-04-01","14.00","0.00",True
+"Mozzarella di Giovanni","Reggio Emilia","Italy","1998-01-02","14.00","0.00",True
+"Mozzarella di Giovanni","Reims","France","1996-07-04","14.00","0.00",True
+"Mozzarella di Giovanni","Reims","France","1996-08-06","14.00","0.00",True
+"Mozzarella di Giovanni","Sao Paulo","Brazil","1996-12-04","14.00","0.00",True
+"Mozzarella di Giovanni","Sao Paulo","Brazil","1998-01-19","14.00","0.00",True
+"Mozzarella di Giovanni","Seattle","USA","1996-07-31","14.00","0.00",True
+"Mozzarella di Giovanni","Strasbourg","France","1996-09-04","14.00","0.00",True
+"Mozzarella di Giovanni","Tsawassen","Canada","1997-11-14","14.00","0.00",True
+"Nord-Ost Matjeshering","Albuquerque","USA","1997-01-01","10.00","15.00",False
+"Nord-Ost Matjeshering","Anchorage","USA","1996-10-25","10.00","15.00",False
+"Nord-Ost Matjeshering","Barquisimeto","Venezuela","1997-02-28","10.00","15.00",False
+"Nord-Ost Matjeshering","Barquisimeto","Venezuela","1998-05-01","10.00","15.00",False
+"Nord-Ost Matjeshering","Bräcke","Sweden","1996-10-11","10.00","15.00",False
+"Nord-Ost Matjeshering","Brandenburg","Germany","1997-03-07","10.00","15.00",False
+"Nord-Ost Matjeshering","Brandenburg","Germany","1998-02-18","10.00","15.00",False
+"Nord-Ost Matjeshering","Campinas","Brazil","1997-09-01","10.00","15.00",False
+"Nord-Ost Matjeshering","Campinas","Brazil","1997-11-07","10.00","15.00",False
+"Nord-Ost Matjeshering","Cork","Ireland","1996-12-12","10.00","15.00",False
+"Nord-Ost Matjeshering","Cork","Ireland","1998-02-19","10.00","15.00",False
+"Nord-Ost Matjeshering","Frankfurt a.M.","Germany","1997-04-30","10.00","15.00",False
+"Nord-Ost Matjeshering","Frankfurt a.M.","Germany","1997-05-12","10.00","15.00",False
+"Nord-Ost Matjeshering","Frankfurt a.M.","Germany","1998-02-17","10.00","15.00",False
+"Nord-Ost Matjeshering","Genève","Switzerland","1997-11-24","10.00","15.00",False
+"Nord-Ost Matjeshering","Graz","Austria","1996-07-23","10.00","15.00",False
+"Nord-Ost Matjeshering","Kobenhavn","Denmark","1997-12-29","10.00","15.00",False
+"Nord-Ost Matjeshering","Lander","USA","1996-10-15","10.00","15.00",False
+"Nord-Ost Matjeshering","London","UK","1997-05-09","10.00","15.00",False
+"Nord-Ost Matjeshering","Luleå","Sweden","1997-05-01","10.00","15.00",False
+"Nord-Ost Matjeshering","Luleå","Sweden","1998-02-03","10.00","15.00",False
+"Nord-Ost Matjeshering","Madrid","Spain","1996-08-15","10.00","15.00",False
+"Nord-Ost Matjeshering","Madrid","Spain","1996-09-16","10.00","15.00",False
+"Nord-Ost Matjeshering","Madrid","Spain","1998-03-02","10.00","15.00",False
+"Nord-Ost Matjeshering","München","Germany","1997-06-06","10.00","15.00",False
+"Nord-Ost Matjeshering","San Cristóbal","Venezuela","1998-03-18","10.00","15.00",False
+"Nord-Ost Matjeshering","San Francisco","USA","1997-10-27","10.00","15.00",False
+"Nord-Ost Matjeshering","Sao Paulo","Brazil","1997-08-29","10.00","15.00",False
+"Nord-Ost Matjeshering","Sao Paulo","Brazil","1997-11-04","10.00","15.00",False
+"Nord-Ost Matjeshering","Sao Paulo","Brazil","1997-12-19","10.00","15.00",False
+"Nord-Ost Matjeshering","Sao Paulo","Brazil","1998-01-15","10.00","15.00",False
+"Nord-Ost Matjeshering","Stavern","Norway","1998-04-10","10.00","15.00",False
+"Northwoods Cranberry Sauce","Albuquerque","USA","1998-05-06","6.00","0.00",True
+"Northwoods Cranberry Sauce","Brandenburg","Germany","1998-02-18","6.00","0.00",True
+"Northwoods Cranberry Sauce","Bruxelles","Belgium","1998-03-26","6.00","0.00",True
+"Northwoods Cranberry Sauce","Campinas","Brazil","1997-10-17","6.00","0.00",True
+"Northwoods Cranberry Sauce","Cowes","UK","1998-01-13","6.00","0.00",True
+"Northwoods Cranberry Sauce","Cunewalde","Germany","1996-11-04","6.00","0.00",True
+"Northwoods Cranberry Sauce","Frankfurt a.M.","Germany","1997-04-30","6.00","0.00",True
+"Northwoods Cranberry Sauce","Helsinki","Finland","1997-10-07","6.00","0.00",True
+"Northwoods Cranberry Sauce","Lisboa","Portugal","1998-04-08","6.00","0.00",True
+"Northwoods Cranberry Sauce","Marseille","France","1997-04-18","6.00","0.00",True
+"Northwoods Cranberry Sauce","Sao Paulo","Brazil","1997-12-19","6.00","0.00",True
+"Northwoods Cranberry Sauce","Seattle","USA","1996-11-01","6.00","0.00",True
+"Northwoods Cranberry Sauce","Tsawassen","Canada","1998-03-25","6.00","0.00",True
+"NuNuCa Nuß-Nougat-Creme","Albuquerque","USA","1997-12-02","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Barcelona","Spain","1998-02-13","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Bergamo","Italy","1997-03-06","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Boise","USA","1996-12-25","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Brandenburg","Germany","1996-10-07","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Brandenburg","Germany","1997-04-15","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Bruxelles","Belgium","1997-12-01","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","I. de Margarita","Venezuela","1998-01-19","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","I. de Margarita","Venezuela","1998-03-02","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Lyon","France","1998-01-23","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Marseille","France","1996-11-25","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Resende","Brazil","1997-12-30","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Rio de Janeiro","Brazil","1998-01-26","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","San Cristóbal","Venezuela","1998-04-28","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Sao Paulo","Brazil","1996-11-06","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Toulouse","France","1998-01-14","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Tsawassen","Canada","1997-04-01","76.00","30.00",True
+"NuNuCa Nuß-Nougat-Creme","Vancouver","Canada","1998-01-01","76.00","30.00",True
+"Original Frankfurter grüne Soße","Albuquerque","USA","1998-04-06","32.00","15.00",True
+"Original Frankfurter grüne Soße","Albuquerque","USA","1998-05-06","32.00","15.00",True
+"Original Frankfurter grüne Soße","Århus","Denmark","1996-11-28","32.00","15.00",True
+"Original Frankfurter grüne Soße","Århus","Denmark","1996-12-31","32.00","15.00",True
+"Original Frankfurter grüne Soße","Århus","Denmark","1997-07-17","32.00","15.00",True
+"Original Frankfurter grüne Soße","Århus","Denmark","1998-03-12","32.00","15.00",True
+"Original Frankfurter grüne Soße","Barcelona","Spain","1996-11-28","32.00","15.00",True
+"Original Frankfurter grüne Soße","Barquisimeto","Venezuela","1997-12-16","32.00","15.00",True
+"Original Frankfurter grüne Soße","Barquisimeto","Venezuela","1998-01-09","32.00","15.00",True
+"Original Frankfurter grüne Soße","Berlin","Germany","1998-01-15","32.00","15.00",True
+"Original Frankfurter grüne Soße","Buenos Aires","Argentina","1998-03-30","32.00","15.00",True
+"Original Frankfurter grüne Soße","Charleroi","Belgium","1998-01-20","32.00","15.00",True
+"Original Frankfurter grüne Soße","Charleroi","Belgium","1998-02-12","32.00","15.00",True
+"Original Frankfurter grüne Soße","Cork","Ireland","1997-08-27","32.00","15.00",True
+"Original Frankfurter grüne Soße","Cunewalde","Germany","1997-02-19","32.00","15.00",True
+"Original Frankfurter grüne Soße","Cunewalde","Germany","1997-09-05","32.00","15.00",True
+"Original Frankfurter grüne Soße","Frankfurt a.M.","Germany","1997-04-04","32.00","15.00",True
+"Original Frankfurter grüne Soße","Kirkland","USA","1997-06-23","32.00","15.00",True
+"Original Frankfurter grüne Soße","Kobenhavn","Denmark","1997-01-16","32.00","15.00",True
+"Original Frankfurter grüne Soße","Köln","Germany","1997-05-30","32.00","15.00",True
+"Original Frankfurter grüne Soße","Köln","Germany","1998-04-03","32.00","15.00",True
+"Original Frankfurter grüne Soße","Lisboa","Portugal","1997-03-31","32.00","15.00",True
+"Original Frankfurter grüne Soße","Montréal","Canada","1997-07-07","32.00","15.00",True
+"Original Frankfurter grüne Soße","München","Germany","1998-03-05","32.00","15.00",True
+"Original Frankfurter grüne Soße","Reggio Emilia","Italy","1998-01-02","32.00","15.00",True
+"Original Frankfurter grüne Soße","Resende","Brazil","1996-07-15","32.00","15.00",True
+"Original Frankfurter grüne Soße","Rio de Janeiro","Brazil","1997-01-21","32.00","15.00",True
+"Original Frankfurter grüne Soße","Rio de Janeiro","Brazil","1997-07-02","32.00","15.00",True
+"Original Frankfurter grüne Soße","Rio de Janeiro","Brazil","1997-10-02","32.00","15.00",True
+"Original Frankfurter grüne Soße","Rio de Janeiro","Brazil","1998-02-13","32.00","15.00",True
+"Original Frankfurter grüne Soße","San Cristóbal","Venezuela","1996-07-16","32.00","15.00",True
+"Original Frankfurter grüne Soße","San Francisco","USA","1997-11-10","32.00","15.00",True
+"Original Frankfurter grüne Soße","Sao Paulo","Brazil","1996-08-27","32.00","15.00",True
+"Original Frankfurter grüne Soße","Sao Paulo","Brazil","1998-05-04","32.00","15.00",True
+"Original Frankfurter grüne Soße","Seattle","USA","1997-03-24","32.00","15.00",True
+"Original Frankfurter grüne Soße","Stavern","Norway","1998-04-10","32.00","15.00",True
+"Original Frankfurter grüne Soße","Torino","Italy","1998-04-30","32.00","15.00",True
+"Original Frankfurter grüne Soße","Vancouver","Canada","1997-04-03","32.00","15.00",True
+"Outback Lager","Barquisimeto","Venezuela","1997-12-16","15.00","30.00",False
+"Outback Lager","Bräcke","Sweden","1998-01-09","15.00","30.00",False
+"Outback Lager","Bräcke","Sweden","1998-02-10","15.00","30.00",False
+"Outback Lager","Brandenburg","Germany","1997-04-15","15.00","30.00",False
+"Outback Lager","Charleroi","Belgium","1998-01-22","15.00","30.00",False
+"Outback Lager","Charleroi","Belgium","1998-02-12","15.00","30.00",False
+"Outback Lager","Colchester","UK","1997-02-21","15.00","30.00",False
+"Outback Lager","Colchester","UK","1997-10-16","15.00","30.00",False
+"Outback Lager","Cork","Ireland","1996-12-12","15.00","30.00",False
+"Outback Lager","Cowes","UK","1996-09-26","15.00","30.00",False
+"Outback Lager","Cowes","UK","1997-08-05","15.00","30.00",False
+"Outback Lager","Cunewalde","Germany","1997-10-06","15.00","30.00",False
+"Outback Lager","Cunewalde","Germany","1998-04-01","15.00","30.00",False
+"Outback Lager","Eugene","USA","1997-07-31","15.00","30.00",False
+"Outback Lager","Genève","Switzerland","1997-11-28","15.00","30.00",False
+"Outback Lager","Graz","Austria","1997-10-09","15.00","30.00",False
+"Outback Lager","Graz","Austria","1998-04-13","15.00","30.00",False
+"Outback Lager","I. de Margarita","Venezuela","1997-03-25","15.00","30.00",False
+"Outback Lager","I. de Margarita","Venezuela","1997-10-08","15.00","30.00",False
+"Outback Lager","Kirkland","USA","1998-01-08","15.00","30.00",False
+"Outback Lager","Köln","Germany","1996-07-19","15.00","30.00",False
+"Outback Lager","London","UK","1997-04-24","15.00","30.00",False
+"Outback Lager","London","UK","1997-05-15","15.00","30.00",False
+"Outback Lager","London","UK","1998-04-29","15.00","30.00",False
+"Outback Lager","Lyon","France","1998-01-23","15.00","30.00",False
+"Outback Lager","México D.F.","Mexico","1996-09-18","15.00","30.00",False
+"Outback Lager","México D.F.","Mexico","1998-01-20","15.00","30.00",False
+"Outback Lager","Reggio Emilia","Italy","1998-04-30","15.00","30.00",False
+"Outback Lager","Resende","Brazil","1997-01-21","15.00","30.00",False
+"Outback Lager","Resende","Brazil","1998-02-20","15.00","30.00",False
+"Outback Lager","Rio de Janeiro","Brazil","1996-09-06","15.00","30.00",False
+"Outback Lager","San Cristóbal","Venezuela","1997-03-17","15.00","30.00",False
+"Outback Lager","Sao Paulo","Brazil","1997-09-05","15.00","30.00",False
+"Outback Lager","Sevilla","Spain","1998-04-21","15.00","30.00",False
+"Outback Lager","Strasbourg","France","1996-07-25","15.00","30.00",False
+"Outback Lager","Stuttgart","Germany","1997-08-21","15.00","30.00",False
+"Outback Lager","Tsawassen","Canada","1996-12-20","15.00","30.00",False
+"Outback Lager","Vancouver","Canada","1998-01-01","15.00","30.00",False
+"Outback Lager","Versailles","France","1998-01-29","15.00","30.00",False
+"Pâté chinois","Albuquerque","USA","1997-06-10","115.00","20.00",True
+"Pâté chinois","Albuquerque","USA","1998-05-06","115.00","20.00",True
+"Pâté chinois","Barquisimeto","Venezuela","1997-02-28","115.00","20.00",True
+"Pâté chinois","Bern","Switzerland","1996-07-11","115.00","20.00",True
+"Pâté chinois","Boise","USA","1996-12-30","115.00","20.00",True
+"Pâté chinois","Boise","USA","1998-04-06","115.00","20.00",True
+"Pâté chinois","Boise","USA","1998-05-01","115.00","20.00",True
+"Pâté chinois","Bräcke","Sweden","1998-02-23","115.00","20.00",True
+"Pâté chinois","Bräcke","Sweden","1998-04-06","115.00","20.00",True
+"Pâté chinois","Brandenburg","Germany","1997-08-13","115.00","20.00",True
+"Pâté chinois","Brandenburg","Germany","1998-04-16","115.00","20.00",True
+"Pâté chinois","Bruxelles","Belgium","1997-05-07","115.00","20.00",True
+"Pâté chinois","Charleroi","Belgium","1998-03-06","115.00","20.00",True
+"Pâté chinois","Colchester","UK","1997-10-16","115.00","20.00",True
+"Pâté chinois","Cunewalde","Germany","1997-02-19","115.00","20.00",True
+"Pâté chinois","Graz","Austria","1998-04-01","115.00","20.00",True
+"Pâté chinois","Helsinki","Finland","1997-07-30","115.00","20.00",True
+"Pâté chinois","I. de Margarita","Venezuela","1997-03-25","115.00","20.00",True
+"Pâté chinois","Kobenhavn","Denmark","1997-12-29","115.00","20.00",True
+"Pâté chinois","London","UK","1998-04-28","115.00","20.00",True
+"Pâté chinois","Luleå","Sweden","1996-08-14","115.00","20.00",True
+"Pâté chinois","München","Germany","1996-10-30","115.00","20.00",True
+"Pâté chinois","San Cristóbal","Venezuela","1997-03-17","115.00","20.00",True
+"Pâté chinois","Sao Paulo","Brazil","1997-07-22","115.00","20.00",True
+"Pâté chinois","Sao Paulo","Brazil","1997-10-31","115.00","20.00",True
+"Pâté chinois","Sao Paulo","Brazil","1997-11-04","115.00","20.00",True
+"Pâté chinois","Sevilla","Spain","1998-02-05","115.00","20.00",True
+"Pâté chinois","Sevilla","Spain","1998-03-13","115.00","20.00",True
+"Pâté chinois","Strasbourg","France","1997-06-05","115.00","20.00",True
+"Pâté chinois","Stuttgart","Germany","1996-11-18","115.00","20.00",True
+"Pâté chinois","Stuttgart","Germany","1997-09-15","115.00","20.00",True
+"Pâté chinois","Toulouse","France","1997-01-24","115.00","20.00",True
+"Pâté chinois","Tsawassen","Canada","1996-12-20","115.00","20.00",True
+"Pavlova","Albuquerque","USA","1998-05-06","29.00","10.00",True
+"Pavlova","Anchorage","USA","1997-09-24","29.00","10.00",True
+"Pavlova","Anchorage","USA","1997-10-16","29.00","10.00",True
+"Pavlova","Anchorage","USA","1998-01-27","29.00","10.00",True
+"Pavlova","Barquisimeto","Venezuela","1996-09-03","29.00","10.00",True
+"Pavlova","Boise","USA","1996-10-08","29.00","10.00",True
+"Pavlova","Boise","USA","1997-02-10","29.00","10.00",True
+"Pavlova","Boise","USA","1998-03-30","29.00","10.00",True
+"Pavlova","Brandenburg","Germany","1997-10-27","29.00","10.00",True
+"Pavlova","Buenos Aires","Argentina","1998-02-27","29.00","10.00",True
+"Pavlova","Cork","Ireland","1998-03-30","29.00","10.00",True
+"Pavlova","Cunewalde","Germany","1997-04-23","29.00","10.00",True
+"Pavlova","Frankfurt a.M.","Germany","1998-05-05","29.00","10.00",True
+"Pavlova","Genève","Switzerland","1996-07-12","29.00","10.00",True
+"Pavlova","Graz","Austria","1996-07-23","29.00","10.00",True
+"Pavlova","Graz","Austria","1997-01-03","29.00","10.00",True
+"Pavlova","Graz","Austria","1997-12-24","29.00","10.00",True
+"Pavlova","Helsinki","Finland","1997-09-18","29.00","10.00",True
+"Pavlova","I. de Margarita","Venezuela","1998-03-02","29.00","10.00",True
+"Pavlova","I. de Margarita","Venezuela","1998-03-17","29.00","10.00",True
+"Pavlova","Kobenhavn","Denmark","1998-05-06","29.00","10.00",True
+"Pavlova","Köln","Germany","1997-05-30","29.00","10.00",True
+"Pavlova","Leipzig","Germany","1997-12-16","29.00","10.00",True
+"Pavlova","Lisboa","Portugal","1997-05-28","29.00","10.00",True
+"Pavlova","London","UK","1996-11-21","29.00","10.00",True
+"Pavlova","Luleå","Sweden","1997-06-18","29.00","10.00",True
+"Pavlova","Marseille","France","1997-11-05","29.00","10.00",True
+"Pavlova","Marseille","France","1998-02-05","29.00","10.00",True
+"Pavlova","Marseille","France","1998-03-06","29.00","10.00",True
+"Pavlova","Montréal","Canada","1997-02-07","29.00","10.00",True
+"Pavlova","Montréal","Canada","1997-07-21","29.00","10.00",True
+"Pavlova","München","Germany","1997-09-02","29.00","10.00",True
+"Pavlova","Nantes","France","1997-09-17","29.00","10.00",True
+"Pavlova","Oulu","Finland","1997-05-30","29.00","10.00",True
+"Pavlova","Paris","France","1997-11-12","29.00","10.00",True
+"Pavlova","Portland","USA","1996-09-20","29.00","10.00",True
+"Pavlova","Rio de Janeiro","Brazil","1996-08-22","29.00","10.00",True
+"Pavlova","Rio de Janeiro","Brazil","1998-02-09","29.00","10.00",True
+"Pavlova","Salzburg","Austria","1997-03-28","29.00","10.00",True
+"Pavlova","Seattle","USA","1997-03-10","29.00","10.00",True
+"Pavlova","Seattle","USA","1998-05-01","29.00","10.00",True
+"Pavlova","Stavern","Norway","1998-02-26","29.00","10.00",True
+"Pavlova","Toulouse","France","1997-02-21","29.00","10.00",True
+"Perth Pasties","Aachen","Germany","1998-01-09","0.00","0.00",True
+"Perth Pasties","Albuquerque","USA","1997-03-19","0.00","0.00",True
+"Perth Pasties","Boise","USA","1997-10-21","0.00","0.00",True
+"Perth Pasties","Boise","USA","1998-05-01","0.00","0.00",True
+"Perth Pasties","Colchester","UK","1997-06-04","0.00","0.00",True
+"Perth Pasties","Cork","Ireland","1996-12-12","0.00","0.00",True
+"Perth Pasties","Cork","Ireland","1997-10-21","0.00","0.00",True
+"Perth Pasties","Cowes","UK","1998-03-06","0.00","0.00",True
+"Perth Pasties","Cunewalde","Germany","1996-08-20","0.00","0.00",True
+"Perth Pasties","Cunewalde","Germany","1998-03-19","0.00","0.00",True
+"Perth Pasties","Genève","Switzerland","1998-04-17","0.00","0.00",True
+"Perth Pasties","Köln","Germany","1998-01-15","0.00","0.00",True
+"Perth Pasties","London","UK","1996-12-19","0.00","0.00",True
+"Perth Pasties","Luleå","Sweden","1997-08-11","0.00","0.00",True
+"Perth Pasties","Madrid","Spain","1996-09-16","0.00","0.00",True
+"Perth Pasties","México D.F.","Mexico","1997-04-10","0.00","0.00",True
+"Perth Pasties","México D.F.","Mexico","1997-06-19","0.00","0.00",True
+"Perth Pasties","München","Germany","1997-09-19","0.00","0.00",True
+"Perth Pasties","Oulu","Finland","1997-01-16","0.00","0.00",True
+"Perth Pasties","Oulu","Finland","1997-02-05","0.00","0.00",True
+"Perth Pasties","Oulu","Finland","1997-02-24","0.00","0.00",True
+"Perth Pasties","Portland","USA","1998-02-03","0.00","0.00",True
+"Perth Pasties","Reggio Emilia","Italy","1998-04-30","0.00","0.00",True
+"Perth Pasties","Resende","Brazil","1996-07-15","0.00","0.00",True
+"Perth Pasties","Rio de Janeiro","Brazil","1997-01-21","0.00","0.00",True
+"Perth Pasties","San Cristóbal","Venezuela","1996-12-26","0.00","0.00",True
+"Perth Pasties","Sao Paulo","Brazil","1997-08-29","0.00","0.00",True
+"Perth Pasties","Seattle","USA","1997-04-11","0.00","0.00",True
+"Perth Pasties","Stavern","Norway","1997-04-29","0.00","0.00",True
+"Perth Pasties","Stuttgart","Germany","1996-09-23","0.00","0.00",True
+"Queso Cabrales","Aachen","Germany","1997-12-25","22.00","30.00",False
+"Queso Cabrales","Albuquerque","USA","1998-02-16","22.00","30.00",False
+"Queso Cabrales","Barquisimeto","Venezuela","1996-09-03","22.00","30.00",False
+"Queso Cabrales","Barquisimeto","Venezuela","1998-01-09","22.00","30.00",False
+"Queso Cabrales","Bräcke","Sweden","1996-10-11","22.00","30.00",False
+"Queso Cabrales","Bräcke","Sweden","1997-02-03","22.00","30.00",False
+"Queso Cabrales","Brandenburg","Germany","1997-05-20","22.00","30.00",False
+"Queso Cabrales","Buenos Aires","Argentina","1998-03-30","22.00","30.00",False
+"Queso Cabrales","Cork","Ireland","1998-02-26","22.00","30.00",False
+"Queso Cabrales","Eugene","USA","1997-05-06","22.00","30.00",False
+"Queso Cabrales","Frankfurt a.M.","Germany","1998-01-30","22.00","30.00",False
+"Queso Cabrales","Graz","Austria","1997-02-11","22.00","30.00",False
+"Queso Cabrales","Graz","Austria","1997-10-09","22.00","30.00",False
+"Queso Cabrales","Köln","Germany","1997-01-07","22.00","30.00",False
+"Queso Cabrales","London","UK","1997-11-03","22.00","30.00",False
+"Queso Cabrales","London","UK","1997-12-26","22.00","30.00",False
+"Queso Cabrales","London","UK","1998-02-04","22.00","30.00",False
+"Queso Cabrales","Mannheim","Germany","1997-07-29","22.00","30.00",False
+"Queso Cabrales","México D.F.","Mexico","1996-11-27","22.00","30.00",False
+"Queso Cabrales","México D.F.","Mexico","1997-05-13","22.00","30.00",False
+"Queso Cabrales","México D.F.","Mexico","1998-01-20","22.00","30.00",False
+"Queso Cabrales","México D.F.","Mexico","1998-03-04","22.00","30.00",False
+"Queso Cabrales","México D.F.","Mexico","1998-05-05","22.00","30.00",False
+"Queso Cabrales","Montréal","Canada","1997-06-17","22.00","30.00",False
+"Queso Cabrales","Oulu","Finland","1997-05-30","22.00","30.00",False
+"Queso Cabrales","Paris","France","1998-04-22","22.00","30.00",False
+"Queso Cabrales","Reggio Emilia","Italy","1997-02-12","22.00","30.00",False
+"Queso Cabrales","Reims","France","1996-07-04","22.00","30.00",False
+"Queso Cabrales","Rio de Janeiro","Brazil","1997-12-09","22.00","30.00",False
+"Queso Cabrales","Rio de Janeiro","Brazil","1998-03-31","22.00","30.00",False
+"Queso Cabrales","Salzburg","Austria","1996-11-13","22.00","30.00",False
+"Queso Cabrales","Salzburg","Austria","1997-03-28","22.00","30.00",False
+"Queso Cabrales","San Cristóbal","Venezuela","1997-03-26","22.00","30.00",False
+"Queso Cabrales","Sao Paulo","Brazil","1997-03-06","22.00","30.00",False
+"Queso Cabrales","Sao Paulo","Brazil","1997-08-19","22.00","30.00",False
+"Queso Cabrales","Strasbourg","France","1997-06-12","22.00","30.00",False
+"Queso Cabrales","Tsawassen","Canada","1998-03-12","22.00","30.00",False
+"Queso Cabrales","Walla Walla","USA","1997-05-22","22.00","30.00",False
+"Queso Manchego La Pastora","Albuquerque","USA","1998-05-06","86.00","0.00",True
+"Queso Manchego La Pastora","Barquisimeto","Venezuela","1997-05-21","86.00","0.00",True
+"Queso Manchego La Pastora","Boise","USA","1997-09-23","86.00","0.00",True
+"Queso Manchego La Pastora","Brandenburg","Germany","1997-10-27","86.00","0.00",True
+"Queso Manchego La Pastora","Campinas","Brazil","1998-04-24","86.00","0.00",True
+"Queso Manchego La Pastora","Frankfurt a.M.","Germany","1997-05-14","86.00","0.00",True
+"Queso Manchego La Pastora","Graz","Austria","1997-08-15","86.00","0.00",True
+"Queso Manchego La Pastora","Graz","Austria","1998-03-23","86.00","0.00",True
+"Queso Manchego La Pastora","Graz","Austria","1998-03-26","86.00","0.00",True
+"Queso Manchego La Pastora","Helsinki","Finland","1997-10-07","86.00","0.00",True
+"Queso Manchego La Pastora","Montréal","Canada","1997-02-07","86.00","0.00",True
+"Queso Manchego La Pastora","Oulu","Finland","1996-07-26","86.00","0.00",True
+"Queso Manchego La Pastora","Portland","USA","1998-04-13","86.00","0.00",True
+"Queso Manchego La Pastora","Stuttgart","Germany","1998-04-23","86.00","0.00",True
+"Raclette Courdavault","Aachen","Germany","1998-04-20","79.00","0.00",True
+"Raclette Courdavault","Albuquerque","USA","1997-03-19","79.00","0.00",True
+"Raclette Courdavault","Anchorage","USA","1997-10-16","79.00","0.00",True
+"Raclette Courdavault","Århus","Denmark","1998-04-02","79.00","0.00",True
+"Raclette Courdavault","Barquisimeto","Venezuela","1998-01-09","79.00","0.00",True
+"Raclette Courdavault","Bergamo","Italy","1996-08-07","79.00","0.00",True
+"Raclette Courdavault","Berlin","Germany","1998-01-15","79.00","0.00",True
+"Raclette Courdavault","Boise","USA","1996-10-08","79.00","0.00",True
+"Raclette Courdavault","Boise","USA","1997-11-27","79.00","0.00",True
+"Raclette Courdavault","Boise","USA","1998-04-17","79.00","0.00",True
+"Raclette Courdavault","Bräcke","Sweden","1997-10-14","79.00","0.00",True
+"Raclette Courdavault","Brandenburg","Germany","1997-02-25","79.00","0.00",True
+"Raclette Courdavault","Brandenburg","Germany","1997-12-26","79.00","0.00",True
+"Raclette Courdavault","Brandenburg","Germany","1998-04-16","79.00","0.00",True
+"Raclette Courdavault","Bruxelles","Belgium","1998-02-17","79.00","0.00",True
+"Raclette Courdavault","Buenos Aires","Argentina","1997-05-08","79.00","0.00",True
+"Raclette Courdavault","Campinas","Brazil","1997-01-23","79.00","0.00",True
+"Raclette Courdavault","Charleroi","Belgium","1998-01-20","79.00","0.00",True
+"Raclette Courdavault","Cork","Ireland","1996-09-05","79.00","0.00",True
+"Raclette Courdavault","Cork","Ireland","1997-06-12","79.00","0.00",True
+"Raclette Courdavault","Cork","Ireland","1997-10-13","79.00","0.00",True
+"Raclette Courdavault","Cowes","UK","1997-11-20","79.00","0.00",True
+"Raclette Courdavault","Cunewalde","Germany","1997-10-06","79.00","0.00",True
+"Raclette Courdavault","Cunewalde","Germany","1997-11-18","79.00","0.00",True
+"Raclette Courdavault","Eugene","USA","1997-07-31","79.00","0.00",True
+"Raclette Courdavault","Frankfurt a.M.","Germany","1997-12-10","79.00","0.00",True
+"Raclette Courdavault","Genève","Switzerland","1996-07-12","79.00","0.00",True
+"Raclette Courdavault","Graz","Austria","1997-01-30","79.00","0.00",True
+"Raclette Courdavault","Graz","Austria","1998-04-13","79.00","0.00",True
+"Raclette Courdavault","Helsinki","Finland","1998-04-07","79.00","0.00",True
+"Raclette Courdavault","Kobenhavn","Denmark","1996-10-29","79.00","0.00",True
+"Raclette Courdavault","Leipzig","Germany","1997-06-20","79.00","0.00",True
+"Raclette Courdavault","Lille","France","1997-03-20","79.00","0.00",True
+"Raclette Courdavault","Lisboa","Portugal","1996-10-14","79.00","0.00",True
+"Raclette Courdavault","London","UK","1997-04-24","79.00","0.00",True
+"Raclette Courdavault","London","UK","1998-03-13","79.00","0.00",True
+"Raclette Courdavault","Luleå","Sweden","1996-08-12","79.00","0.00",True
+"Raclette Courdavault","México D.F.","Mexico","1996-09-12","79.00","0.00",True
+"Raclette Courdavault","México D.F.","Mexico","1997-05-13","79.00","0.00",True
+"Raclette Courdavault","Montréal","Canada","1997-07-21","79.00","0.00",True
+"Raclette Courdavault","München","Germany","1996-07-29","79.00","0.00",True
+"Raclette Courdavault","München","Germany","1997-03-27","79.00","0.00",True
+"Raclette Courdavault","Oulu","Finland","1997-11-21","79.00","0.00",True
+"Raclette Courdavault","Portland","USA","1997-09-11","79.00","0.00",True
+"Raclette Courdavault","Reggio Emilia","Italy","1997-11-03","79.00","0.00",True
+"Raclette Courdavault","Resende","Brazil","1997-12-30","79.00","0.00",True
+"Raclette Courdavault","Rio de Janeiro","Brazil","1998-01-26","79.00","0.00",True
+"Raclette Courdavault","San Cristóbal","Venezuela","1997-03-31","79.00","0.00",True
+"Raclette Courdavault","San Cristóbal","Venezuela","1997-07-16","79.00","0.00",True
+"Raclette Courdavault","Seattle","USA","1998-04-17","79.00","0.00",True
+"Raclette Courdavault","Stavern","Norway","1996-12-18","79.00","0.00",True
+"Raclette Courdavault","Strasbourg","France","1997-09-23","79.00","0.00",True
+"Raclette Courdavault","Tsawassen","Canada","1997-01-10","158.00","0.00",True
+"Ravioli Angelo","Barquisimeto","Venezuela","1998-01-09","36.00","20.00",True
+"Ravioli Angelo","Boise","USA","1998-03-27","36.00","20.00",True
+"Ravioli Angelo","Buenos Aires","Argentina","1998-02-27","36.00","20.00",True
+"Ravioli Angelo","Colchester","UK","1996-11-15","36.00","20.00",True
+"Ravioli Angelo","Colchester","UK","1997-10-16","36.00","20.00",True
+"Ravioli Angelo","Genève","Switzerland","1998-03-06","36.00","20.00",True
+"Ravioli Angelo","Graz","Austria","1996-11-29","36.00","20.00",True
+"Ravioli Angelo","Graz","Austria","1998-01-16","36.00","20.00",True
+"Ravioli Angelo","I. de Margarita","Venezuela","1998-04-21","36.00","20.00",True
+"Ravioli Angelo","Köln","Germany","1996-07-19","36.00","20.00",True
+"Ravioli Angelo","London","UK","1997-06-24","36.00","20.00",True
+"Ravioli Angelo","Lyon","France","1996-07-08","36.00","20.00",True
+"Ravioli Angelo","Madrid","Spain","1996-08-15","36.00","20.00",True
+"Ravioli Angelo","Madrid","Spain","1996-10-10","36.00","20.00",True
+"Ravioli Angelo","Mannheim","Germany","1997-06-27","36.00","20.00",True
+"Ravioli Angelo","Marseille","France","1997-11-26","36.00","20.00",True
+"Ravioli Angelo","México D.F.","Mexico","1997-05-13","36.00","20.00",True
+"Ravioli Angelo","Münster","Germany","1997-02-06","36.00","20.00",True
+"Ravioli Angelo","Oulu","Finland","1997-01-16","36.00","20.00",True
+"Ravioli Angelo","Rio de Janeiro","Brazil","1998-01-26","36.00","20.00",True
+"Ravioli Angelo","Salzburg","Austria","1997-07-11","36.00","20.00",True
+"Ravioli Angelo","San Cristóbal","Venezuela","1998-04-28","36.00","20.00",True
+"Ravioli Angelo","Strasbourg","France","1998-01-12","36.00","20.00",True
+"Rhönbräu Klosterbier","Aachen","Germany","1996-11-26","125.00","25.00",True
+"Rhönbräu Klosterbier","Albuquerque","USA","1996-08-30","125.00","25.00",True
+"Rhönbräu Klosterbier","Albuquerque","USA","1997-12-02","125.00","25.00",True
+"Rhönbräu Klosterbier","Albuquerque","USA","1998-05-06","125.00","25.00",True
+"Rhönbräu Klosterbier","Boise","USA","1997-04-18","125.00","25.00",True
+"Rhönbräu Klosterbier","Boise","USA","1997-10-29","125.00","25.00",True
+"Rhönbräu Klosterbier","Boise","USA","1998-02-18","125.00","25.00",True
+"Rhönbräu Klosterbier","Bräcke","Sweden","1997-02-28","125.00","25.00",True
+"Rhönbräu Klosterbier","Bräcke","Sweden","1998-03-17","125.00","25.00",True
+"Rhönbräu Klosterbier","Bräcke","Sweden","1998-03-27","125.00","25.00",True
+"Rhönbräu Klosterbier","Buenos Aires","Argentina","1998-01-07","125.00","25.00",True
+"Rhönbräu Klosterbier","Campinas","Brazil","1998-03-18","125.00","25.00",True
+"Rhönbräu Klosterbier","Caracas","Venezuela","1997-12-18","125.00","25.00",True
+"Rhönbräu Klosterbier","Cork","Ireland","1997-11-11","125.00","25.00",True
+"Rhönbräu Klosterbier","Cunewalde","Germany","1997-12-22","125.00","25.00",True
+"Rhönbräu Klosterbier","Frankfurt a.M.","Germany","1997-06-03","125.00","25.00",True
+"Rhönbräu Klosterbier","Genève","Switzerland","1998-03-16","125.00","25.00",True
+"Rhönbräu Klosterbier","Graz","Austria","1997-04-22","125.00","25.00",True
+"Rhönbräu Klosterbier","Graz","Austria","1997-12-11","125.00","25.00",True
+"Rhönbräu Klosterbier","Kirkland","USA","1997-06-23","125.00","25.00",True
+"Rhönbräu Klosterbier","Lille","France","1997-08-15","125.00","25.00",True
+"Rhönbräu Klosterbier","Luleå","Sweden","1996-08-14","125.00","25.00",True
+"Rhönbräu Klosterbier","Luleå","Sweden","1997-06-18","125.00","25.00",True
+"Rhönbräu Klosterbier","Luleå","Sweden","1998-03-04","125.00","25.00",True
+"Rhönbräu Klosterbier","Madrid","Spain","1996-10-10","125.00","25.00",True
+"Rhönbräu Klosterbier","Marseille","France","1998-03-06","125.00","25.00",True
+"Rhönbräu Klosterbier","México D.F.","Mexico","1996-08-29","125.00","25.00",True
+"Rhönbräu Klosterbier","México D.F.","Mexico","1997-03-13","125.00","25.00",True
+"Rhönbräu Klosterbier","México D.F.","Mexico","1997-09-25","125.00","25.00",True
+"Rhönbräu Klosterbier","München","Germany","1997-09-16","125.00","25.00",True
+"Rhönbräu Klosterbier","München","Germany","1998-03-05","125.00","25.00",True
+"Rhönbräu Klosterbier","Paris","France","1998-02-25","125.00","25.00",True
+"Rhönbräu Klosterbier","San Cristóbal","Venezuela","1997-03-31","125.00","25.00",True
+"Rhönbräu Klosterbier","San Cristóbal","Venezuela","1997-05-29","125.00","25.00",True
+"Rhönbräu Klosterbier","San Cristóbal","Venezuela","1997-07-29","125.00","25.00",True
+"Rhönbräu Klosterbier","San Francisco","USA","1997-06-25","125.00","25.00",True
+"Rhönbräu Klosterbier","Sao Paulo","Brazil","1996-11-06","125.00","25.00",True
+"Rhönbräu Klosterbier","Sao Paulo","Brazil","1997-06-26","125.00","25.00",True
+"Rhönbräu Klosterbier","Sao Paulo","Brazil","1997-12-19","125.00","25.00",True
+"Rhönbräu Klosterbier","Seattle","USA","1997-07-11","125.00","25.00",True
+"Rhönbräu Klosterbier","Strasbourg","France","1997-02-05","125.00","25.00",True
+"Rhönbräu Klosterbier","Stuttgart","Germany","1996-09-23","125.00","25.00",True
+"Rhönbräu Klosterbier","Toulouse","France","1997-08-14","125.00","25.00",True
+"Rhönbräu Klosterbier","Tsawassen","Canada","1998-03-25","125.00","25.00",True
+"Rhönbräu Klosterbier","Versailles","France","1998-03-24","125.00","25.00",True
+"Rhönbräu Klosterbier","Warszawa","Poland","1998-04-03","125.00","25.00",True
+"Röd Kaviar","Albuquerque","USA","1998-05-06","101.00","5.00",True
+"Röd Kaviar","Boise","USA","1997-08-11","101.00","5.00",True
+"Röd Kaviar","Bräcke","Sweden","1997-05-12","101.00","5.00",True
+"Röd Kaviar","Bräcke","Sweden","1997-10-14","101.00","5.00",True
+"Röd Kaviar","Buenos Aires","Argentina","1998-02-11","101.00","5.00",True
+"Röd Kaviar","Colchester","UK","1997-06-04","101.00","5.00",True
+"Röd Kaviar","Elgin","USA","1997-07-16","101.00","5.00",True
+"Röd Kaviar","Genève","Switzerland","1997-05-14","101.00","5.00",True
+"Röd Kaviar","Genève","Switzerland","1997-11-24","101.00","5.00",True
+"Röd Kaviar","Luleå","Sweden","1996-08-12","101.00","5.00",True
+"Röd Kaviar","München","Germany","1997-03-27","101.00","5.00",True
+"Röd Kaviar","München","Germany","1997-09-16","101.00","5.00",True
+"Röd Kaviar","Resende","Brazil","1997-01-21","101.00","5.00",True
+"Röd Kaviar","Seattle","USA","1997-10-06","101.00","5.00",True
+"Rogede sild","Århus","Denmark","1997-03-05","5.00","15.00",False
+"Rogede sild","Boise","USA","1997-10-22","5.00","15.00",False
+"Rogede sild","Boise","USA","1998-01-22","5.00","15.00",False
+"Rogede sild","Bruxelles","Belgium","1998-02-19","5.00","15.00",False
+"Rogede sild","Cunewalde","Germany","1997-05-27","5.00","15.00",False
+"Rogede sild","Graz","Austria","1997-12-15","5.00","15.00",False
+"Rogede sild","I. de Margarita","Venezuela","1997-08-20","5.00","15.00",False
+"Rogede sild","I. de Margarita","Venezuela","1998-03-17","5.00","15.00",False
+"Rogede sild","London","UK","1996-12-19","5.00","15.00",False
+"Rogede sild","Madrid","Spain","1998-04-09","5.00","15.00",False
+"Rogede sild","México D.F.","Mexico","1997-04-10","5.00","15.00",False
+"Rogede sild","Oulu","Finland","1997-11-21","5.00","15.00",False
+"Rogede sild","Seattle","USA","1997-11-13","5.00","15.00",False
+"Rogede sild","Torino","Italy","1997-11-25","5.00","15.00",False
+"Rössle Sauerkraut","Århus","Denmark","1997-10-01","26.00","0.00",True
+"Rössle Sauerkraut","Barquisimeto","Venezuela","1997-04-08","26.00","0.00",True
+"Rössle Sauerkraut","Berlin","Germany","1997-08-25","26.00","0.00",True
+"Rössle Sauerkraut","Berlin","Germany","1998-03-16","26.00","0.00",True
+"Rössle Sauerkraut","Boise","USA","1997-02-20","26.00","0.00",True
+"Rössle Sauerkraut","Bruxelles","Belgium","1997-08-28","26.00","0.00",True
+"Rössle Sauerkraut","Buenos Aires","Argentina","1998-03-10","26.00","0.00",True
+"Rössle Sauerkraut","Butte","USA","1997-08-07","26.00","0.00",True
+"Rössle Sauerkraut","Charleroi","Belgium","1996-09-10","26.00","0.00",True
+"Rössle Sauerkraut","Charleroi","Belgium","1997-02-26","26.00","0.00",True
+"Rössle Sauerkraut","Graz","Austria","1996-11-29","26.00","0.00",True
+"Rössle Sauerkraut","Graz","Austria","1997-04-22","26.00","0.00",True
+"Rössle Sauerkraut","Graz","Austria","1998-04-08","26.00","0.00",True
+"Rössle Sauerkraut","Helsinki","Finland","1998-02-06","26.00","0.00",True
+"Rössle Sauerkraut","I. de Margarita","Venezuela","1998-04-21","26.00","0.00",True
+"Rössle Sauerkraut","Leipzig","Germany","1996-08-09","26.00","0.00",True
+"Rössle Sauerkraut","London","UK","1996-12-09","26.00","0.00",True
+"Rössle Sauerkraut","London","UK","1997-12-30","26.00","0.00",True
+"Rössle Sauerkraut","Luleå","Sweden","1997-11-07","26.00","0.00",True
+"Rössle Sauerkraut","Luleå","Sweden","1998-03-04","26.00","0.00",True
+"Rössle Sauerkraut","Mannheim","Germany","1997-04-17","26.00","0.00",True
+"Rössle Sauerkraut","México D.F.","Mexico","1996-10-02","26.00","0.00",True
+"Rössle Sauerkraut","México D.F.","Mexico","1997-03-13","26.00","0.00",True
+"Rössle Sauerkraut","Portland","USA","1997-05-21","26.00","0.00",True
+"Rössle Sauerkraut","Reggio Emilia","Italy","1997-02-12","26.00","0.00",True
+"Rössle Sauerkraut","San Cristóbal","Venezuela","1998-03-25","26.00","0.00",True
+"Rössle Sauerkraut","Sao Paulo","Brazil","1997-01-07","26.00","0.00",True
+"Rössle Sauerkraut","Sao Paulo","Brazil","1998-05-04","26.00","0.00",True
+"Rössle Sauerkraut","Seattle","USA","1997-11-13","26.00","0.00",True
+"Rössle Sauerkraut","Stavern","Norway","1996-12-18","26.00","0.00",True
+"Rössle Sauerkraut","Strasbourg","France","1996-11-22","26.00","0.00",True
+"Rössle Sauerkraut","Stuttgart","Germany","1996-09-23","26.00","0.00",True
+"Rössle Sauerkraut","Toulouse","France","1997-04-09","26.00","0.00",True
+"Sasquatch Ale","Århus","Denmark","1996-11-28","111.00","15.00",True
+"Sasquatch Ale","Århus","Denmark","1997-10-01","111.00","15.00",True
+"Sasquatch Ale","Boise","USA","1997-10-10","111.00","15.00",True
+"Sasquatch Ale","Boise","USA","1997-11-27","111.00","15.00",True
+"Sasquatch Ale","Buenos Aires","Argentina","1998-03-10","111.00","15.00",True
+"Sasquatch Ale","Cork","Ireland","1998-04-30","111.00","15.00",True
+"Sasquatch Ale","Cowes","UK","1996-09-26","111.00","15.00",True
+"Sasquatch Ale","Graz","Austria","1998-04-01","111.00","15.00",True
+"Sasquatch Ale","Graz","Austria","1998-04-08","111.00","15.00",True
+"Sasquatch Ale","México D.F.","Mexico","1997-06-19","111.00","15.00",True
+"Sasquatch Ale","Münster","Germany","1997-02-06","111.00","15.00",True
+"Sasquatch Ale","Münster","Germany","1997-05-26","111.00","15.00",True
+"Sasquatch Ale","Nantes","France","1998-02-16","111.00","15.00",True
+"Sasquatch Ale","Portland","USA","1997-12-30","111.00","15.00",True
+"Sasquatch Ale","Rio de Janeiro","Brazil","1996-08-22","111.00","15.00",True
+"Sasquatch Ale","Sao Paulo","Brazil","1996-12-18","111.00","15.00",True
+"Sasquatch Ale","Seattle","USA","1997-03-24","111.00","15.00",True
+"Sasquatch Ale","Seattle","USA","1998-05-01","111.00","15.00",True
+"Sasquatch Ale","Toulouse","France","1996-11-20","111.00","15.00",True
+"Schoggi Schokolade","Albuquerque","USA","1997-07-14","49.00","30.00",True
+"Schoggi Schokolade","Anchorage","USA","1997-02-10","49.00","30.00",True
+"Schoggi Schokolade","Bruxelles","Belgium","1997-12-01","49.00","30.00",True
+"Schoggi Schokolade","Charleroi","Belgium","1998-03-06","49.00","30.00",True
+"Schoggi Schokolade","Cunewalde","Germany","1997-04-23","49.00","30.00",True
+"Schoggi Schokolade","Frankfurt a.M.","Germany","1996-08-19","49.00","30.00",True
+"Schoggi Schokolade","Graz","Austria","1998-03-26","49.00","30.00",True
+"Schoggi Schokolade","San Cristóbal","Venezuela","1996-07-16","49.00","30.00",True
+"Schoggi Schokolade","Versailles","France","1998-01-29","49.00","30.00",True
+"Scottish Longbreads","Århus","Denmark","1996-12-31","6.00","15.00",False
+"Scottish Longbreads","Bergamo","Italy","1996-09-09","6.00","15.00",False
+"Scottish Longbreads","Boise","USA","1997-10-10","6.00","15.00",False
+"Scottish Longbreads","Boise","USA","1997-10-29","6.00","15.00",False
+"Scottish Longbreads","Boise","USA","1998-03-11","6.00","15.00",False
+"Scottish Longbreads","Boise","USA","1998-05-01","6.00","15.00",False
+"Scottish Longbreads","Bräcke","Sweden","1997-02-28","6.00","15.00",False
+"Scottish Longbreads","Bruxelles","Belgium","1997-05-07","6.00","15.00",False
+"Scottish Longbreads","Buenos Aires","Argentina","1997-04-29","6.00","15.00",False
+"Scottish Longbreads","Cunewalde","Germany","1997-05-19","6.00","15.00",False
+"Scottish Longbreads","Frankfurt a.M.","Germany","1996-10-31","6.00","15.00",False
+"Scottish Longbreads","Kobenhavn","Denmark","1997-01-16","6.00","15.00",False
+"Scottish Longbreads","Köln","Germany","1997-12-05","6.00","15.00",False
+"Scottish Longbreads","Lander","USA","1996-12-17","6.00","15.00",False
+"Scottish Longbreads","Lander","USA","1997-11-27","6.00","15.00",False
+"Scottish Longbreads","Lille","France","1997-12-22","6.00","15.00",False
+"Scottish Longbreads","Lisboa","Portugal","1996-10-14","6.00","15.00",False
+"Scottish Longbreads","London","UK","1998-02-04","6.00","15.00",False
+"Scottish Longbreads","Lyon","France","1996-10-21","6.00","15.00",False
+"Scottish Longbreads","Madrid","Spain","1998-04-09","6.00","15.00",False
+"Scottish Longbreads","México D.F.","Mexico","1998-01-20","6.00","15.00",False
+"Scottish Longbreads","Montréal","Canada","1997-01-23","6.00","15.00",False
+"Scottish Longbreads","Montréal","Canada","1997-08-01","6.00","15.00",False
+"Scottish Longbreads","Portland","USA","1996-09-17","6.00","15.00",False
+"Scottish Longbreads","Portland","USA","1997-09-09","6.00","15.00",False
+"Scottish Longbreads","Reggio Emilia","Italy","1996-08-23","6.00","15.00",False
+"Scottish Longbreads","Rio de Janeiro","Brazil","1997-08-06","6.00","15.00",False
+"Scottish Longbreads","Rio de Janeiro","Brazil","1998-02-24","6.00","15.00",False
+"Scottish Longbreads","San Cristóbal","Venezuela","1997-03-31","6.00","15.00",False
+"Scottish Longbreads","Sao Paulo","Brazil","1998-01-13","6.00","15.00",False
+"Scottish Longbreads","Sevilla","Spain","1996-09-11","6.00","15.00",False
+"Scottish Longbreads","Sevilla","Spain","1998-02-16","6.00","15.00",False
+"Scottish Longbreads","Tsawassen","Canada","1998-04-24","6.00","15.00",False
+"Scottish Longbreads","Warszawa","Poland","1997-12-23","6.00","15.00",False
+"Singaporean Hokkien Fried Mee","Anchorage","USA","1997-09-24","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Bergamo","Italy","1997-01-03","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Bern","Switzerland","1997-11-19","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Boise","USA","1998-02-11","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Boise","USA","1998-04-06","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Campinas","Brazil","1997-09-01","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Campinas","Brazil","1997-12-15","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Charleroi","Belgium","1997-03-04","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Charleroi","Belgium","1997-12-05","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Charleroi","Belgium","1998-04-20","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Cork","Ireland","1996-09-19","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Cork","Ireland","1997-04-24","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Cunewalde","Germany","1996-11-04","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Cunewalde","Germany","1997-07-03","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Cunewalde","Germany","1998-01-21","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Cunewalde","Germany","1998-04-02","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Graz","Austria","1997-06-17","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Graz","Austria","1997-12-15","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Helsinki","Finland","1997-09-18","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Lisboa","Portugal","1998-04-08","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Madrid","Spain","1998-04-09","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Marseille","France","1997-09-10","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","México D.F.","Mexico","1997-08-08","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","México D.F.","Mexico","1998-01-28","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Montréal","Canada","1996-10-17","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Nantes","France","1996-09-20","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Reims","France","1996-07-04","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","San Cristóbal","Venezuela","1997-04-07","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Toulouse","France","1998-03-03","26.00","0.00",True
+"Singaporean Hokkien Fried Mee","Tsawassen","Canada","1997-04-01","26.00","0.00",True
+"Sir Rodney's Marmalade","Albuquerque","USA","1996-08-02","40.00","0.00",True
+"Sir Rodney's Marmalade","Albuquerque","USA","1998-05-06","40.00","0.00",True
+"Sir Rodney's Marmalade","Buenos Aires","Argentina","1998-01-13","40.00","0.00",True
+"Sir Rodney's Marmalade","Buenos Aires","Argentina","1998-03-30","40.00","0.00",True
+"Sir Rodney's Marmalade","Charleroi","Belgium","1996-07-09","40.00","0.00",True
+"Sir Rodney's Marmalade","Colchester","UK","1998-03-16","40.00","0.00",True
+"Sir Rodney's Marmalade","Cunewalde","Germany","1998-02-10","40.00","0.00",True
+"Sir Rodney's Marmalade","Cunewalde","Germany","1998-04-14","40.00","0.00",True
+"Sir Rodney's Marmalade","Elgin","USA","1997-09-08","40.00","0.00",True
+"Sir Rodney's Marmalade","Frankfurt a.M.","Germany","1997-07-09","40.00","0.00",True
+"Sir Rodney's Marmalade","Graz","Austria","1997-04-22","40.00","0.00",True
+"Sir Rodney's Marmalade","London","UK","1997-05-01","40.00","0.00",True
+"Sir Rodney's Marmalade","Luleå","Sweden","1996-12-16","40.00","0.00",True
+"Sir Rodney's Marmalade","Sao Paulo","Brazil","1996-08-28","40.00","0.00",True
+"Sir Rodney's Marmalade","Sao Paulo","Brazil","1996-12-04","40.00","0.00",True
+"Sir Rodney's Marmalade","Versailles","France","1998-03-05","40.00","0.00",True
+"Sir Rodney's Scones","Anchorage","USA","1998-04-20","3.00","5.00",False
+"Sir Rodney's Scones","Barquisimeto","Venezuela","1997-02-28","3.00","5.00",False
+"Sir Rodney's Scones","Bern","Switzerland","1997-11-06","3.00","5.00",False
+"Sir Rodney's Scones","Brandenburg","Germany","1997-02-25","3.00","5.00",False
+"Sir Rodney's Scones","Bruxelles","Belgium","1998-03-26","3.00","5.00",False
+"Sir Rodney's Scones","Buenos Aires","Argentina","1997-01-09","3.00","5.00",False
+"Sir Rodney's Scones","Buenos Aires","Argentina","1997-10-24","3.00","5.00",False
+"Sir Rodney's Scones","Charleroi","Belgium","1998-03-06","3.00","5.00",False
+"Sir Rodney's Scones","Cunewalde","Germany","1997-09-05","3.00","5.00",False
+"Sir Rodney's Scones","Eugene","USA","1997-09-25","3.00","5.00",False
+"Sir Rodney's Scones","Eugene","USA","1998-04-22","3.00","5.00",False
+"Sir Rodney's Scones","Graz","Austria","1996-11-29","3.00","5.00",False
+"Sir Rodney's Scones","Graz","Austria","1997-01-30","3.00","5.00",False
+"Sir Rodney's Scones","Graz","Austria","1998-04-01","3.00","5.00",False
+"Sir Rodney's Scones","Helsinki","Finland","1998-02-06","3.00","5.00",False
+"Sir Rodney's Scones","I. de Margarita","Venezuela","1997-11-04","3.00","5.00",False
+"Sir Rodney's Scones","Kobenhavn","Denmark","1997-08-22","3.00","5.00",False
+"Sir Rodney's Scones","Lille","France","1997-12-03","3.00","5.00",False
+"Sir Rodney's Scones","Lisboa","Portugal","1996-12-27","3.00","5.00",False
+"Sir Rodney's Scones","Lisboa","Portugal","1997-03-17","3.00","5.00",False
+"Sir Rodney's Scones","London","UK","1997-03-24","3.00","5.00",False
+"Sir Rodney's Scones","London","UK","1997-05-16","3.00","5.00",False
+"Sir Rodney's Scones","Mannheim","Germany","1997-07-29","3.00","5.00",False
+"Sir Rodney's Scones","Mannheim","Germany","1998-03-17","3.00","5.00",False
+"Sir Rodney's Scones","Mannheim","Germany","1998-04-29","3.00","5.00",False
+"Sir Rodney's Scones","México D.F.","Mexico","1996-07-18","3.00","5.00",False
+"Sir Rodney's Scones","Montréal","Canada","1997-08-04","3.00","5.00",False
+"Sir Rodney's Scones","München","Germany","1997-08-07","3.00","5.00",False
+"Sir Rodney's Scones","München","Germany","1997-10-24","3.00","5.00",False
+"Sir Rodney's Scones","München","Germany","1998-03-05","3.00","5.00",False
+"Sir Rodney's Scones","Nantes","France","1997-07-24","3.00","5.00",False
+"Sir Rodney's Scones","Oulu","Finland","1996-10-18","3.00","5.00",False
+"Sir Rodney's Scones","Rio de Janeiro","Brazil","1996-07-19","3.00","5.00",False
+"Sir Rodney's Scones","San Francisco","USA","1998-02-12","3.00","5.00",False
+"Sir Rodney's Scones","Sao Paulo","Brazil","1997-01-07","3.00","5.00",False
+"Sir Rodney's Scones","Seattle","USA","1997-04-11","3.00","5.00",False
+"Sir Rodney's Scones","Seattle","USA","1998-01-30","3.00","5.00",False
+"Sir Rodney's Scones","Sevilla","Spain","1997-05-28","3.00","5.00",False
+"Sir Rodney's Scones","Stuttgart","Germany","1997-04-22","3.00","5.00",False
+"Sirop d'érable","Anchorage","USA","1998-04-20","113.00","25.00",True
+"Sirop d'érable","Århus","Denmark","1997-12-08","113.00","25.00",True
+"Sirop d'érable","Boise","USA","1997-02-10","113.00","25.00",True
+"Sirop d'érable","Bräcke","Sweden","1998-02-10","113.00","25.00",True
+"Sirop d'érable","Buenos Aires","Argentina","1997-10-24","113.00","25.00",True
+"Sirop d'érable","Cowes","UK","1998-03-06","113.00","25.00",True
+"Sirop d'érable","Cunewalde","Germany","1997-01-17","113.00","25.00",True
+"Sirop d'érable","Graz","Austria","1997-07-10","113.00","25.00",True
+"Sirop d'érable","Graz","Austria","1998-04-01","113.00","25.00",True
+"Sirop d'érable","Helsinki","Finland","1998-02-26","113.00","25.00",True
+"Sirop d'érable","Kobenhavn","Denmark","1997-08-22","113.00","25.00",True
+"Sirop d'érable","Lyon","France","1998-01-05","113.00","25.00",True
+"Sirop d'érable","Mannheim","Germany","1998-04-29","113.00","25.00",True
+"Sirop d'érable","Montréal","Canada","1997-10-30","113.00","25.00",True
+"Sirop d'érable","Oulu","Finland","1997-02-24","113.00","25.00",True
+"Sirop d'érable","Rio de Janeiro","Brazil","1998-04-27","113.00","25.00",True
+"Sirop d'érable","Salzburg","Austria","1997-05-08","113.00","25.00",True
+"Sirop d'érable","San Francisco","USA","1997-11-10","113.00","25.00",True
+"Sirop d'érable","Sao Paulo","Brazil","1998-04-22","113.00","25.00",True
+"Sirop d'érable","Seattle","USA","1997-04-11","113.00","25.00",True
+"Sirop d'érable","Sevilla","Spain","1997-05-28","113.00","25.00",True
+"Sirop d'érable","Stuttgart","Germany","1997-04-22","113.00","25.00",True
+"Sirop d'érable","Warszawa","Poland","1998-02-25","113.00","25.00",True
+"Sirop d'érable","Warszawa","Poland","1998-04-03","113.00","25.00",True
+"Spegesild","Albuquerque","USA","1998-05-06","95.00","0.00",True
+"Spegesild","Barquisimeto","Venezuela","1998-04-03","95.00","0.00",True
+"Spegesild","Berlin","Germany","1997-08-25","95.00","0.00",True
+"Spegesild","Boise","USA","1996-10-08","95.00","0.00",True
+"Spegesild","Boise","USA","1997-09-04","95.00","0.00",True
+"Spegesild","Boise","USA","1997-10-22","95.00","0.00",True
+"Spegesild","Bräcke","Sweden","1998-04-06","95.00","0.00",True
+"Spegesild","Buenos Aires","Argentina","1998-04-13","95.00","0.00",True
+"Spegesild","Colchester","UK","1997-11-17","95.00","0.00",True
+"Spegesild","Genève","Switzerland","1998-05-06","95.00","0.00",True
+"Spegesild","Graz","Austria","1996-12-23","95.00","0.00",True
+"Spegesild","Kobenhavn","Denmark","1997-01-16","95.00","0.00",True
+"Spegesild","London","UK","1998-03-11","95.00","0.00",True
+"Spegesild","Lyon","France","1997-02-27","95.00","0.00",True
+"Spegesild","Marseille","France","1998-02-09","95.00","0.00",True
+"Spegesild","München","Germany","1997-09-16","95.00","0.00",True
+"Spegesild","Reggio Emilia","Italy","1997-01-28","95.00","0.00",True
+"Spegesild","Resende","Brazil","1997-08-25","95.00","0.00",True
+"Spegesild","Rio de Janeiro","Brazil","1996-08-22","95.00","0.00",True
+"Spegesild","Rio de Janeiro","Brazil","1998-01-05","95.00","0.00",True
+"Spegesild","San Cristóbal","Venezuela","1996-12-26","95.00","0.00",True
+"Spegesild","Sao Paulo","Brazil","1997-03-06","95.00","0.00",True
+"Spegesild","Sao Paulo","Brazil","1997-04-21","95.00","0.00",True
+"Spegesild","Sao Paulo","Brazil","1998-03-23","95.00","0.00",True
+"Spegesild","Seattle","USA","1997-10-08","95.00","0.00",True
+"Spegesild","Strasbourg","France","1997-02-05","95.00","0.00",True
+"Spegesild","Toulouse","France","1997-02-21","95.00","0.00",True
+"Steeleye Stout","Århus","Denmark","1998-03-03","20.00","15.00",True
+"Steeleye Stout","Boise","USA","1996-10-08","20.00","15.00",True
+"Steeleye Stout","Boise","USA","1996-12-30","20.00","15.00",True
+"Steeleye Stout","Boise","USA","1998-04-06","20.00","15.00",True
+"Steeleye Stout","Buenos Aires","Argentina","1997-04-29","20.00","15.00",True
+"Steeleye Stout","Charleroi","Belgium","1998-04-20","20.00","15.00",True
+"Steeleye Stout","Colchester","UK","1998-02-02","20.00","15.00",True
+"Steeleye Stout","Cowes","UK","1996-10-03","20.00","15.00",True
+"Steeleye Stout","Cunewalde","Germany","1996-08-21","20.00","15.00",True
+"Steeleye Stout","Cunewalde","Germany","1998-01-21","20.00","15.00",True
+"Steeleye Stout","Eugene","USA","1997-07-04","20.00","15.00",True
+"Steeleye Stout","Graz","Austria","1996-12-23","20.00","15.00",True
+"Steeleye Stout","Graz","Austria","1997-07-10","20.00","15.00",True
+"Steeleye Stout","Graz","Austria","1998-01-16","20.00","15.00",True
+"Steeleye Stout","I. de Margarita","Venezuela","1997-10-08","20.00","15.00",True
+"Steeleye Stout","I. de Margarita","Venezuela","1998-04-21","20.00","15.00",True
+"Steeleye Stout","Lander","USA","1998-01-08","20.00","15.00",True
+"Steeleye Stout","Lille","France","1997-12-22","20.00","15.00",True
+"Steeleye Stout","Lisboa","Portugal","1997-05-28","20.00","15.00",True
+"Steeleye Stout","London","UK","1997-01-01","20.00","15.00",True
+"Steeleye Stout","London","UK","1997-06-24","20.00","15.00",True
+"Steeleye Stout","Luleå","Sweden","1997-02-12","20.00","15.00",True
+"Steeleye Stout","Lyon","France","1997-05-23","20.00","15.00",True
+"Steeleye Stout","Madrid","Spain","1996-08-14","20.00","15.00",True
+"Steeleye Stout","Montréal","Canada","1997-01-23","20.00","15.00",True
+"Steeleye Stout","München","Germany","1997-08-07","20.00","15.00",True
+"Steeleye Stout","Oulu","Finland","1997-05-30","20.00","15.00",True
+"Steeleye Stout","Rio de Janeiro","Brazil","1996-07-19","20.00","15.00",True
+"Steeleye Stout","Rio de Janeiro","Brazil","1997-07-02","20.00","15.00",True
+"Steeleye Stout","Rio de Janeiro","Brazil","1997-10-28","20.00","15.00",True
+"Steeleye Stout","San Cristóbal","Venezuela","1998-03-18","20.00","15.00",True
+"Steeleye Stout","Sao Paulo","Brazil","1998-02-04","20.00","15.00",True
+"Steeleye Stout","Seattle","USA","1997-11-13","20.00","15.00",True
+"Steeleye Stout","Stavern","Norway","1998-01-14","20.00","15.00",True
+"Steeleye Stout","Stuttgart","Germany","1998-04-23","20.00","15.00",True
+"Steeleye Stout","Warszawa","Poland","1998-02-04","20.00","15.00",True
+"Tarte au sucre","Albuquerque","USA","1996-09-25","17.00","0.00",True
+"Tarte au sucre","Albuquerque","USA","1996-09-27","17.00","0.00",True
+"Tarte au sucre","Albuquerque","USA","1998-01-26","17.00","0.00",True
+"Tarte au sucre","Albuquerque","USA","1998-03-31","17.00","0.00",True
+"Tarte au sucre","Århus","Denmark","1997-12-08","17.00","0.00",True
+"Tarte au sucre","Bern","Switzerland","1997-11-19","17.00","0.00",True
+"Tarte au sucre","Bern","Switzerland","1998-03-20","17.00","0.00",True
+"Tarte au sucre","Boise","USA","1997-08-11","17.00","0.00",True
+"Tarte au sucre","Boise","USA","1997-11-27","17.00","0.00",True
+"Tarte au sucre","Boise","USA","1998-03-11","17.00","0.00",True
+"Tarte au sucre","Bräcke","Sweden","1998-02-23","17.00","0.00",True
+"Tarte au sucre","Brandenburg","Germany","1997-10-27","17.00","0.00",True
+"Tarte au sucre","Brandenburg","Germany","1998-01-06","17.00","0.00",True
+"Tarte au sucre","Cork","Ireland","1996-09-05","17.00","0.00",True
+"Tarte au sucre","Cowes","UK","1997-12-26","17.00","0.00",True
+"Tarte au sucre","Cunewalde","Germany","1996-08-21","17.00","0.00",True
+"Tarte au sucre","Cunewalde","Germany","1997-10-03","17.00","0.00",True
+"Tarte au sucre","Elgin","USA","1996-12-25","17.00","0.00",True
+"Tarte au sucre","Eugene","USA","1998-01-06","17.00","0.00",True
+"Tarte au sucre","Graz","Austria","1997-08-15","17.00","0.00",True
+"Tarte au sucre","Kirkland","USA","1997-06-19","17.00","0.00",True
+"Tarte au sucre","Kirkland","USA","1998-01-08","17.00","0.00",True
+"Tarte au sucre","Kobenhavn","Denmark","1997-12-29","17.00","0.00",True
+"Tarte au sucre","Köln","Germany","1996-07-19","17.00","0.00",True
+"Tarte au sucre","Köln","Germany","1997-05-30","17.00","0.00",True
+"Tarte au sucre","Leipzig","Germany","1996-08-09","17.00","0.00",True
+"Tarte au sucre","Leipzig","Germany","1997-12-16","17.00","0.00",True
+"Tarte au sucre","Lille","France","1997-01-08","17.00","0.00",True
+"Tarte au sucre","London","UK","1997-07-15","17.00","0.00",True
+"Tarte au sucre","Lyon","France","1997-05-23","17.00","0.00",True
+"Tarte au sucre","Marseille","France","1998-03-06","17.00","0.00",True
+"Tarte au sucre","Montréal","Canada","1996-10-28","17.00","0.00",True
+"Tarte au sucre","Montréal","Canada","1997-04-14","17.00","0.00",True
+"Tarte au sucre","München","Germany","1997-06-06","17.00","0.00",True
+"Tarte au sucre","Nantes","France","1997-09-17","17.00","0.00",True
+"Tarte au sucre","Portland","USA","1996-09-17","17.00","0.00",True
+"Tarte au sucre","Portland","USA","1996-09-20","17.00","0.00",True
+"Tarte au sucre","Reggio Emilia","Italy","1997-06-09","17.00","0.00",True
+"Tarte au sucre","Sao Paulo","Brazil","1997-07-22","17.00","0.00",True
+"Tarte au sucre","Seattle","USA","1998-01-30","17.00","0.00",True
+"Tarte au sucre","Seattle","USA","1998-02-24","17.00","0.00",True
+"Tarte au sucre","Sevilla","Spain","1998-02-05","17.00","0.00",True
+"Tarte au sucre","Strasbourg","France","1997-02-18","17.00","0.00",True
+"Tarte au sucre","Toulouse","France","1997-01-14","17.00","0.00",True
+"Tarte au sucre","Tsawassen","Canada","1996-12-20","17.00","0.00",True
+"Tarte au sucre","Tsawassen","Canada","1998-03-13","17.00","0.00",True
+"Tarte au sucre","Tsawassen","Canada","1998-04-16","17.00","0.00",True
+"Tarte au sucre","Warszawa","Poland","1998-04-23","17.00","0.00",True
+"Teatime Chocolate Biscuits","Barquisimeto","Venezuela","1996-08-16","25.00","5.00",True
+"Teatime Chocolate Biscuits","Boise","USA","1997-06-02","25.00","5.00",True
+"Teatime Chocolate Biscuits","Boise","USA","1997-10-21","25.00","5.00",True
+"Teatime Chocolate Biscuits","Boise","USA","1998-01-22","25.00","5.00",True
+"Teatime Chocolate Biscuits","Charleroi","Belgium","1997-03-04","25.00","5.00",True
+"Teatime Chocolate Biscuits","Cowes","UK","1997-08-05","25.00","5.00",True
+"Teatime Chocolate Biscuits","Cunewalde","Germany","1996-11-04","25.00","5.00",True
+"Teatime Chocolate Biscuits","Cunewalde","Germany","1997-12-22","25.00","5.00",True
+"Teatime Chocolate Biscuits","Eugene","USA","1997-09-25","25.00","5.00",True
+"Teatime Chocolate Biscuits","Helsinki","Finland","1998-02-26","25.00","5.00",True
+"Teatime Chocolate Biscuits","I. de Margarita","Venezuela","1997-10-08","25.00","5.00",True
+"Teatime Chocolate Biscuits","I. de Margarita","Venezuela","1998-01-02","25.00","5.00",True
+"Teatime Chocolate Biscuits","Lander","USA","1996-10-15","25.00","5.00",True
+"Teatime Chocolate Biscuits","Luleå","Sweden","1998-02-06","25.00","5.00",True
+"Teatime Chocolate Biscuits","Madrid","Spain","1996-08-14","25.00","5.00",True
+"Teatime Chocolate Biscuits","Marseille","France","1998-05-06","25.00","5.00",True
+"Teatime Chocolate Biscuits","México D.F.","Mexico","1997-09-22","25.00","5.00",True
+"Teatime Chocolate Biscuits","México D.F.","Mexico","1998-03-04","25.00","5.00",True
+"Teatime Chocolate Biscuits","München","Germany","1997-08-07","25.00","5.00",True
+"Teatime Chocolate Biscuits","München","Germany","1998-04-09","25.00","5.00",True
+"Teatime Chocolate Biscuits","Münster","Germany","1997-02-06","25.00","5.00",True
+"Teatime Chocolate Biscuits","Münster","Germany","1997-02-14","25.00","5.00",True
+"Teatime Chocolate Biscuits","Münster","Germany","1998-03-23","25.00","5.00",True
+"Teatime Chocolate Biscuits","Oulu","Finland","1997-01-16","25.00","5.00",True
+"Teatime Chocolate Biscuits","Resende","Brazil","1997-12-30","25.00","5.00",True
+"Teatime Chocolate Biscuits","Rio de Janeiro","Brazil","1996-09-06","25.00","5.00",True
+"Teatime Chocolate Biscuits","Rio de Janeiro","Brazil","1997-01-21","25.00","5.00",True
+"Teatime Chocolate Biscuits","Rio de Janeiro","Brazil","1997-02-14","25.00","5.00",True
+"Teatime Chocolate Biscuits","Rio de Janeiro","Brazil","1997-08-27","25.00","5.00",True
+"Teatime Chocolate Biscuits","Rio de Janeiro","Brazil","1998-04-14","25.00","5.00",True
+"Teatime Chocolate Biscuits","Sao Paulo","Brazil","1997-01-14","25.00","5.00",True
+"Teatime Chocolate Biscuits","Sao Paulo","Brazil","1997-03-26","25.00","5.00",True
+"Teatime Chocolate Biscuits","Seattle","USA","1998-05-01","25.00","5.00",True
+"Teatime Chocolate Biscuits","Sevilla","Spain","1997-05-28","25.00","5.00",True
+"Teatime Chocolate Biscuits","Stavern","Norway","1998-01-14","25.00","5.00",True
+"Teatime Chocolate Biscuits","Stuttgart","Germany","1997-09-01","25.00","5.00",True
+"Teatime Chocolate Biscuits","Torino","Italy","1997-10-20","25.00","5.00",True
+"Thüringer Rostbratwurst","Anchorage","USA","1996-09-13","0.00","0.00",True
+"Thüringer Rostbratwurst","Århus","Denmark","1997-03-05","0.00","0.00",True
+"Thüringer Rostbratwurst","Boise","USA","1997-02-10","0.00","0.00",True
+"Thüringer Rostbratwurst","Boise","USA","1997-04-18","0.00","0.00",True
+"Thüringer Rostbratwurst","Boise","USA","1998-04-17","0.00","0.00",True
+"Thüringer Rostbratwurst","Bräcke","Sweden","1998-04-01","0.00","0.00",True
+"Thüringer Rostbratwurst","Brandenburg","Germany","1998-02-18","0.00","0.00",True
+"Thüringer Rostbratwurst","Butte","USA","1997-08-07","0.00","0.00",True
+"Thüringer Rostbratwurst","Caracas","Venezuela","1996-07-30","0.00","0.00",True
+"Thüringer Rostbratwurst","Cork","Ireland","1997-09-30","0.00","0.00",True
+"Thüringer Rostbratwurst","Cork","Ireland","1998-02-19","0.00","0.00",True
+"Thüringer Rostbratwurst","Cork","Ireland","1998-02-26","0.00","0.00",True
+"Thüringer Rostbratwurst","Cunewalde","Germany","1997-10-03","0.00","0.00",True
+"Thüringer Rostbratwurst","Eugene","USA","1998-04-07","0.00","0.00",True
+"Thüringer Rostbratwurst","Frankfurt a.M.","Germany","1997-12-10","0.00","0.00",True
+"Thüringer Rostbratwurst","Genève","Switzerland","1997-09-12","0.00","0.00",True
+"Thüringer Rostbratwurst","Graz","Austria","1996-12-13","0.00","0.00",True
+"Thüringer Rostbratwurst","Graz","Austria","1997-10-09","0.00","0.00",True
+"Thüringer Rostbratwurst","Lander","USA","1996-12-02","0.00","0.00",True
+"Thüringer Rostbratwurst","Lisboa","Portugal","1998-04-08","0.00","0.00",True
+"Thüringer Rostbratwurst","London","UK","1997-01-01","0.00","0.00",True
+"Thüringer Rostbratwurst","Luleå","Sweden","1998-01-28","0.00","0.00",True
+"Thüringer Rostbratwurst","Madrid","Spain","1997-12-29","0.00","0.00",True
+"Thüringer Rostbratwurst","México D.F.","Mexico","1996-11-14","0.00","0.00",True
+"Thüringer Rostbratwurst","München","Germany","1997-12-23","0.00","0.00",True
+"Thüringer Rostbratwurst","Nantes","France","1998-03-24","0.00","0.00",True
+"Thüringer Rostbratwurst","Oulu","Finland","1997-06-30","0.00","0.00",True
+"Thüringer Rostbratwurst","Sao Paulo","Brazil","1996-08-27","0.00","0.00",True
+"Thüringer Rostbratwurst","Sao Paulo","Brazil","1998-01-15","0.00","0.00",True
+"Thüringer Rostbratwurst","Sevilla","Spain","1997-08-12","0.00","0.00",True
+"Thüringer Rostbratwurst","Strasbourg","France","1996-11-22","0.00","0.00",True
+"Thüringer Rostbratwurst","Toulouse","France","1997-12-19","0.00","0.00",True
+"Tofu","Albuquerque","USA","1998-05-06","35.00","0.00",True
+"Tofu","Boise","USA","1996-12-25","35.00","0.00",True
+"Tofu","Boise","USA","1997-06-02","35.00","0.00",True
+"Tofu","Brandenburg","Germany","1996-10-09","35.00","0.00",True
+"Tofu","Buenos Aires","Argentina","1997-01-09","35.00","0.00",True
+"Tofu","Cork","Ireland","1997-04-11","35.00","0.00",True
+"Tofu","Elgin","USA","1996-12-06","35.00","0.00",True
+"Tofu","Eugene","USA","1997-09-04","35.00","0.00",True
+"Tofu","Graz","Austria","1997-06-17","35.00","0.00",True
+"Tofu","Köln","Germany","1997-06-26","35.00","0.00",True
+"Tofu","Luleå","Sweden","1997-11-07","35.00","0.00",True
+"Tofu","Marseille","France","1998-05-06","35.00","0.00",True
+"Tofu","México D.F.","Mexico","1997-03-13","35.00","0.00",True
+"Tofu","México D.F.","Mexico","1997-08-08","35.00","0.00",True
+"Tofu","München","Germany","1997-08-07","35.00","0.00",True
+"Tofu","München","Germany","1997-09-19","35.00","0.00",True
+"Tofu","Münster","Germany","1996-07-05","35.00","0.00",True
+"Tofu","Oulu","Finland","1996-10-18","35.00","0.00",True
+"Tofu","Oulu","Finland","1997-01-13","35.00","0.00",True
+"Tofu","Oulu","Finland","1997-11-21","35.00","0.00",True
+"Tofu","Rio de Janeiro","Brazil","1997-12-24","35.00","0.00",True
+"Tofu","Salzburg","Austria","1997-01-27","35.00","0.00",True
+"Tourtière","Århus","Denmark","1996-11-28","21.00","10.00",True
+"Tourtière","Århus","Denmark","1997-07-07","21.00","10.00",True
+"Tourtière","Barquisimeto","Venezuela","1998-05-01","21.00","10.00",True
+"Tourtière","Boise","USA","1997-09-23","21.00","10.00",True
+"Tourtière","Boise","USA","1998-02-11","21.00","10.00",True
+"Tourtière","Brandenburg","Germany","1997-05-20","21.00","10.00",True
+"Tourtière","Charleroi","Belgium","1998-04-20","21.00","10.00",True
+"Tourtière","Elgin","USA","1996-12-06","21.00","10.00",True
+"Tourtière","Elgin","USA","1997-07-16","21.00","10.00",True
+"Tourtière","Frankfurt a.M.","Germany","1997-05-12","21.00","10.00",True
+"Tourtière","Graz","Austria","1997-02-11","21.00","10.00",True
+"Tourtière","Lander","USA","1996-11-08","21.00","10.00",True
+"Tourtière","Lander","USA","1997-01-31","21.00","10.00",True
+"Tourtière","Lille","France","1997-01-08","21.00","10.00",True
+"Tourtière","Lisboa","Portugal","1996-11-12","21.00","10.00",True
+"Tourtière","London","UK","1997-12-26","21.00","10.00",True
+"Tourtière","Luleå","Sweden","1997-02-13","21.00","10.00",True
+"Tourtière","Luleå","Sweden","1997-05-01","21.00","10.00",True
+"Tourtière","Luleå","Sweden","1997-09-02","21.00","10.00",True
+"Tourtière","Lyon","France","1997-02-19","21.00","10.00",True
+"Tourtière","Madrid","Spain","1996-09-16","21.00","10.00",True
+"Tourtière","Mannheim","Germany","1997-04-09","21.00","10.00",True
+"Tourtière","Marseille","France","1996-10-16","21.00","10.00",True
+"Tourtière","Marseille","France","1996-11-25","21.00","10.00",True
+"Tourtière","México D.F.","Mexico","1998-02-27","21.00","10.00",True
+"Tourtière","München","Germany","1997-10-24","21.00","10.00",True
+"Tourtière","München","Germany","1998-01-29","21.00","10.00",True
+"Tourtière","Oulu","Finland","1997-12-17","21.00","10.00",True
+"Tourtière","Reggio Emilia","Italy","1996-08-23","21.00","10.00",True
+"Tourtière","Rio de Janeiro","Brazil","1997-12-24","21.00","10.00",True
+"Tourtière","San Francisco","USA","1997-10-27","21.00","10.00",True
+"Tourtière","Sao Paulo","Brazil","1997-03-26","21.00","10.00",True
+"Tourtière","Sao Paulo","Brazil","1997-08-29","21.00","10.00",True
+"Tourtière","Seattle","USA","1997-10-06","21.00","10.00",True
+"Tourtière","Strasbourg","France","1996-11-22","21.00","10.00",True
+"Tourtière","Warszawa","Poland","1997-12-23","21.00","10.00",True
+"Tunnbröd","Albuquerque","USA","1998-05-06","61.00","25.00",True
+"Tunnbröd","Barquisimeto","Venezuela","1997-05-21","61.00","25.00",True
+"Tunnbröd","Boise","USA","1997-11-20","61.00","25.00",True
+"Tunnbröd","Bräcke","Sweden","1998-02-10","61.00","25.00",True
+"Tunnbröd","Cowes","UK","1997-08-05","61.00","25.00",True
+"Tunnbröd","Cowes","UK","1997-09-18","61.00","25.00",True
+"Tunnbröd","Cunewalde","Germany","1998-01-21","61.00","25.00",True
+"Tunnbröd","Graz","Austria","1997-01-02","61.00","25.00",True
+"Tunnbröd","I. de Margarita","Venezuela","1998-01-02","61.00","25.00",True
+"Tunnbröd","Köln","Germany","1997-05-30","61.00","25.00",True
+"Tunnbröd","London","UK","1997-03-03","61.00","25.00",True
+"Tunnbröd","London","UK","1998-02-04","61.00","25.00",True
+"Tunnbröd","Madrid","Spain","1998-04-09","61.00","25.00",True
+"Tunnbröd","Marseille","France","1997-03-11","61.00","25.00",True
+"Tunnbröd","München","Germany","1996-10-24","61.00","25.00",True
+"Tunnbröd","München","Germany","1996-12-27","61.00","25.00",True
+"Tunnbröd","München","Germany","1997-09-16","61.00","25.00",True
+"Tunnbröd","Resende","Brazil","1998-03-09","61.00","25.00",True
+"Tunnbröd","Stuttgart","Germany","1996-11-07","61.00","25.00",True
+"Tunnbröd","Vancouver","Canada","1997-04-03","61.00","25.00",True
+"Uncle Bob's Organic Dried Pears","Albuquerque","USA","1996-07-22","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Albuquerque","USA","1998-03-31","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Albuquerque","USA","1998-05-06","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Århus","Denmark","1997-07-07","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Barquisimeto","Venezuela","1998-05-05","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Boise","USA","1997-07-22","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Bräcke","Sweden","1998-04-06","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Buenos Aires","Argentina","1998-03-18","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Campinas","Brazil","1997-12-22","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Cunewalde","Germany","1997-10-06","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Cunewalde","Germany","1998-03-19","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Graz","Austria","1998-03-26","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Köln","Germany","1997-12-05","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Köln","Germany","1998-01-15","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Lander","USA","1996-12-17","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Lille","France","1997-08-15","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","London","UK","1997-03-11","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","London","UK","1998-03-31","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","London","UK","1998-04-14","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","London","UK","1998-04-28","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Lyon","France","1997-02-27","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Lyon","France","1997-05-23","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Marseille","France","1997-04-18","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Marseille","France","1998-03-11","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Reggio Emilia","Italy","1998-02-26","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Reggio Emilia","Italy","1998-04-09","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Stavern","Norway","1998-02-26","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Tsawassen","Canada","1998-03-27","15.00","10.00",True
+"Uncle Bob's Organic Dried Pears","Versailles","France","1998-01-29","15.00","10.00",True
+"Valkoinen suklaa","Århus","Denmark","1997-03-05","65.00","30.00",True
+"Valkoinen suklaa","Colchester","UK","1996-12-16","65.00","30.00",True
+"Valkoinen suklaa","Colchester","UK","1998-03-03","65.00","30.00",True
+"Valkoinen suklaa","Cork","Ireland","1997-01-29","65.00","30.00",True
+"Valkoinen suklaa","Genève","Switzerland","1997-11-24","65.00","30.00",True
+"Valkoinen suklaa","Graz","Austria","1998-05-05","65.00","30.00",True
+"Valkoinen suklaa","I. de Margarita","Venezuela","1997-11-04","65.00","30.00",True
+"Valkoinen suklaa","Sao Paulo","Brazil","1997-08-19","65.00","30.00",True
+"Valkoinen suklaa","Sevilla","Spain","1998-03-13","65.00","30.00",True
+"Valkoinen suklaa","Toulouse","France","1996-11-11","65.00","30.00",True
+"Vegie-spread","Århus","Denmark","1998-03-03","24.00","5.00",True
+"Vegie-spread","Berlin","Germany","1997-10-03","24.00","5.00",True
+"Vegie-spread","Bern","Switzerland","1998-04-16","24.00","5.00",True
+"Vegie-spread","Bern","Switzerland","1998-04-22","24.00","5.00",True
+"Vegie-spread","Boise","USA","1996-10-08","24.00","5.00",True
+"Vegie-spread","Bräcke","Sweden","1998-03-26","24.00","5.00",True
+"Vegie-spread","Cork","Ireland","1997-01-29","24.00","5.00",True
+"Vegie-spread","Graz","Austria","1997-01-02","24.00","5.00",True
+"Vegie-spread","Graz","Austria","1998-03-26","24.00","5.00",True
+"Vegie-spread","Lander","USA","1998-03-25","24.00","5.00",True
+"Vegie-spread","Leipzig","Germany","1997-06-20","24.00","5.00",True
+"Vegie-spread","Lille","France","1997-12-22","24.00","5.00",True
+"Vegie-spread","Luleå","Sweden","1996-08-12","24.00","5.00",True
+"Vegie-spread","México D.F.","Mexico","1996-08-29","24.00","5.00",True
+"Vegie-spread","Rio de Janeiro","Brazil","1996-12-11","24.00","5.00",True
+"Vegie-spread","Salzburg","Austria","1997-11-19","24.00","5.00",True
+"Vegie-spread","Seattle","USA","1997-07-11","24.00","5.00",True
+"Wimmers gute Semmelknödel","Albuquerque","USA","1997-03-19","22.00","30.00",False
+"Wimmers gute Semmelknödel","Albuquerque","USA","1998-05-06","22.00","30.00",False
+"Wimmers gute Semmelknödel","Barcelona","Spain","1997-01-27","22.00","30.00",False
+"Wimmers gute Semmelknödel","Bern","Switzerland","1996-12-03","22.00","30.00",False
+"Wimmers gute Semmelknödel","Boise","USA","1997-11-27","22.00","30.00",False
+"Wimmers gute Semmelknödel","Boise","USA","1998-04-17","22.00","30.00",False
+"Wimmers gute Semmelknödel","Cunewalde","Germany","1997-02-19","22.00","30.00",False
+"Wimmers gute Semmelknödel","Cunewalde","Germany","1998-01-21","22.00","30.00",False
+"Wimmers gute Semmelknödel","Eugene","USA","1997-09-25","22.00","30.00",False
+"Wimmers gute Semmelknödel","Frankfurt a.M.","Germany","1996-10-31","22.00","30.00",False
+"Wimmers gute Semmelknödel","Frankfurt a.M.","Germany","1997-06-03","22.00","30.00",False
+"Wimmers gute Semmelknödel","Graz","Austria","1996-11-29","22.00","30.00",False
+"Wimmers gute Semmelknödel","Graz","Austria","1998-01-16","22.00","30.00",False
+"Wimmers gute Semmelknödel","Graz","Austria","1998-03-23","22.00","30.00",False
+"Wimmers gute Semmelknödel","Graz","Austria","1998-05-05","22.00","30.00",False
+"Wimmers gute Semmelknödel","Kirkland","USA","1997-06-19","22.00","30.00",False
+"Wimmers gute Semmelknödel","London","UK","1996-08-26","22.00","30.00",False
+"Wimmers gute Semmelknödel","Marseille","France","1997-03-11","22.00","30.00",False
+"Wimmers gute Semmelknödel","Marseille","France","1998-02-09","22.00","30.00",False
+"Wimmers gute Semmelknödel","Montréal","Canada","1997-02-07","22.00","30.00",False
+"Wimmers gute Semmelknödel","Montréal","Canada","1997-06-11","22.00","30.00",False
+"Wimmers gute Semmelknödel","München","Germany","1998-01-29","22.00","30.00",False
+"Wimmers gute Semmelknödel","Salzburg","Austria","1998-04-27","22.00","30.00",False
+"Wimmers gute Semmelknödel","San Cristóbal","Venezuela","1997-12-25","22.00","30.00",False
+"Wimmers gute Semmelknödel","San Cristóbal","Venezuela","1998-03-18","22.00","30.00",False
+"Wimmers gute Semmelknödel","Sevilla","Spain","1997-08-12","22.00","30.00",False
+"Wimmers gute Semmelknödel","Sevilla","Spain","1998-02-05","22.00","30.00",False
+"Wimmers gute Semmelknödel","Strasbourg","France","1997-02-05","22.00","30.00",False
+"Wimmers gute Semmelknödel","Stuttgart","Germany","1997-09-15","22.00","30.00",False
+"Wimmers gute Semmelknödel","Toulouse","France","1998-01-14","22.00","30.00",False
+"Zaanse koeken","Barcelona","Spain","1998-03-05","36.00","0.00",True
+"Zaanse koeken","Boise","USA","1997-09-04","36.00","0.00",True
+"Zaanse koeken","Boise","USA","1997-10-22","36.00","0.00",True
+"Zaanse koeken","Bräcke","Sweden","1997-12-02","36.00","0.00",True
+"Zaanse koeken","Bräcke","Sweden","1998-03-26","36.00","0.00",True
+"Zaanse koeken","Campinas","Brazil","1997-09-29","36.00","0.00",True
+"Zaanse koeken","Colchester","UK","1997-06-04","36.00","0.00",True
+"Zaanse koeken","Cunewalde","Germany","1997-01-17","36.00","0.00",True
+"Zaanse koeken","Eugene","USA","1997-09-04","36.00","0.00",True
+"Zaanse koeken","Köln","Germany","1997-09-26","36.00","0.00",True
+"Zaanse koeken","Leipzig","Germany","1997-10-09","36.00","0.00",True
+"Zaanse koeken","Lille","France","1997-03-20","36.00","0.00",True
+"Zaanse koeken","Luleå","Sweden","1998-01-16","36.00","0.00",True
+"Zaanse koeken","Luleå","Sweden","1998-02-06","36.00","0.00",True
+"Zaanse koeken","Mannheim","Germany","1998-03-17","36.00","0.00",True
+"Zaanse koeken","Marseille","France","1997-11-26","36.00","0.00",True
+"Zaanse koeken","Montréal","Canada","1996-10-17","36.00","0.00",True
+"Zaanse koeken","Resende","Brazil","1997-07-01","36.00","0.00",True
+"Zaanse koeken","Sao Paulo","Brazil","1997-04-21","36.00","0.00",True
+"Zaanse koeken","Torino","Italy","1997-10-20","36.00","0.00",True
+"Zaanse koeken","Tsawassen","Canada","1997-01-30","36.00","0.00",True

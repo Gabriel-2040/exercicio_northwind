@@ -1,0 +1,2095 @@
+"nome_produto","qtd_vendida","mes","pais","regiao","cidade","Excesso"
+"Alice Mutton","45",1,"Austria",NULL,"Graz",True
+"Alice Mutton","50",1,"Canada","BC","Tsawassen",True
+"Alice Mutton","6",1,"USA","NM","Albuquerque",True
+"Alice Mutton","2",1,"USA","OR","Elgin",True
+"Alice Mutton","42",1,"USA","WA","Seattle",True
+"Alice Mutton","16",2,"France",NULL,"Marseille",True
+"Alice Mutton","15",2,"France",NULL,"Nantes",True
+"Alice Mutton","10",2,"Mexico",NULL,"México D.F.",True
+"Alice Mutton","12",2,"Spain",NULL,"Sevilla",True
+"Alice Mutton","10",2,"Sweden",NULL,"Luleå",True
+"Alice Mutton","15",3,"Brazil","RJ","Rio de Janeiro",True
+"Alice Mutton","6",3,"Canada","BC","Tsawassen",True
+"Alice Mutton","6",3,"France",NULL,"Versailles",True
+"Alice Mutton","12",4,"Brazil","RJ","Rio de Janeiro",True
+"Alice Mutton","40",5,"Austria",NULL,"Salzburg",True
+"Alice Mutton","8",5,"Spain",NULL,"Sevilla",True
+"Alice Mutton","25",5,"UK",NULL,"London",True
+"Alice Mutton","77",5,"USA","ID","Boise",True
+"Alice Mutton","18",6,"Mexico",NULL,"México D.F.",True
+"Alice Mutton","16",6,"USA","NM","Albuquerque",True
+"Alice Mutton","30",7,"France",NULL,"Strasbourg",True
+"Alice Mutton","100",7,"USA","ID","Boise",True
+"Alice Mutton","15",8,"Germany",NULL,"Frankfurt a.M.",True
+"Alice Mutton","15",8,"USA","NM","Albuquerque",True
+"Alice Mutton","30",9,"Austria",NULL,"Salzburg",True
+"Alice Mutton","40",9,"Belgium",NULL,"Charleroi",True
+"Alice Mutton","8",10,"Austria",NULL,"Graz",True
+"Alice Mutton","70",10,"Canada","Québec","Montréal",True
+"Alice Mutton","8",10,"Mexico",NULL,"México D.F.",True
+"Alice Mutton","20",10,"USA","AK","Anchorage",True
+"Alice Mutton","27",10,"USA","ID","Boise",True
+"Alice Mutton","20",10,"USA","WA","Seattle",True
+"Alice Mutton","20",11,"Italy",NULL,"Reggio Emilia",True
+"Alice Mutton","36",11,"USA","NM","Albuquerque",True
+"Alice Mutton","68",12,"Austria",NULL,"Graz",True
+"Alice Mutton","40",12,"Spain",NULL,"Madrid",True
+"Aniseed Syrup","49",1,"Germany",NULL,"Brandenburg",False
+"Aniseed Syrup","30",1,"Sweden",NULL,"Luleå",False
+"Aniseed Syrup","50",1,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Aniseed Syrup","20",3,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Aniseed Syrup","25",4,"Austria",NULL,"Graz",False
+"Aniseed Syrup","60",5,"Germany",NULL,"Cunewalde",False
+"Aniseed Syrup","4",5,"USA","NM","Albuquerque",False
+"Aniseed Syrup","14",7,"Denmark",NULL,"Århus",False
+"Aniseed Syrup","30",8,"UK",NULL,"London",False
+"Aniseed Syrup","6",10,"Germany",NULL,"Berlin",False
+"Aniseed Syrup","20",11,"Canada","BC","Tsawassen",False
+"Aniseed Syrup","20",12,"Austria",NULL,"Graz",False
+"Boston Crab Meat","2",1,"Brazil","SP","Sao Paulo",True
+"Boston Crab Meat","50",1,"Canada","BC","Tsawassen",True
+"Boston Crab Meat","60",1,"Germany",NULL,"Brandenburg",True
+"Boston Crab Meat","25",1,"Sweden",NULL,"Luleå",True
+"Boston Crab Meat","30",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Boston Crab Meat","20",2,"Argentina",NULL,"Buenos Aires",True
+"Boston Crab Meat","91",2,"Austria",NULL,"Graz",True
+"Boston Crab Meat","12",2,"Finland",NULL,"Helsinki",True
+"Boston Crab Meat","10",3,"Belgium",NULL,"Bruxelles",True
+"Boston Crab Meat","20",3,"Denmark",NULL,"Århus",True
+"Boston Crab Meat","21",3,"Mexico",NULL,"México D.F.",True
+"Boston Crab Meat","10",3,"UK",NULL,"London",True
+"Boston Crab Meat","10",3,"USA","WA","Walla Walla",True
+"Boston Crab Meat","20",3,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Boston Crab Meat","5",4,"Belgium",NULL,"Charleroi",True
+"Boston Crab Meat","25",4,"Germany",NULL,"Frankfurt a.M.",True
+"Boston Crab Meat","40",4,"Ireland","Co. Cork","Cork",True
+"Boston Crab Meat","10",4,"USA","MT","Butte",True
+"Boston Crab Meat","5",4,"Venezuela","Táchira","San Cristóbal",True
+"Boston Crab Meat","15",5,"France",NULL,"Marseille",True
+"Boston Crab Meat","10",5,"Germany",NULL,"Frankfurt a.M.",True
+"Boston Crab Meat","10",5,"Mexico",NULL,"México D.F.",True
+"Boston Crab Meat","50",6,"Sweden",NULL,"Luleå",True
+"Boston Crab Meat","2",6,"USA","WA","Kirkland",True
+"Boston Crab Meat","50",7,"Germany",NULL,"München",True
+"Boston Crab Meat","42",7,"USA","ID","Boise",True
+"Boston Crab Meat","100",8,"Germany",NULL,"Cunewalde",True
+"Boston Crab Meat","60",8,"Venezuela","Táchira","San Cristóbal",True
+"Boston Crab Meat","24",9,"Brazil","SP","Sao Paulo",True
+"Boston Crab Meat","30",9,"France",NULL,"Marseille",True
+"Boston Crab Meat","70",9,"Germany",NULL,"Cunewalde",True
+"Boston Crab Meat","20",9,"Germany",NULL,"Köln",True
+"Boston Crab Meat","10",9,"Germany",NULL,"Stuttgart",True
+"Boston Crab Meat","40",9,"Spain",NULL,"Sevilla",True
+"Boston Crab Meat","10",11,"Brazil","SP","Sao Paulo",True
+"Boston Crab Meat","50",11,"Denmark",NULL,"Århus",True
+"Boston Crab Meat","3",11,"Italy",NULL,"Bergamo",True
+"Boston Crab Meat","40",11,"USA","ID","Boise",True
+"Boston Crab Meat","1",12,"Italy",NULL,"Torino",True
+"Camembert Pierrot","60",1,"Austria",NULL,"Graz",True
+"Camembert Pierrot","30",1,"Brazil","SP","Sao Paulo",True
+"Camembert Pierrot","60",1,"Switzerland",NULL,"Genève",True
+"Camembert Pierrot","21",1,"UK","Isle of Wight","Cowes",True
+"Camembert Pierrot","45",1,"USA","ID","Boise",True
+"Camembert Pierrot","100",2,"Austria",NULL,"Graz",True
+"Camembert Pierrot","40",3,"Brazil","RJ","Rio de Janeiro",True
+"Camembert Pierrot","25",3,"Canada","BC","Tsawassen",True
+"Camembert Pierrot","49",3,"Germany",NULL,"Cunewalde",True
+"Camembert Pierrot","22",3,"Portugal",NULL,"Lisboa",True
+"Camembert Pierrot","10",3,"Spain",NULL,"Madrid",True
+"Camembert Pierrot","24",3,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Camembert Pierrot","35",4,"Brazil","RJ","Rio de Janeiro",True
+"Camembert Pierrot","12",4,"Brazil","SP","Sao Paulo",True
+"Camembert Pierrot","84",4,"Germany",NULL,"Cunewalde",True
+"Camembert Pierrot","21",4,"Germany",NULL,"Mannheim",True
+"Camembert Pierrot","36",4,"Germany",NULL,"München",True
+"Camembert Pierrot","4",4,"Italy",NULL,"Torino",True
+"Camembert Pierrot","4",4,"Mexico",NULL,"México D.F.",True
+"Camembert Pierrot","9",4,"Spain",NULL,"Sevilla",True
+"Camembert Pierrot","10",4,"Switzerland",NULL,"Bern",True
+"Camembert Pierrot","50",4,"UK",NULL,"London",True
+"Camembert Pierrot","15",4,"USA","OR","Eugene",True
+"Camembert Pierrot","35",5,"Germany",NULL,"Frankfurt a.M.",True
+"Camembert Pierrot","2",5,"USA","NM","Albuquerque",True
+"Camembert Pierrot","24",6,"Finland",NULL,"Oulu",True
+"Camembert Pierrot","40",7,"Belgium",NULL,"Charleroi",True
+"Camembert Pierrot","70",7,"Canada","Québec","Montréal",True
+"Camembert Pierrot","15",7,"Poland",NULL,"Warszawa",True
+"Camembert Pierrot","40",7,"USA","ID","Boise",True
+"Camembert Pierrot","20",8,"Germany",NULL,"Frankfurt a.M.",True
+"Camembert Pierrot","10",8,"Mexico",NULL,"México D.F.",True
+"Camembert Pierrot","20",8,"Sweden",NULL,"Luleå",True
+"Camembert Pierrot","21",8,"USA","NM","Albuquerque",True
+"Camembert Pierrot","35",8,"Venezuela","Lara","Barquisimeto",True
+"Camembert Pierrot","55",9,"Germany",NULL,"Cunewalde",True
+"Camembert Pierrot","30",9,"Germany",NULL,"Köln",True
+"Camembert Pierrot","20",9,"Germany",NULL,"München",True
+"Camembert Pierrot","30",9,"USA","ID","Boise",True
+"Camembert Pierrot","10",10,"Brazil","SP","Campinas",True
+"Camembert Pierrot","15",11,"Brazil","SP","Sao Paulo",True
+"Camembert Pierrot","50",11,"Canada","BC","Tsawassen",True
+"Camembert Pierrot","55",11,"Germany",NULL,"Cunewalde",True
+"Camembert Pierrot","80",11,"UK",NULL,"London",True
+"Camembert Pierrot","8",11,"Venezuela","Lara","Barquisimeto",True
+"Camembert Pierrot","70",12,"Brazil","SP","Sao Paulo",True
+"Camembert Pierrot","6",12,"Ireland","Co. Cork","Cork",True
+"Camembert Pierrot","15",12,"Sweden",NULL,"Luleå",True
+"Camembert Pierrot","15",12,"UK","Essex","Colchester",True
+"Camembert Pierrot","20",12,"USA","WY","Lander",True
+"Carnarvon Tigers","10",1,"Germany",NULL,"Mannheim",True
+"Carnarvon Tigers","20",1,"USA","WA","Seattle",True
+"Carnarvon Tigers","25",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Carnarvon Tigers","25",2,"Brazil","RJ","Rio de Janeiro",True
+"Carnarvon Tigers","4",3,"Brazil","SP","Resende",True
+"Carnarvon Tigers","30",3,"France",NULL,"Marseille",True
+"Carnarvon Tigers","6",3,"France",NULL,"Paris",True
+"Carnarvon Tigers","8",3,"Ireland","Co. Cork","Cork",True
+"Carnarvon Tigers","35",4,"Austria",NULL,"Salzburg",True
+"Carnarvon Tigers","25",4,"Ireland","Co. Cork","Cork",True
+"Carnarvon Tigers","8",4,"Italy",NULL,"Torino",True
+"Carnarvon Tigers","10",4,"USA","OR","Portland",True
+"Carnarvon Tigers","18",6,"France",NULL,"Strasbourg",True
+"Carnarvon Tigers","40",7,"Germany",NULL,"Cunewalde",True
+"Carnarvon Tigers","20",8,"Brazil","RJ","Rio de Janeiro",True
+"Carnarvon Tigers","4",8,"Brazil","SP","Resende",True
+"Carnarvon Tigers","50",8,"France",NULL,"Lille",True
+"Carnarvon Tigers","12",8,"Mexico",NULL,"México D.F.",True
+"Carnarvon Tigers","8",8,"Norway",NULL,"Stavern",True
+"Carnarvon Tigers","25",9,"USA","AK","Anchorage",True
+"Carnarvon Tigers","40",10,"Canada","Québec","Montréal",True
+"Carnarvon Tigers","20",10,"France",NULL,"Marseille",True
+"Carnarvon Tigers","12",10,"USA","CA","San Francisco",True
+"Carnarvon Tigers","24",11,"Germany",NULL,"Cunewalde",True
+"Carnarvon Tigers","21",11,"USA","WY","Lander",True
+"Carnarvon Tigers","9",12,"Austria",NULL,"Graz",True
+"Carnarvon Tigers","30",12,"France",NULL,"Lille",True
+"Chai","10",1,"Brazil","SP","Sao Paulo",True
+"Chai","24",1,"France",NULL,"Toulouse",True
+"Chai","80",1,"USA","ID","Boise",True
+"Chai","4",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Chai","20",2,"Brazil","SP","Resende",True
+"Chai","10",2,"Spain",NULL,"Sevilla",True
+"Chai","40",2,"UK",NULL,"London",True
+"Chai","20",2,"Venezuela","Táchira","San Cristóbal",True
+"Chai","21",3,"Brazil","SP","Resende",True
+"Chai","60",3,"Canada","BC","Tsawassen",True
+"Chai","15",3,"Portugal",NULL,"Lisboa",True
+"Chai","10",4,"Belgium",NULL,"Charleroi",True
+"Chai","2",4,"Finland",NULL,"Helsinki",True
+"Chai","10",4,"Finland",NULL,"Oulu",True
+"Chai","40",4,"Germany",NULL,"Frankfurt a.M.",True
+"Chai","25",4,"UK",NULL,"London",True
+"Chai","45",4,"USA","ID","Boise",True
+"Chai","4",4,"USA","MT","Butte",True
+"Chai","8",4,"USA","OR","Eugene",True
+"Chai","8",5,"Finland",NULL,"Oulu",True
+"Chai","40",5,"Germany",NULL,"Frankfurt a.M.",True
+"Chai","10",6,"Mexico",NULL,"México D.F.",True
+"Chai","20",7,"Canada","Québec","Montréal",True
+"Chai","3",7,"France",NULL,"Nantes",True
+"Chai","6",7,"Poland",NULL,"Warszawa",True
+"Chai","25",8,"France",NULL,"Strasbourg",True
+"Chai","45",8,"Germany",NULL,"Cunewalde",True
+"Chai","15",8,"Ireland","Co. Cork","Cork",True
+"Chai","18",8,"USA","NM","Albuquerque",True
+"Chai","20",9,"USA","OR","Portland",True
+"Chai","30",10,"Germany",NULL,"Cunewalde",True
+"Chai","35",10,"Sweden",NULL,"Luleå",True
+"Chai","5",10,"USA","ID","Boise",True
+"Chai","15",11,"Germany",NULL,"Stuttgart",True
+"Chai","12",11,"Mexico",NULL,"México D.F.",True
+"Chai","8",11,"UK",NULL,"London",True
+"Chai","50",11,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Chai","15",12,"Switzerland",NULL,"Bern",True
+"Chang","17",1,"Brazil","RJ","Rio de Janeiro",False
+"Chang","60",1,"Germany",NULL,"Cunewalde",False
+"Chang","20",1,"Mexico",NULL,"México D.F.",False
+"Chang","10",1,"UK","Isle of Wight","Cowes",False
+"Chang","15",1,"USA","NM","Albuquerque",False
+"Chang","20",2,"Belgium",NULL,"Charleroi",False
+"Chang","20",2,"Spain",NULL,"Sevilla",False
+"Chang","21",2,"Sweden",NULL,"Luleå",False
+"Chang","10",2,"UK",NULL,"London",False
+"Chang","45",2,"USA","ID","Boise",False
+"Chang","10",3,"Italy",NULL,"Bergamo",False
+"Chang","40",3,"USA","WA","Seattle",False
+"Chang","20",3,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Chang","10",4,"Brazil","SP","Campinas",False
+"Chang","61",4,"Germany",NULL,"Cunewalde",False
+"Chang","30",4,"Switzerland",NULL,"Bern",False
+"Chang","100",4,"USA","ID","Boise",False
+"Chang","12",4,"USA","WA","Seattle",False
+"Chang","8",5,"Austria",NULL,"Graz",False
+"Chang","20",5,"Germany",NULL,"Frankfurt a.M.",False
+"Chang","10",5,"Switzerland",NULL,"Genève",False
+"Chang","24",5,"USA","NM","Albuquerque",False
+"Chang","50",7,"Austria",NULL,"Graz",False
+"Chang","10",7,"Poland",NULL,"Warszawa",False
+"Chang","35",7,"Sweden",NULL,"Bräcke",False
+"Chang","20",7,"Switzerland",NULL,"Genève",False
+"Chang","20",8,"Brazil","RJ","Rio de Janeiro",False
+"Chang","30",8,"Germany",NULL,"Stuttgart",False
+"Chang","50",8,"Venezuela","Táchira","San Cristóbal",False
+"Chang","40",9,"Ireland","Co. Cork","Cork",False
+"Chang","24",10,"Germany",NULL,"München",False
+"Chang","7",10,"Ireland","Co. Cork","Cork",False
+"Chang","30",10,"Sweden",NULL,"Bräcke",False
+"Chang","33",10,"USA","ID","Boise",False
+"Chang","15",11,"UK","Essex","Colchester",False
+"Chang","20",12,"France",NULL,"Lyon",False
+"Chang","15",12,"France",NULL,"Toulouse",False
+"Chang","40",12,"Germany",NULL,"Köln",False
+"Chang","10",12,"Poland",NULL,"Warszawa",False
+"Chang","25",12,"USA","ID","Boise",False
+"Chartreuse verte","28",1,"Brazil","SP","Sao Paulo",True
+"Chartreuse verte","21",1,"France",NULL,"Marseille",True
+"Chartreuse verte","10",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Chartreuse verte","45",2,"Austria",NULL,"Graz",True
+"Chartreuse verte","20",2,"Finland",NULL,"Oulu",True
+"Chartreuse verte","80",2,"Germany",NULL,"Cunewalde",True
+"Chartreuse verte","6",2,"Sweden",NULL,"Luleå",True
+"Chartreuse verte","8",2,"Venezuela","Lara","Barquisimeto",True
+"Chartreuse verte","20",3,"Portugal",NULL,"Lisboa",True
+"Chartreuse verte","30",3,"Sweden",NULL,"Bräcke",True
+"Chartreuse verte","10",4,"Germany",NULL,"Köln",True
+"Chartreuse verte","20",5,"Mexico",NULL,"México D.F.",True
+"Chartreuse verte","2",5,"USA","NM","Albuquerque",True
+"Chartreuse verte","10",6,"USA","WA","Kirkland",True
+"Chartreuse verte","42",7,"Brazil","RJ","Rio de Janeiro",True
+"Chartreuse verte","5",7,"Germany",NULL,"Mannheim",True
+"Chartreuse verte","6",7,"Venezuela","Táchira","San Cristóbal",True
+"Chartreuse verte","20",8,"Brazil","RJ","Rio de Janeiro",True
+"Chartreuse verte","21",8,"Germany",NULL,"Berlin",True
+"Chartreuse verte","60",9,"France",NULL,"Strasbourg",True
+"Chartreuse verte","3",9,"Ireland","Co. Cork","Cork",True
+"Chartreuse verte","20",9,"Sweden",NULL,"Luleå",True
+"Chartreuse verte","30",9,"USA","AK","Anchorage",True
+"Chartreuse verte","4",10,"Germany",NULL,"Brandenburg",True
+"Chartreuse verte","50",11,"Brazil","SP","Sao Paulo",True
+"Chartreuse verte","54",11,"Germany",NULL,"Cunewalde",True
+"Chartreuse verte","130",12,"Austria",NULL,"Graz",True
+"Chartreuse verte","2",12,"Italy",NULL,"Bergamo",True
+"Chartreuse verte","16",12,"Sweden",NULL,"Bräcke",True
+"Chartreuse verte","20",12,"UK",NULL,"London",True
+"Chef Anton's Cajun Seasoning","21",1,"Belgium",NULL,"Charleroi",True
+"Chef Anton's Cajun Seasoning","30",2,"Brazil","SP","Sao Paulo",True
+"Chef Anton's Cajun Seasoning","5",3,"Italy",NULL,"Bergamo",True
+"Chef Anton's Cajun Seasoning","16",3,"Portugal",NULL,"Lisboa",True
+"Chef Anton's Cajun Seasoning","50",4,"France",NULL,"Marseille",True
+"Chef Anton's Cajun Seasoning","25",4,"USA","NM","Albuquerque",True
+"Chef Anton's Cajun Seasoning","50",5,"Germany",NULL,"Cunewalde",True
+"Chef Anton's Cajun Seasoning","50",5,"Sweden",NULL,"Bräcke",True
+"Chef Anton's Cajun Seasoning","1",5,"USA","NM","Albuquerque",True
+"Chef Anton's Cajun Seasoning","20",7,"Brazil","SP","Sao Paulo",True
+"Chef Anton's Cajun Seasoning","25",8,"Finland",NULL,"Oulu",True
+"Chef Anton's Cajun Seasoning","10",8,"Italy",NULL,"Bergamo",True
+"Chef Anton's Cajun Seasoning","20",9,"Ireland","Co. Cork","Cork",True
+"Chef Anton's Cajun Seasoning","12",9,"Sweden",NULL,"Luleå",True
+"Chef Anton's Cajun Seasoning","6",10,"Brazil","SP","Sao Paulo",True
+"Chef Anton's Cajun Seasoning","10",10,"Canada","Québec","Montréal",True
+"Chef Anton's Cajun Seasoning","18",10,"Portugal",NULL,"Lisboa",True
+"Chef Anton's Cajun Seasoning","24",10,"Spain",NULL,"Madrid",True
+"Chef Anton's Cajun Seasoning","25",11,"UK",NULL,"London",True
+"Chef Anton's Cajun Seasoning","35",11,"USA","WA","Seattle",True
+"Chef Anton's Gumbo Mix","30",1,"UK",NULL,"London",True
+"Chef Anton's Gumbo Mix","20",3,"Argentina",NULL,"Buenos Aires",True
+"Chef Anton's Gumbo Mix","30",4,"UK",NULL,"London",True
+"Chef Anton's Gumbo Mix","70",4,"USA","ID","Boise",True
+"Chef Anton's Gumbo Mix","65",7,"Austria",NULL,"Graz",True
+"Chef Anton's Gumbo Mix","12",7,"USA","NM","Albuquerque",True
+"Chef Anton's Gumbo Mix","20",8,"Brazil","SP","Sao Paulo",True
+"Chef Anton's Gumbo Mix","15",8,"Italy",NULL,"Bergamo",True
+"Chef Anton's Gumbo Mix","4",10,"USA","OR","Portland",True
+"Chef Anton's Gumbo Mix","32",12,"Austria",NULL,"Graz",True
+"Chocolade","70",1,"Austria",NULL,"Graz",False
+"Chocolade","8",1,"France",NULL,"Lyon",False
+"Chocolade","15",2,"UK","Essex","Colchester",False
+"Chocolade","15",4,"Mexico",NULL,"México D.F.",False
+"Chocolade","6",7,"Portugal",NULL,"Lisboa",False
+"Chocolade","24",10,"Brazil","SP","Sao Paulo",False
+"Côte de Blaye","2",1,"Argentina",NULL,"Buenos Aires",True
+"Côte de Blaye","49",1,"Canada","Québec","Montréal",True
+"Côte de Blaye","50",1,"Denmark",NULL,"Kobenhavn",True
+"Côte de Blaye","30",1,"Germany",NULL,"Brandenburg",True
+"Côte de Blaye","8",1,"Norway",NULL,"Stavern",True
+"Côte de Blaye","30",1,"USA","OR","Eugene",True
+"Côte de Blaye","60",2,"Germany",NULL,"Cunewalde",True
+"Côte de Blaye","40",2,"USA","NM","Albuquerque",True
+"Côte de Blaye","60",3,"Brazil","RJ","Rio de Janeiro",True
+"Côte de Blaye","5",3,"France",NULL,"Paris",True
+"Côte de Blaye","30",3,"USA","NM","Albuquerque",True
+"Côte de Blaye","15",4,"Mexico",NULL,"México D.F.",True
+"Côte de Blaye","25",4,"USA","WA","Seattle",True
+"Côte de Blaye","4",5,"Brazil","RJ","Rio de Janeiro",True
+"Côte de Blaye","30",5,"Germany",NULL,"Cunewalde",True
+"Côte de Blaye","15",7,"USA","OR","Eugene",True
+"Côte de Blaye","15",9,"Sweden",NULL,"Luleå",True
+"Côte de Blaye","20",10,"USA","WY","Lander",True
+"Côte de Blaye","20",11,"Austria",NULL,"Graz",True
+"Côte de Blaye","50",11,"Austria",NULL,"Salzburg",True
+"Côte de Blaye","10",11,"France",NULL,"Strasbourg",True
+"Côte de Blaye","5",12,"Brazil","RJ","Rio de Janeiro",True
+"Côte de Blaye","40",12,"Brazil","SP","Sao Paulo",True
+"Côte de Blaye","10",12,"USA","OR","Portland",True
+"Escargots de Bourgogne","30",1,"Brazil","SP","Sao Paulo",True
+"Escargots de Bourgogne","60",1,"Germany",NULL,"Cunewalde",True
+"Escargots de Bourgogne","15",2,"Brazil","SP","Sao Paulo",True
+"Escargots de Bourgogne","15",2,"USA","WA","Seattle",True
+"Escargots de Bourgogne","12",2,"Venezuela","Táchira","San Cristóbal",True
+"Escargots de Bourgogne","30",3,"Belgium",NULL,"Charleroi",True
+"Escargots de Bourgogne","40",4,"Germany",NULL,"Berlin",True
+"Escargots de Bourgogne","20",5,"Switzerland",NULL,"Genève",True
+"Escargots de Bourgogne","30",7,"USA","AK","Anchorage",True
+"Escargots de Bourgogne","6",8,"Finland",NULL,"Oulu",True
+"Escargots de Bourgogne","30",9,"Germany",NULL,"München",True
+"Escargots de Bourgogne","49",9,"Ireland","Co. Cork","Cork",True
+"Escargots de Bourgogne","30",9,"USA","NM","Albuquerque",True
+"Escargots de Bourgogne","30",10,"Sweden",NULL,"Bräcke",True
+"Escargots de Bourgogne","12",10,"USA","ID","Boise",True
+"Escargots de Bourgogne","30",10,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Escargots de Bourgogne","80",12,"Ireland","Co. Cork","Cork",True
+"Escargots de Bourgogne","15",12,"Poland",NULL,"Warszawa",True
+"Filo Mix","20",1,"Brazil","SP","Resende",True
+"Filo Mix","8",1,"Germany",NULL,"Frankfurt a.M.",True
+"Filo Mix","20",2,"France",NULL,"Strasbourg",True
+"Filo Mix","15",2,"Germany",NULL,"Münster",True
+"Filo Mix","14",2,"Italy",NULL,"Reggio Emilia",True
+"Filo Mix","12",3,"Brazil","RJ","Rio de Janeiro",True
+"Filo Mix","6",3,"Brazil","SP","Sao Paulo",True
+"Filo Mix","5",3,"France",NULL,"Versailles",True
+"Filo Mix","40",3,"Spain",NULL,"Madrid",True
+"Filo Mix","2",4,"Belgium",NULL,"Charleroi",True
+"Filo Mix","6",4,"UK",NULL,"London",True
+"Filo Mix","10",4,"USA","MT","Butte",True
+"Filo Mix","20",4,"Venezuela","Lara","Barquisimeto",True
+"Filo Mix","2",5,"USA","NM","Albuquerque",True
+"Filo Mix","70",6,"Brazil","RJ","Rio de Janeiro",True
+"Filo Mix","30",6,"UK","Essex","Colchester",True
+"Filo Mix","4",7,"Italy",NULL,"Reggio Emilia",True
+"Filo Mix","24",7,"USA","AK","Anchorage",True
+"Filo Mix","5",8,"Canada","BC","Vancouver",True
+"Filo Mix","9",9,"France",NULL,"Nantes",True
+"Filo Mix","4",10,"Brazil","SP","Sao Paulo",True
+"Filo Mix","8",10,"France",NULL,"Lyon",True
+"Filo Mix","20",10,"Mexico",NULL,"México D.F.",True
+"Filo Mix","18",11,"France",NULL,"Reims",True
+"Filo Mix","25",11,"Sweden",NULL,"Luleå",True
+"Filo Mix","60",11,"Switzerland",NULL,"Genève",True
+"Filo Mix","15",12,"Denmark",NULL,"Århus",True
+"Filo Mix","8",12,"UK","Essex","Colchester",True
+"Filo Mix","20",12,"UK",NULL,"London",True
+"Flotemysost","15",1,"Germany",NULL,"Köln",True
+"Flotemysost","55",1,"USA","ID","Boise",True
+"Flotemysost","60",1,"USA","NM","Albuquerque",True
+"Flotemysost","50",2,"Belgium",NULL,"Charleroi",True
+"Flotemysost","2",2,"Brazil","RJ","Rio de Janeiro",True
+"Flotemysost","25",2,"Brazil","SP","Sao Paulo",True
+"Flotemysost","30",2,"Finland",NULL,"Oulu",True
+"Flotemysost","30",2,"Venezuela","Táchira","San Cristóbal",True
+"Flotemysost","35",3,"Germany",NULL,"Cunewalde",True
+"Flotemysost","12",3,"UK","Isle of Wight","Cowes",True
+"Flotemysost","21",4,"Austria",NULL,"Graz",True
+"Flotemysost","30",4,"Belgium",NULL,"Charleroi",True
+"Flotemysost","20",4,"Germany",NULL,"Berlin",True
+"Flotemysost","60",4,"Germany",NULL,"München",True
+"Flotemysost","50",4,"UK",NULL,"London",True
+"Flotemysost","16",4,"USA","ID","Boise",True
+"Flotemysost","9",5,"Brazil","RJ","Rio de Janeiro",True
+"Flotemysost","15",7,"Canada","Québec","Montréal",True
+"Flotemysost","9",7,"USA","NM","Albuquerque",True
+"Flotemysost","15",7,"USA","OR","Eugene",True
+"Flotemysost","20",8,"France",NULL,"Reims",True
+"Flotemysost","30",8,"Ireland","Co. Cork","Cork",True
+"Flotemysost","20",8,"Sweden",NULL,"Luleå",True
+"Flotemysost","15",8,"UK","Isle of Wight","Cowes",True
+"Flotemysost","14",9,"Austria",NULL,"Graz",True
+"Flotemysost","3",9,"Ireland","Co. Cork","Cork",True
+"Flotemysost","2",9,"Mexico",NULL,"México D.F.",True
+"Flotemysost","12",9,"Sweden",NULL,"Luleå",True
+"Flotemysost","8",10,"Brazil","RJ","Rio de Janeiro",True
+"Flotemysost","70",10,"Finland",NULL,"Oulu",True
+"Flotemysost","30",10,"France",NULL,"Marseille",True
+"Flotemysost","20",10,"Ireland","Co. Cork","Cork",True
+"Flotemysost","60",10,"USA","ID","Boise",True
+"Flotemysost","5",11,"UK",NULL,"London",True
+"Flotemysost","16",12,"Austria",NULL,"Graz",True
+"Flotemysost","30",12,"Denmark",NULL,"Århus",True
+"Flotemysost","60",12,"Germany",NULL,"München",True
+"Flotemysost","50",12,"Ireland","Co. Cork","Cork",True
+"Flotemysost","15",12,"Norway",NULL,"Stavern",True
+"Flotemysost","6",12,"Sweden",NULL,"Bräcke",True
+"Flotemysost","12",12,"UK","Essex","Colchester",True
+"Geitost","50",1,"Brazil","SP","Sao Paulo",True
+"Geitost","49",1,"Canada","BC","Tsawassen",True
+"Geitost","4",1,"France",NULL,"Lyon",True
+"Geitost","16",1,"USA","ID","Boise",True
+"Geitost","20",1,"USA","OR","Elgin",True
+"Geitost","35",1,"USA","WA","Seattle",True
+"Geitost","40",2,"Brazil","SP","Sao Paulo",True
+"Geitost","20",2,"France",NULL,"Toulouse",True
+"Geitost","30",2,"Mexico",NULL,"México D.F.",True
+"Geitost","7",3,"France",NULL,"Versailles",True
+"Geitost","15",3,"Switzerland",NULL,"Genève",True
+"Geitost","12",3,"UK","Isle of Wight","Cowes",True
+"Geitost","10",4,"Argentina",NULL,"Buenos Aires",True
+"Geitost","15",4,"Canada","BC","Tsawassen",True
+"Geitost","16",4,"Germany",NULL,"Cunewalde",True
+"Geitost","30",4,"UK",NULL,"London",True
+"Geitost","30",5,"Germany",NULL,"Frankfurt a.M.",True
+"Geitost","15",5,"UK",NULL,"London",True
+"Geitost","8",5,"USA","OR","Eugene",True
+"Geitost","20",6,"Italy",NULL,"Reggio Emilia",True
+"Geitost","14",6,"USA","WA","Kirkland",True
+"Geitost","25",7,"Belgium",NULL,"Charleroi",True
+"Geitost","14",7,"USA","ID","Boise",True
+"Geitost","60",7,"USA","WA","Seattle",True
+"Geitost","20",8,"Germany",NULL,"Cunewalde",True
+"Geitost","20",8,"Germany",NULL,"Stuttgart",True
+"Geitost","24",8,"USA","WY","Lander",True
+"Geitost","38",9,"Mexico",NULL,"México D.F.",True
+"Geitost","30",9,"USA","ID","Boise",True
+"Geitost","8",10,"Denmark",NULL,"Kobenhavn",True
+"Geitost","60",12,"Austria",NULL,"Graz",True
+"Genen Shouyu","12",4,"France",NULL,"Toulouse",True
+"Genen Shouyu","10",6,"USA","CA","San Francisco",True
+"Genen Shouyu","25",7,"Germany",NULL,"Frankfurt a.M.",True
+"Genen Shouyu","20",8,"Venezuela","Lara","Barquisimeto",True
+"Genen Shouyu","50",9,"USA","ID","Boise",True
+"Genen Shouyu","5",10,"Germany",NULL,"Brandenburg",True
+"Gnocchi di nonna Alice","30",1,"Austria",NULL,"Graz",False
+"Gnocchi di nonna Alice","30",1,"Belgium",NULL,"Charleroi",False
+"Gnocchi di nonna Alice","5",1,"Spain",NULL,"Barcelona",False
+"Gnocchi di nonna Alice","44",1,"USA","AK","Anchorage",False
+"Gnocchi di nonna Alice","100",1,"USA","NM","Albuquerque",False
+"Gnocchi di nonna Alice","16",2,"Belgium",NULL,"Bruxelles",False
+"Gnocchi di nonna Alice","15",2,"Belgium",NULL,"Charleroi",False
+"Gnocchi di nonna Alice","40",2,"France",NULL,"Strasbourg",False
+"Gnocchi di nonna Alice","28",2,"Portugal",NULL,"Lisboa",False
+"Gnocchi di nonna Alice","21",2,"USA","CA","San Francisco",False
+"Gnocchi di nonna Alice","18",3,"Canada","BC","Tsawassen",False
+"Gnocchi di nonna Alice","30",3,"Portugal",NULL,"Lisboa",False
+"Gnocchi di nonna Alice","12",3,"Switzerland",NULL,"Bern",False
+"Gnocchi di nonna Alice","20",3,"UK",NULL,"London",False
+"Gnocchi di nonna Alice","70",4,"Austria",NULL,"Graz",False
+"Gnocchi di nonna Alice","30",4,"Brazil","SP","Sao Paulo",False
+"Gnocchi di nonna Alice","14",4,"Germany",NULL,"Frankfurt a.M.",False
+"Gnocchi di nonna Alice","60",4,"Switzerland",NULL,"Bern",False
+"Gnocchi di nonna Alice","5",4,"USA","OR","Portland",False
+"Gnocchi di nonna Alice","30",5,"Finland",NULL,"Oulu",False
+"Gnocchi di nonna Alice","60",6,"Canada","Québec","Montréal",False
+"Gnocchi di nonna Alice","40",6,"USA","ID","Boise",False
+"Gnocchi di nonna Alice","28",7,"Germany",NULL,"Münster",False
+"Gnocchi di nonna Alice","2",7,"USA","NM","Albuquerque",False
+"Gnocchi di nonna Alice","14",7,"USA","OR","Eugene",False
+"Gnocchi di nonna Alice","5",7,"USA","WA","Seattle",False
+"Gnocchi di nonna Alice","60",8,"Brazil","SP","Sao Paulo",False
+"Gnocchi di nonna Alice","20",8,"Canada","Québec","Montréal",False
+"Gnocchi di nonna Alice","4",9,"France",NULL,"Reims",False
+"Gnocchi di nonna Alice","20",9,"Germany",NULL,"Stuttgart",False
+"Gnocchi di nonna Alice","12",9,"Portugal",NULL,"Lisboa",False
+"Gnocchi di nonna Alice","45",9,"USA","ID","Boise",False
+"Gnocchi di nonna Alice","20",10,"Brazil","RJ","Rio de Janeiro",False
+"Gnocchi di nonna Alice","30",10,"Ireland","Co. Cork","Cork",False
+"Gnocchi di nonna Alice","18",10,"USA","ID","Boise",False
+"Gnocchi di nonna Alice","12",10,"USA","WY","Lander",False
+"Gnocchi di nonna Alice","30",11,"France",NULL,"Marseille",False
+"Gnocchi di nonna Alice","10",11,"Italy",NULL,"Reggio Emilia",False
+"Gnocchi di nonna Alice","15",11,"UK","Isle of Wight","Cowes",False
+"Gnocchi di nonna Alice","28",11,"USA","ID","Boise",False
+"Gnocchi di nonna Alice","20",11,"USA","NM","Albuquerque",False
+"Gnocchi di nonna Alice","14",11,"USA","WA","Seattle",False
+"Gnocchi di nonna Alice","20",12,"Brazil","SP","Campinas",False
+"Gnocchi di nonna Alice","20",12,"Finland",NULL,"Oulu",False
+"Gnocchi di nonna Alice","60",12,"Sweden",NULL,"Bräcke",False
+"Gnocchi di nonna Alice","20",12,"UK","Essex","Colchester",False
+"Gnocchi di nonna Alice","18",12,"USA","WY","Lander",False
+"Gorgonzola Telino","14",1,"Brazil","SP","Campinas",False
+"Gorgonzola Telino","35",1,"France",NULL,"Strasbourg",False
+"Gorgonzola Telino","9",1,"Germany",NULL,"Köln",False
+"Gorgonzola Telino","16",1,"Italy",NULL,"Reggio Emilia",False
+"Gorgonzola Telino","14",1,"USA","AK","Anchorage",False
+"Gorgonzola Telino","35",2,"Brazil","RJ","Rio de Janeiro",False
+"Gorgonzola Telino","3",2,"Germany",NULL,"Münster",False
+"Gorgonzola Telino","24",3,"Austria",NULL,"Graz",False
+"Gorgonzola Telino","35",3,"Belgium",NULL,"Charleroi",False
+"Gorgonzola Telino","10",3,"Germany",NULL,"Leipzig",False
+"Gorgonzola Telino","50",3,"UK","Essex","Colchester",False
+"Gorgonzola Telino","44",3,"USA","ID","Boise",False
+"Gorgonzola Telino","25",3,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Gorgonzola Telino","20",4,"Brazil","SP","Sao Paulo",False
+"Gorgonzola Telino","15",4,"UK","Essex","Colchester",False
+"Gorgonzola Telino","30",5,"Finland",NULL,"Oulu",False
+"Gorgonzola Telino","55",5,"Germany",NULL,"Cunewalde",False
+"Gorgonzola Telino","40",5,"Germany",NULL,"Frankfurt a.M.",False
+"Gorgonzola Telino","30",5,"Switzerland",NULL,"Genève",False
+"Gorgonzola Telino","50",6,"France",NULL,"Strasbourg",False
+"Gorgonzola Telino","60",6,"Ireland","Co. Cork","Cork",False
+"Gorgonzola Telino","20",6,"Mexico",NULL,"México D.F.",False
+"Gorgonzola Telino","41",6,"USA","NM","Albuquerque",False
+"Gorgonzola Telino","20",7,"Brazil","RJ","Rio de Janeiro",False
+"Gorgonzola Telino","15",8,"Germany",NULL,"Cunewalde",False
+"Gorgonzola Telino","40",8,"USA","NM","Albuquerque",False
+"Gorgonzola Telino","20",9,"Brazil","SP","Sao Paulo",False
+"Gorgonzola Telino","8",9,"Germany",NULL,"Stuttgart",False
+"Gorgonzola Telino","20",9,"USA","AK","Anchorage",False
+"Gorgonzola Telino","4",10,"Germany",NULL,"Brandenburg",False
+"Gorgonzola Telino","56",10,"Germany",NULL,"München",False
+"Gorgonzola Telino","25",10,"Ireland","Co. Cork","Cork",False
+"Gorgonzola Telino","50",10,"USA","ID","Boise",False
+"Gorgonzola Telino","20",10,"Venezuela","Táchira","San Cristóbal",False
+"Gorgonzola Telino","8",11,"Austria",NULL,"Salzburg",False
+"Gorgonzola Telino","3",11,"France",NULL,"Marseille",False
+"Gorgonzola Telino","20",11,"Germany",NULL,"Aachen",False
+"Gorgonzola Telino","30",11,"Germany",NULL,"Stuttgart",False
+"Gorgonzola Telino","70",11,"UK",NULL,"London",False
+"Gorgonzola Telino","1",12,"Argentina",NULL,"Buenos Aires",False
+"Gorgonzola Telino","146",12,"Austria",NULL,"Graz",False
+"Gorgonzola Telino","10",12,"Brazil","RJ","Rio de Janeiro",False
+"Gorgonzola Telino","42",12,"Canada","Québec","Montréal",False
+"Gorgonzola Telino","30",12,"Poland",NULL,"Warszawa",False
+"Gorgonzola Telino","2",12,"Sweden",NULL,"Bräcke",False
+"Gorgonzola Telino","50",12,"UK","Essex","Colchester",False
+"Gorgonzola Telino","32",12,"USA","ID","Boise",False
+"Grandma's Boysenberry Spread","6",1,"Brazil","SP","Sao Paulo",True
+"Grandma's Boysenberry Spread","50",2,"France",NULL,"Marseille",True
+"Grandma's Boysenberry Spread","40",3,"Brazil","RJ","Rio de Janeiro",True
+"Grandma's Boysenberry Spread","12",3,"Canada","BC","Tsawassen",True
+"Grandma's Boysenberry Spread","16",3,"Germany",NULL,"Berlin",True
+"Grandma's Boysenberry Spread","20",3,"Germany",NULL,"Frankfurt a.M.",True
+"Grandma's Boysenberry Spread","20",5,"France",NULL,"Marseille",True
+"Grandma's Boysenberry Spread","1",5,"USA","NM","Albuquerque",True
+"Grandma's Boysenberry Spread","70",8,"Canada","Québec","Montréal",True
+"Grandma's Boysenberry Spread","30",9,"Ireland","Co. Cork","Cork",True
+"Grandma's Boysenberry Spread","6",10,"Germany",NULL,"Brandenburg",True
+"Grandma's Boysenberry Spread","30",11,"Brazil","SP","Campinas",True
+"Gravad lax","10",1,"France",NULL,"Lille",False
+"Gravad lax","60",1,"USA","ID","Boise",False
+"Gravad lax","8",3,"Switzerland",NULL,"Bern",False
+"Gravad lax","18",5,"UK",NULL,"London",False
+"Gravad lax","1",7,"Mexico",NULL,"México D.F.",False
+"Gravad lax","28",10,"Germany",NULL,"München",False
+"Guaraná Fantástica","40",1,"Germany",NULL,"München",True
+"Guaraná Fantástica","110",2,"Austria",NULL,"Graz",True
+"Guaraná Fantástica","12",2,"Belgium",NULL,"Charleroi",True
+"Guaraná Fantástica","10",2,"Germany",NULL,"Brandenburg",True
+"Guaraná Fantástica","20",2,"Germany",NULL,"Münster",True
+"Guaraná Fantástica","6",2,"Sweden",NULL,"Luleå",True
+"Guaraná Fantástica","8",2,"USA","OR","Portland",True
+"Guaraná Fantástica","110",3,"Austria",NULL,"Graz",True
+"Guaraná Fantástica","35",3,"Brazil","RJ","Rio de Janeiro",True
+"Guaraná Fantástica","50",3,"Denmark",NULL,"Århus",True
+"Guaraná Fantástica","28",3,"Italy",NULL,"Bergamo",True
+"Guaraná Fantástica","80",3,"UK",NULL,"London",True
+"Guaraná Fantástica","20",3,"USA","ID","Boise",True
+"Guaraná Fantástica","10",3,"Venezuela","Táchira","San Cristóbal",True
+"Guaraná Fantástica","10",4,"Brazil","SP","Sao Paulo",True
+"Guaraná Fantástica","30",4,"Canada","BC","Tsawassen",True
+"Guaraná Fantástica","10",4,"France",NULL,"Toulouse",True
+"Guaraná Fantástica","10",4,"Italy",NULL,"Reggio Emilia",True
+"Guaraná Fantástica","5",4,"Mexico",NULL,"México D.F.",True
+"Guaraná Fantástica","8",4,"Norway",NULL,"Stavern",True
+"Guaraná Fantástica","12",4,"Poland",NULL,"Warszawa",True
+"Guaraná Fantástica","12",4,"Spain",NULL,"Sevilla",True
+"Guaraná Fantástica","21",4,"USA","ID","Boise",True
+"Guaraná Fantástica","30",4,"USA","NM","Albuquerque",True
+"Guaraná Fantástica","29",4,"Venezuela","Táchira","San Cristóbal",True
+"Guaraná Fantástica","35",5,"Brazil","RJ","Rio de Janeiro",True
+"Guaraná Fantástica","20",5,"Mexico",NULL,"México D.F.",True
+"Guaraná Fantástica","25",6,"Canada","Québec","Montréal",True
+"Guaraná Fantástica","18",6,"USA","ID","Boise",True
+"Guaraná Fantástica","28",7,"Austria",NULL,"Graz",True
+"Guaraná Fantástica","35",7,"Austria",NULL,"Salzburg",True
+"Guaraná Fantástica","15",7,"Switzerland",NULL,"Bern",True
+"Guaraná Fantástica","15",8,"Brazil","RJ","Rio de Janeiro",True
+"Guaraná Fantástica","5",8,"Canada","BC","Vancouver",True
+"Guaraná Fantástica","3",8,"Germany",NULL,"München",True
+"Guaraná Fantástica","12",8,"Italy",NULL,"Bergamo",True
+"Guaraná Fantástica","10",8,"Mexico",NULL,"México D.F.",True
+"Guaraná Fantástica","6",8,"Spain",NULL,"Madrid",True
+"Guaraná Fantástica","12",8,"Sweden",NULL,"Luleå",True
+"Guaraná Fantástica","35",10,"Brazil","SP","Sao Paulo",True
+"Guaraná Fantástica","20",10,"Finland",NULL,"Helsinki",True
+"Guaraná Fantástica","10",11,"France",NULL,"Toulouse",True
+"Guaraná Fantástica","10",11,"Portugal",NULL,"Lisboa",True
+"Guaraná Fantástica","25",11,"UK","Essex","Colchester",True
+"Guaraná Fantástica","15",12,"Brazil","SP","Sao Paulo",True
+"Guaraná Fantástica","20",12,"France",NULL,"Lille",True
+"Guaraná Fantástica","20",12,"Germany",NULL,"Brandenburg",True
+"Guaraná Fantástica","15",12,"Norway",NULL,"Stavern",True
+"Gudbrandsdalsost","15",1,"Germany",NULL,"Köln",True
+"Gudbrandsdalsost","20",1,"Switzerland",NULL,"Genève",True
+"Gudbrandsdalsost","50",2,"USA","ID","Boise",True
+"Gudbrandsdalsost","10",3,"France",NULL,"Paris",True
+"Gudbrandsdalsost","9",3,"Germany",NULL,"Cunewalde",True
+"Gudbrandsdalsost","30",4,"Brazil","RJ","Rio de Janeiro",True
+"Gudbrandsdalsost","10",4,"France",NULL,"Toulouse",True
+"Gudbrandsdalsost","36",4,"Switzerland",NULL,"Genève",True
+"Gudbrandsdalsost","10",5,"Belgium",NULL,"Bruxelles",True
+"Gudbrandsdalsost","18",5,"Venezuela","Táchira","San Cristóbal",True
+"Gudbrandsdalsost","10",6,"Finland",NULL,"Oulu",True
+"Gudbrandsdalsost","65",7,"Austria",NULL,"Graz",True
+"Gudbrandsdalsost","20",7,"Germany",NULL,"Frankfurt a.M.",True
+"Gudbrandsdalsost","20",8,"Germany",NULL,"Stuttgart",True
+"Gudbrandsdalsost","45",9,"Austria",NULL,"Graz",True
+"Gudbrandsdalsost","7",9,"France",NULL,"Nantes",True
+"Gudbrandsdalsost","1",9,"Mexico",NULL,"México D.F.",True
+"Gudbrandsdalsost","15",9,"Venezuela","Lara","Barquisimeto",True
+"Gudbrandsdalsost","25",10,"Germany",NULL,"München",True
+"Gudbrandsdalsost","30",10,"USA","WA","Seattle",True
+"Gudbrandsdalsost","30",11,"Austria",NULL,"Salzburg",True
+"Gudbrandsdalsost","25",11,"France",NULL,"Marseille",True
+"Gudbrandsdalsost","18",11,"France",NULL,"Toulouse",True
+"Gudbrandsdalsost","20",11,"Germany",NULL,"Stuttgart",True
+"Gudbrandsdalsost","40",11,"Switzerland",NULL,"Bern",True
+"Gudbrandsdalsost","33",11,"UK",NULL,"London",True
+"Gudbrandsdalsost","20",11,"USA","WY","Lander",True
+"Gudbrandsdalsost","50",12,"Austria",NULL,"Salzburg",True
+"Gudbrandsdalsost","32",12,"Venezuela","Táchira","San Cristóbal",True
+"Gula Malacca","40",1,"Canada","BC","Tsawassen",True
+"Gula Malacca","16",1,"France",NULL,"Toulouse",True
+"Gula Malacca","100",2,"USA","ID","Boise",True
+"Gula Malacca","6",3,"Belgium",NULL,"Bruxelles",True
+"Gula Malacca","18",3,"Canada","BC","Tsawassen",True
+"Gula Malacca","15",3,"Portugal",NULL,"Lisboa",True
+"Gula Malacca","2",3,"USA","WA","Seattle",True
+"Gula Malacca","15",4,"Brazil","SP","Sao Paulo",True
+"Gula Malacca","9",4,"Mexico",NULL,"México D.F.",True
+"Gula Malacca","12",4,"USA","AK","Anchorage",True
+"Gula Malacca","40",5,"Portugal",NULL,"Lisboa",True
+"Gula Malacca","21",6,"Mexico",NULL,"México D.F.",True
+"Gula Malacca","10",6,"Sweden",NULL,"Bräcke",True
+"Gula Malacca","24",8,"Brazil","RJ","Rio de Janeiro",True
+"Gula Malacca","21",8,"Germany",NULL,"Frankfurt a.M.",True
+"Gula Malacca","16",8,"Sweden",NULL,"Luleå",True
+"Gula Malacca","10",8,"USA","MT","Butte",True
+"Gula Malacca","21",9,"Mexico",NULL,"México D.F.",True
+"Gula Malacca","28",9,"USA","OR","Eugene",True
+"Gula Malacca","74",10,"Germany",NULL,"Cunewalde",True
+"Gula Malacca","77",11,"Austria",NULL,"Graz",True
+"Gula Malacca","16",11,"Germany",NULL,"Cunewalde",True
+"Gula Malacca","10",12,"Venezuela","Táchira","San Cristóbal",True
+"Gumbär Gummibärchen","30",1,"Brazil","RJ","Rio de Janeiro",True
+"Gumbär Gummibärchen","12",1,"Germany",NULL,"Aachen",True
+"Gumbär Gummibärchen","58",1,"Germany",NULL,"Brandenburg",True
+"Gumbär Gummibärchen","30",1,"Italy",NULL,"Bergamo",True
+"Gumbär Gummibärchen","2",1,"Italy",NULL,"Torino",True
+"Gumbär Gummibärchen","35",1,"Sweden",NULL,"Luleå",True
+"Gumbär Gummibärchen","10",1,"USA","WY","Lander",True
+"Gumbär Gummibärchen","6",2,"Argentina",NULL,"Buenos Aires",True
+"Gumbär Gummibärchen","30",2,"Belgium",NULL,"Charleroi",True
+"Gumbär Gummibärchen","20",2,"Brazil","SP","Sao Paulo",True
+"Gumbär Gummibärchen","15",2,"Sweden",NULL,"Luleå",True
+"Gumbär Gummibärchen","30",3,"Brazil","SP","Sao Paulo",True
+"Gumbär Gummibärchen","5",3,"France",NULL,"Versailles",True
+"Gumbär Gummibärchen","6",4,"Belgium",NULL,"Bruxelles",True
+"Gumbär Gummibärchen","63",4,"Germany",NULL,"Cunewalde",True
+"Gumbär Gummibärchen","12",4,"UK",NULL,"London",True
+"Gumbär Gummibärchen","40",5,"Germany",NULL,"Cunewalde",True
+"Gumbär Gummibärchen","6",7,"Brazil","RJ","Rio de Janeiro",True
+"Gumbär Gummibärchen","5",7,"Germany",NULL,"Frankfurt a.M.",True
+"Gumbär Gummibärchen","35",8,"Austria",NULL,"Graz",True
+"Gumbär Gummibärchen","15",9,"Austria",NULL,"Salzburg",True
+"Gumbär Gummibärchen","30",9,"Mexico",NULL,"México D.F.",True
+"Gumbär Gummibärchen","24",10,"Germany",NULL,"München",True
+"Gumbär Gummibärchen","30",10,"USA","ID","Boise",True
+"Gumbär Gummibärchen","15",10,"USA","WA","Seattle",True
+"Gumbär Gummibärchen","50",10,"Venezuela","Lara","Barquisimeto",True
+"Gumbär Gummibärchen","32",11,"Switzerland",NULL,"Genève",True
+"Gumbär Gummibärchen","16",11,"Venezuela","Lara","Barquisimeto",True
+"Gumbär Gummibärchen","70",12,"USA","ID","Boise",True
+"Gumbär Gummibärchen","21",12,"Venezuela","Táchira","San Cristóbal",True
+"Gustaf's Knäckebröd","52",1,"Austria",NULL,"Graz",True
+"Gustaf's Knäckebröd","35",1,"Austria",NULL,"Salzburg",True
+"Gustaf's Knäckebröd","12",2,"UK",NULL,"London",True
+"Gustaf's Knäckebröd","21",3,"UK",NULL,"London",True
+"Gustaf's Knäckebröd","25",4,"Sweden",NULL,"Bräcke",True
+"Gustaf's Knäckebröd","24",5,"Finland",NULL,"Oulu",True
+"Gustaf's Knäckebröd","6",7,"France",NULL,"Lyon",True
+"Gustaf's Knäckebröd","48",7,"USA","ID","Boise",True
+"Gustaf's Knäckebröd","15",8,"Brazil","RJ","Rio de Janeiro",True
+"Gustaf's Knäckebröd","40",8,"Canada","Québec","Montréal",True
+"Gustaf's Knäckebröd","40",8,"Italy",NULL,"Bergamo",True
+"Gustaf's Knäckebröd","20",9,"Germany",NULL,"Stuttgart",True
+"Gustaf's Knäckebröd","6",12,"France",NULL,"Lille",True
+"Gustaf's Knäckebröd","4",12,"UK","Essex","Colchester",True
+"Ikura","100",1,"Austria",NULL,"Graz",True
+"Ikura","16",1,"Belgium",NULL,"Charleroi",True
+"Ikura","15",1,"France",NULL,"Marseille",True
+"Ikura","70",2,"Brazil","RJ","Rio de Janeiro",True
+"Ikura","20",2,"France",NULL,"Lyon",True
+"Ikura","14",2,"France",NULL,"Strasbourg",True
+"Ikura","10",2,"Spain",NULL,"Sevilla",True
+"Ikura","30",3,"Canada","BC","Tsawassen",True
+"Ikura","25",3,"Denmark",NULL,"Århus",True
+"Ikura","20",3,"France",NULL,"Lyon",True
+"Ikura","20",3,"Sweden",NULL,"Luleå",True
+"Ikura","24",4,"Germany",NULL,"Köln",True
+"Ikura","16",4,"Switzerland",NULL,"Bern",True
+"Ikura","2",5,"Sweden",NULL,"Luleå",True
+"Ikura","1",5,"USA","NM","Albuquerque",True
+"Ikura","5",6,"Spain",NULL,"Barcelona",True
+"Ikura","10",7,"France",NULL,"Nantes",True
+"Ikura","70",7,"USA","ID","Boise",True
+"Ikura","24",8,"Germany",NULL,"Cunewalde",True
+"Ikura","18",8,"Ireland","Co. Cork","Cork",True
+"Ikura","15",8,"Mexico",NULL,"México D.F.",True
+"Ikura","20",9,"Brazil","SP","Campinas",True
+"Ikura","2",9,"Mexico",NULL,"México D.F.",True
+"Ikura","24",9,"Portugal",NULL,"Lisboa",True
+"Ikura","16",10,"Canada","Québec","Montréal",True
+"Ikura","18",10,"Denmark",NULL,"Århus",True
+"Ikura","21",10,"France",NULL,"Marseille",True
+"Ikura","18",10,"USA","ID","Boise",True
+"Ikura","30",11,"Venezuela","Lara","Barquisimeto",True
+"Ikura","16",12,"Canada","BC","Tsawassen",True
+"Ikura","36",12,"UK",NULL,"London",True
+"Ikura","6",12,"USA","MT","Butte",True
+"Ikura","10",12,"Venezuela","DF","Caracas",True
+"Inlagd Sill","5",1,"Brazil","SP","Sao Paulo",True
+"Inlagd Sill","50",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Inlagd Sill","20",2,"Germany",NULL,"Brandenburg",True
+"Inlagd Sill","25",3,"Brazil","RJ","Rio de Janeiro",True
+"Inlagd Sill","40",3,"USA","ID","Boise",True
+"Inlagd Sill","30",3,"USA","OR","Eugene",True
+"Inlagd Sill","18",4,"Spain",NULL,"Sevilla",True
+"Inlagd Sill","16",4,"UK","Essex","Colchester",True
+"Inlagd Sill","35",4,"USA","WA","Seattle",True
+"Inlagd Sill","30",5,"France",NULL,"Marseille",True
+"Inlagd Sill","30",5,"Germany",NULL,"Cunewalde",True
+"Inlagd Sill","60",5,"UK",NULL,"London",True
+"Inlagd Sill","25",6,"Brazil","RJ","Rio de Janeiro",True
+"Inlagd Sill","21",7,"France",NULL,"Toulouse",True
+"Inlagd Sill","25",7,"Switzerland",NULL,"Genève",True
+"Inlagd Sill","55",7,"USA","ID","Boise",True
+"Inlagd Sill","15",8,"Brazil","RJ","Rio de Janeiro",True
+"Inlagd Sill","30",8,"Finland",NULL,"Oulu",True
+"Inlagd Sill","30",9,"Denmark",NULL,"Kobenhavn",True
+"Inlagd Sill","12",9,"Germany",NULL,"Cunewalde",True
+"Inlagd Sill","46",9,"Ireland","Co. Cork","Cork",True
+"Inlagd Sill","40",10,"Germany",NULL,"Brandenburg",True
+"Inlagd Sill","60",10,"Germany",NULL,"München",True
+"Inlagd Sill","5",10,"USA","OR","Portland",True
+"Inlagd Sill","6",11,"France",NULL,"Reims",True
+"Inlagd Sill","20",11,"France",NULL,"Toulouse",True
+"Inlagd Sill","20",11,"USA","WY","Lander",True
+"Inlagd Sill","6",12,"France",NULL,"Toulouse",True
+"Inlagd Sill","30",12,"Italy",NULL,"Bergamo",True
+"Ipoh Coffee","7",1,"Argentina",NULL,"Buenos Aires",False
+"Ipoh Coffee","20",1,"France",NULL,"Lyon",False
+"Ipoh Coffee","5",1,"Mexico",NULL,"México D.F.",False
+"Ipoh Coffee","9",1,"Norway",NULL,"Stavern",False
+"Ipoh Coffee","20",2,"Belgium",NULL,"Charleroi",False
+"Ipoh Coffee","9",3,"Canada","BC","Tsawassen",False
+"Ipoh Coffee","10",3,"France",NULL,"Toulouse",False
+"Ipoh Coffee","15",3,"Germany",NULL,"Brandenburg",False
+"Ipoh Coffee","24",3,"Germany",NULL,"Cunewalde",False
+"Ipoh Coffee","3",3,"Portugal",NULL,"Lisboa",False
+"Ipoh Coffee","6",3,"UK",NULL,"London",False
+"Ipoh Coffee","30",4,"Brazil","RJ","Rio de Janeiro",False
+"Ipoh Coffee","15",4,"Mexico",NULL,"México D.F.",False
+"Ipoh Coffee","30",4,"UK",NULL,"London",False
+"Ipoh Coffee","25",5,"Austria",NULL,"Salzburg",False
+"Ipoh Coffee","36",5,"Brazil","SP","Sao Paulo",False
+"Ipoh Coffee","60",5,"Sweden",NULL,"Luleå",False
+"Ipoh Coffee","20",8,"Brazil","SP","Resende",False
+"Ipoh Coffee","25",8,"Finland",NULL,"Oulu",False
+"Ipoh Coffee","15",8,"USA","NM","Albuquerque",False
+"Ipoh Coffee","12",9,"Belgium",NULL,"Charleroi",False
+"Ipoh Coffee","6",9,"Finland",NULL,"Helsinki",False
+"Ipoh Coffee","24",9,"Germany",NULL,"Stuttgart",False
+"Ipoh Coffee","20",9,"Ireland","Co. Cork","Cork",False
+"Ipoh Coffee","40",10,"France",NULL,"Marseille",False
+"Ipoh Coffee","40",10,"Germany",NULL,"Cunewalde",False
+"Ipoh Coffee","24",10,"USA","AK","Anchorage",False
+"Ipoh Coffee","30",12,"Belgium",NULL,"Bruxelles",False
+"Jack's New England Clam Chowder","25",1,"Canada","BC","Tsawassen",True
+"Jack's New England Clam Chowder","20",1,"France",NULL,"Lyon",True
+"Jack's New England Clam Chowder","20",1,"Italy",NULL,"Bergamo",True
+"Jack's New England Clam Chowder","12",1,"Sweden",NULL,"Bräcke",True
+"Jack's New England Clam Chowder","14",2,"France",NULL,"Nantes",True
+"Jack's New England Clam Chowder","5",2,"Norway",NULL,"Stavern",True
+"Jack's New England Clam Chowder","30",2,"Sweden",NULL,"Luleå",True
+"Jack's New England Clam Chowder","30",2,"Venezuela","Táchira","San Cristóbal",True
+"Jack's New England Clam Chowder","4",3,"Brazil","RJ","Rio de Janeiro",True
+"Jack's New England Clam Chowder","6",3,"France",NULL,"Versailles",True
+"Jack's New England Clam Chowder","6",3,"Switzerland",NULL,"Genève",True
+"Jack's New England Clam Chowder","24",3,"Venezuela","Táchira","San Cristóbal",True
+"Jack's New England Clam Chowder","10",4,"Argentina",NULL,"Buenos Aires",True
+"Jack's New England Clam Chowder","20",4,"Canada","BC","Vancouver",True
+"Jack's New England Clam Chowder","20",4,"Germany",NULL,"Köln",True
+"Jack's New England Clam Chowder","110",4,"Ireland","Co. Cork","Cork",True
+"Jack's New England Clam Chowder","35",4,"Sweden",NULL,"Bräcke",True
+"Jack's New England Clam Chowder","28",4,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Jack's New England Clam Chowder","40",5,"Austria",NULL,"Graz",True
+"Jack's New England Clam Chowder","9",5,"Germany",NULL,"Aachen",True
+"Jack's New England Clam Chowder","14",5,"Germany",NULL,"Münster",True
+"Jack's New England Clam Chowder","6",5,"UK",NULL,"London",True
+"Jack's New England Clam Chowder","12",5,"USA","ID","Boise",True
+"Jack's New England Clam Chowder","3",5,"USA","NM","Albuquerque",True
+"Jack's New England Clam Chowder","12",6,"France",NULL,"Strasbourg",True
+"Jack's New England Clam Chowder","9",6,"Germany",NULL,"Köln",True
+"Jack's New England Clam Chowder","10",7,"Brazil","RJ","Rio de Janeiro",True
+"Jack's New England Clam Chowder","16",7,"Germany",NULL,"Köln",True
+"Jack's New England Clam Chowder","25",7,"Sweden",NULL,"Bräcke",True
+"Jack's New England Clam Chowder","4",9,"Brazil","SP","Campinas",True
+"Jack's New England Clam Chowder","20",9,"Italy",NULL,"Reggio Emilia",True
+"Jack's New England Clam Chowder","144",9,"USA","ID","Boise",True
+"Jack's New England Clam Chowder","10",9,"USA","NM","Albuquerque",True
+"Jack's New England Clam Chowder","12",10,"Brazil","SP","Sao Paulo",True
+"Jack's New England Clam Chowder","12",10,"France",NULL,"Marseille",True
+"Jack's New England Clam Chowder","20",10,"UK","Isle of Wight","Cowes",True
+"Jack's New England Clam Chowder","42",10,"USA","ID","Boise",True
+"Jack's New England Clam Chowder","13",11,"Austria",NULL,"Graz",True
+"Jack's New England Clam Chowder","35",11,"Austria",NULL,"Salzburg",True
+"Jack's New England Clam Chowder","12",11,"France",NULL,"Reims",True
+"Jack's New England Clam Chowder","8",12,"Brazil","RJ","Rio de Janeiro",True
+"Jack's New England Clam Chowder","30",12,"Denmark",NULL,"Århus",True
+"Jack's New England Clam Chowder","20",12,"Germany",NULL,"München",True
+"Jack's New England Clam Chowder","10",12,"Sweden",NULL,"Luleå",True
+"Jack's New England Clam Chowder","14",12,"UK","Essex","Colchester",True
+"Konbu","65",1,"Austria",NULL,"Graz",True
+"Konbu","2",1,"Brazil","SP","Resende",True
+"Konbu","7",1,"Canada","BC","Vancouver",True
+"Konbu","3",1,"France",NULL,"Toulouse",True
+"Konbu","6",1,"Sweden",NULL,"Luleå",True
+"Konbu","10",1,"UK","Isle of Wight","Cowes",True
+"Konbu","5",2,"Argentina",NULL,"Buenos Aires",True
+"Konbu","40",2,"Brazil","RJ","Rio de Janeiro",True
+"Konbu","28",2,"USA","ID","Boise",True
+"Konbu","20",3,"France",NULL,"Marseille",True
+"Konbu","97",3,"Germany",NULL,"Cunewalde",True
+"Konbu","20",3,"Germany",NULL,"Leipzig",True
+"Konbu","10",3,"Mexico",NULL,"México D.F.",True
+"Konbu","42",3,"Switzerland",NULL,"Genève",True
+"Konbu","16",3,"UK",NULL,"London",True
+"Konbu","84",3,"USA","ID","Boise",True
+"Konbu","30",4,"Brazil","RJ","Rio de Janeiro",True
+"Konbu","20",4,"Finland",NULL,"Oulu",True
+"Konbu","7",4,"Germany",NULL,"Aachen",True
+"Konbu","10",4,"Germany",NULL,"Köln",True
+"Konbu","136",4,"USA","ID","Boise",True
+"Konbu","10",5,"Finland",NULL,"Oulu",True
+"Konbu","8",5,"UK",NULL,"London",True
+"Konbu","4",5,"USA","NM","Albuquerque",True
+"Konbu","10",5,"Venezuela","Lara","Barquisimeto",True
+"Konbu","68",7,"Venezuela","Táchira","San Cristóbal",True
+"Konbu","13",8,"Austria",NULL,"Graz",True
+"Konbu","20",8,"Brazil","RJ","Rio de Janeiro",True
+"Konbu","10",8,"Mexico",NULL,"México D.F.",True
+"Konbu","12",10,"Germany",NULL,"Brandenburg",True
+"Konbu","4",11,"France",NULL,"Reims",True
+"Konbu","6",11,"Switzerland",NULL,"Bern",True
+"Konbu","18",12,"Germany",NULL,"Aachen",True
+"Konbu","20",12,"Germany",NULL,"Brandenburg",True
+"Konbu","20",12,"UK","Essex","Colchester",True
+"Konbu","10",12,"USA","OR","Elgin",True
+"Lakkalikööri","20",1,"France",NULL,"Nantes",True
+"Lakkalikööri","34",1,"France",NULL,"Toulouse",True
+"Lakkalikööri","21",1,"Sweden",NULL,"Luleå",True
+"Lakkalikööri","50",1,"USA","AK","Anchorage",True
+"Lakkalikööri","10",2,"Finland",NULL,"Helsinki",True
+"Lakkalikööri","18",2,"Sweden",NULL,"Bräcke",True
+"Lakkalikööri","10",3,"Argentina",NULL,"Buenos Aires",True
+"Lakkalikööri","42",3,"Belgium",NULL,"Charleroi",True
+"Lakkalikööri","60",3,"Brazil","SP","Sao Paulo",True
+"Lakkalikööri","20",3,"France",NULL,"Versailles",True
+"Lakkalikööri","44",3,"Germany",NULL,"Cunewalde",True
+"Lakkalikööri","5",3,"Spain",NULL,"Barcelona",True
+"Lakkalikööri","6",4,"Belgium",NULL,"Bruxelles",True
+"Lakkalikööri","90",4,"Germany",NULL,"Cunewalde",True
+"Lakkalikööri","50",4,"Sweden",NULL,"Bräcke",True
+"Lakkalikööri","50",5,"Austria",NULL,"Salzburg",True
+"Lakkalikööri","2",5,"Switzerland",NULL,"Genève",True
+"Lakkalikööri","10",6,"France",NULL,"Strasbourg",True
+"Lakkalikööri","10",6,"Germany",NULL,"Leipzig",True
+"Lakkalikööri","14",6,"Germany",NULL,"Mannheim",True
+"Lakkalikööri","30",6,"USA","NM","Albuquerque",True
+"Lakkalikööri","4",7,"Germany",NULL,"Frankfurt a.M.",True
+"Lakkalikööri","15",7,"Germany",NULL,"München",True
+"Lakkalikööri","10",7,"Portugal",NULL,"Lisboa",True
+"Lakkalikööri","80",7,"USA","ID","Boise",True
+"Lakkalikööri","35",8,"Germany",NULL,"Brandenburg",True
+"Lakkalikööri","33",8,"Germany",NULL,"Cunewalde",True
+"Lakkalikööri","10",9,"USA","OR","Portland",True
+"Lakkalikööri","15",10,"Germany",NULL,"Berlin",True
+"Lakkalikööri","15",10,"Germany",NULL,"Frankfurt a.M.",True
+"Lakkalikööri","35",10,"Ireland","Co. Cork","Cork",True
+"Lakkalikööri","30",10,"Mexico",NULL,"México D.F.",True
+"Lakkalikööri","6",10,"UK","Isle of Wight","Cowes",True
+"Lakkalikööri","20",11,"Brazil","SP","Campinas",True
+"Lakkalikööri","20",11,"France",NULL,"Marseille",True
+"Lakkalikööri","12",11,"Germany",NULL,"Aachen",True
+"Lakkalikööri","10",11,"UK","Isle of Wight","Cowes",True
+"Lakkalikööri","35",12,"Denmark",NULL,"Århus",True
+"Laughing Lumberjack Lager","15",2,"Spain",NULL,"Sevilla",True
+"Laughing Lumberjack Lager","15",2,"UK","Essex","Colchester",True
+"Laughing Lumberjack Lager","24",3,"France",NULL,"Toulouse",True
+"Laughing Lumberjack Lager","40",3,"Italy",NULL,"Bergamo",True
+"Laughing Lumberjack Lager","20",4,"Argentina",NULL,"Buenos Aires",True
+"Laughing Lumberjack Lager","30",4,"Mexico",NULL,"México D.F.",True
+"Laughing Lumberjack Lager","7",5,"USA","OR","Portland",True
+"Laughing Lumberjack Lager","5",8,"Germany",NULL,"Frankfurt a.M.",True
+"Laughing Lumberjack Lager","25",9,"Germany",NULL,"München",True
+"Laughing Lumberjack Lager","3",12,"USA","MT","Butte",True
+"Longlife Tofu","20",1,"Belgium",NULL,"Charleroi",False
+"Longlife Tofu","15",1,"Germany",NULL,"Cunewalde",False
+"Longlife Tofu","30",2,"Canada","Québec","Montréal",False
+"Longlife Tofu","16",3,"Venezuela","Táchira","San Cristóbal",False
+"Longlife Tofu","20",4,"Poland",NULL,"Warszawa",False
+"Longlife Tofu","36",7,"Austria",NULL,"Graz",False
+"Longlife Tofu","21",7,"Switzerland",NULL,"Bern",False
+"Longlife Tofu","5",11,"Italy",NULL,"Torino",False
+"Longlife Tofu","50",12,"Austria",NULL,"Graz",False
+"Longlife Tofu","35",12,"Finland",NULL,"Oulu",False
+"Longlife Tofu","15",12,"France",NULL,"Lyon",False
+"Longlife Tofu","20",12,"Switzerland",NULL,"Bern",False
+"Longlife Tofu","14",12,"Venezuela","Lara","Barquisimeto",False
+"Louisiana Fiery Hot Pepper Sauce","15",1,"USA","AK","Anchorage",True
+"Louisiana Fiery Hot Pepper Sauce","20",1,"USA","NM","Albuquerque",True
+"Louisiana Fiery Hot Pepper Sauce","56",2,"Brazil","RJ","Rio de Janeiro",True
+"Louisiana Fiery Hot Pepper Sauce","10",2,"Finland",NULL,"Helsinki",True
+"Louisiana Fiery Hot Pepper Sauce","28",2,"Germany",NULL,"Cunewalde",True
+"Louisiana Fiery Hot Pepper Sauce","21",2,"Spain",NULL,"Sevilla",True
+"Louisiana Fiery Hot Pepper Sauce","12",2,"USA","CA","San Francisco",True
+"Louisiana Fiery Hot Pepper Sauce","39",4,"Austria",NULL,"Graz",True
+"Louisiana Fiery Hot Pepper Sauce","15",4,"France",NULL,"Toulouse",True
+"Louisiana Fiery Hot Pepper Sauce","20",4,"Ireland","Co. Cork","Cork",True
+"Louisiana Fiery Hot Pepper Sauce","21",4,"UK",NULL,"London",True
+"Louisiana Fiery Hot Pepper Sauce","36",5,"Brazil","RJ","Rio de Janeiro",True
+"Louisiana Fiery Hot Pepper Sauce","30",6,"Germany",NULL,"Köln",True
+"Louisiana Fiery Hot Pepper Sauce","12",7,"Austria",NULL,"Salzburg",True
+"Louisiana Fiery Hot Pepper Sauce","15",7,"Brazil","RJ","Rio de Janeiro",True
+"Louisiana Fiery Hot Pepper Sauce","20",7,"France",NULL,"Lyon",True
+"Louisiana Fiery Hot Pepper Sauce","21",8,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Louisiana Fiery Hot Pepper Sauce","12",9,"France",NULL,"Nantes",True
+"Louisiana Fiery Hot Pepper Sauce","15",9,"Portugal",NULL,"Lisboa",True
+"Louisiana Fiery Hot Pepper Sauce","30",9,"Spain",NULL,"Sevilla",True
+"Louisiana Fiery Hot Pepper Sauce","10",9,"Switzerland",NULL,"Genève",True
+"Louisiana Fiery Hot Pepper Sauce","65",10,"Austria",NULL,"Graz",True
+"Louisiana Fiery Hot Pepper Sauce","40",10,"Portugal",NULL,"Lisboa",True
+"Louisiana Fiery Hot Pepper Sauce","10",11,"Austria",NULL,"Graz",True
+"Louisiana Fiery Hot Pepper Sauce","15",11,"Denmark",NULL,"Århus",True
+"Louisiana Fiery Hot Pepper Sauce","10",11,"France",NULL,"Marseille",True
+"Louisiana Fiery Hot Pepper Sauce","40",11,"Ireland","Co. Cork","Cork",True
+"Louisiana Fiery Hot Pepper Sauce","5",11,"Spain",NULL,"Barcelona",True
+"Louisiana Fiery Hot Pepper Sauce","20",12,"Brazil","RJ","Rio de Janeiro",True
+"Louisiana Fiery Hot Pepper Sauce","2",12,"France",NULL,"Lyon",True
+"Louisiana Fiery Hot Pepper Sauce","80",12,"Germany",NULL,"Cunewalde",True
+"Louisiana Hot Spiced Okra","60",2,"Austria",NULL,"Graz",False
+"Louisiana Hot Spiced Okra","60",3,"Belgium",NULL,"Charleroi",False
+"Louisiana Hot Spiced Okra","10",4,"France",NULL,"Toulouse",False
+"Louisiana Hot Spiced Okra","24",5,"UK",NULL,"London",False
+"Louisiana Hot Spiced Okra","1",5,"USA","NM","Albuquerque",False
+"Louisiana Hot Spiced Okra","30",9,"Italy",NULL,"Bergamo",False
+"Louisiana Hot Spiced Okra","4",9,"Mexico",NULL,"México D.F.",False
+"Louisiana Hot Spiced Okra","50",12,"Sweden",NULL,"Bräcke",False
+"Manjimup Dried Apples","4",1,"France",NULL,"Lyon",True
+"Manjimup Dried Apples","3",1,"France",NULL,"Nantes",True
+"Manjimup Dried Apples","6",1,"USA","WY","Lander",True
+"Manjimup Dried Apples","2",2,"Poland",NULL,"Warszawa",True
+"Manjimup Dried Apples","8",3,"Germany",NULL,"Mannheim",True
+"Manjimup Dried Apples","40",3,"Spain",NULL,"Sevilla",True
+"Manjimup Dried Apples","10",3,"Sweden",NULL,"Bräcke",True
+"Manjimup Dried Apples","21",3,"UK",NULL,"London",True
+"Manjimup Dried Apples","16",3,"USA","AK","Anchorage",True
+"Manjimup Dried Apples","25",3,"Venezuela","Táchira","San Cristóbal",True
+"Manjimup Dried Apples","24",4,"Canada","BC","Tsawassen",True
+"Manjimup Dried Apples","44",4,"Germany",NULL,"Cunewalde",True
+"Manjimup Dried Apples","15",4,"Germany",NULL,"Köln",True
+"Manjimup Dried Apples","10",4,"Italy",NULL,"Torino",True
+"Manjimup Dried Apples","20",4,"Mexico",NULL,"México D.F.",True
+"Manjimup Dried Apples","20",4,"Venezuela","Táchira","San Cristóbal",True
+"Manjimup Dried Apples","48",5,"Germany",NULL,"Cunewalde",True
+"Manjimup Dried Apples","6",5,"Switzerland",NULL,"Genève",True
+"Manjimup Dried Apples","3",6,"Ireland","Co. Cork","Cork",True
+"Manjimup Dried Apples","50",6,"Sweden",NULL,"Bräcke",True
+"Manjimup Dried Apples","20",6,"UK","Essex","Colchester",True
+"Manjimup Dried Apples","20",6,"USA","ID","Boise",True
+"Manjimup Dried Apples","35",7,"Brazil","RJ","Rio de Janeiro",True
+"Manjimup Dried Apples","40",7,"Germany",NULL,"Münster",True
+"Manjimup Dried Apples","2",8,"Brazil","RJ","Rio de Janeiro",True
+"Manjimup Dried Apples","15",8,"France",NULL,"Lille",True
+"Manjimup Dried Apples","20",9,"France",NULL,"Marseille",True
+"Manjimup Dried Apples","20",9,"USA","OR","Portland",True
+"Manjimup Dried Apples","7",10,"Argentina",NULL,"Buenos Aires",True
+"Manjimup Dried Apples","28",10,"Brazil","SP","Campinas",True
+"Manjimup Dried Apples","48",10,"Ireland","Co. Cork","Cork",True
+"Manjimup Dried Apples","20",11,"France",NULL,"Marseille",True
+"Manjimup Dried Apples","30",11,"Switzerland",NULL,"Bern",True
+"Manjimup Dried Apples","120",12,"Austria",NULL,"Graz",True
+"Manjimup Dried Apples","30",12,"Denmark",NULL,"Kobenhavn",True
+"Manjimup Dried Apples","18",12,"Portugal",NULL,"Lisboa",True
+"Manjimup Dried Apples","28",12,"Sweden",NULL,"Bräcke",True
+"Manjimup Dried Apples","10",12,"UK",NULL,"London",True
+"Mascarpone Fabioli","20",1,"Italy",NULL,"Bergamo",False
+"Mascarpone Fabioli","6",2,"Argentina",NULL,"Buenos Aires",False
+"Mascarpone Fabioli","35",3,"Ireland","Co. Cork","Cork",False
+"Mascarpone Fabioli","20",4,"Austria",NULL,"Salzburg",False
+"Mascarpone Fabioli","65",4,"Germany",NULL,"Stuttgart",False
+"Mascarpone Fabioli","50",4,"Venezuela","Lara","Barquisimeto",False
+"Mascarpone Fabioli","24",5,"UK",NULL,"London",False
+"Mascarpone Fabioli","1",5,"USA","NM","Albuquerque",False
+"Mascarpone Fabioli","10",6,"Sweden",NULL,"Luleå",False
+"Mascarpone Fabioli","6",7,"Austria",NULL,"Graz",False
+"Mascarpone Fabioli","40",9,"USA","NM","Albuquerque",False
+"Mascarpone Fabioli","6",10,"Ireland","Co. Cork","Cork",False
+"Mascarpone Fabioli","4",10,"Venezuela","Táchira","San Cristóbal",False
+"Mascarpone Fabioli","10",11,"Mexico",NULL,"México D.F.",False
+"Maxilaku","30",1,"Italy",NULL,"Bergamo",False
+"Maxilaku","30",1,"UK",NULL,"London",False
+"Maxilaku","42",2,"Brazil","SP","Sao Paulo",False
+"Maxilaku","10",2,"Finland",NULL,"Helsinki",False
+"Maxilaku","21",2,"Germany",NULL,"Brandenburg",False
+"Maxilaku","15",2,"Sweden",NULL,"Luleå",False
+"Maxilaku","20",2,"USA","ID","Boise",False
+"Maxilaku","24",3,"Brazil","RJ","Rio de Janeiro",False
+"Maxilaku","40",3,"Germany",NULL,"Münster",False
+"Maxilaku","28",3,"Italy",NULL,"Reggio Emilia",False
+"Maxilaku","2",4,"Argentina",NULL,"Buenos Aires",False
+"Maxilaku","25",4,"Venezuela","Lara","Barquisimeto",False
+"Maxilaku","60",4,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Maxilaku","6",5,"UK",NULL,"London",False
+"Maxilaku","40",7,"Brazil","RJ","Rio de Janeiro",False
+"Maxilaku","43",7,"USA","ID","Boise",False
+"Maxilaku","15",8,"Brazil","SP","Sao Paulo",False
+"Maxilaku","30",9,"Mexico",NULL,"México D.F.",False
+"Maxilaku","35",11,"France",NULL,"Strasbourg",False
+"Maxilaku","4",12,"UK",NULL,"London",False
+"Mishi Kobe Niku","20",1,"Brazil","SP","Resende",True
+"Mishi Kobe Niku","3",1,"UK",NULL,"London",True
+"Mishi Kobe Niku","16",4,"Germany",NULL,"Cunewalde",True
+"Mishi Kobe Niku","50",9,"Ireland","Co. Cork","Cork",True
+"Mishi Kobe Niku","6",10,"USA","WA","Seattle",True
+"Mozzarella di Giovanni","15",1,"Brazil","SP","Sao Paulo",True
+"Mozzarella di Giovanni","40",1,"Italy",NULL,"Reggio Emilia",True
+"Mozzarella di Giovanni","40",2,"France",NULL,"Lyon",True
+"Mozzarella di Giovanni","10",2,"UK",NULL,"London",True
+"Mozzarella di Giovanni","5",3,"Argentina",NULL,"Buenos Aires",True
+"Mozzarella di Giovanni","16",3,"France",NULL,"Marseille",True
+"Mozzarella di Giovanni","10",3,"Mexico",NULL,"México D.F.",True
+"Mozzarella di Giovanni","20",3,"UK",NULL,"London",True
+"Mozzarella di Giovanni","50",3,"USA","ID","Boise",True
+"Mozzarella di Giovanni","35",4,"Germany",NULL,"Cunewalde",True
+"Mozzarella di Giovanni","25",4,"Germany",NULL,"Frankfurt a.M.",True
+"Mozzarella di Giovanni","2",4,"USA","OR","Portland",True
+"Mozzarella di Giovanni","24",5,"Sweden",NULL,"Bräcke",True
+"Mozzarella di Giovanni","21",5,"Switzerland",NULL,"Genève",True
+"Mozzarella di Giovanni","1",5,"UK",NULL,"London",True
+"Mozzarella di Giovanni","9",5,"USA","OR","Eugene",True
+"Mozzarella di Giovanni","24",6,"Denmark",NULL,"Kobenhavn",True
+"Mozzarella di Giovanni","30",6,"Germany",NULL,"Leipzig",True
+"Mozzarella di Giovanni","5",7,"France",NULL,"Reims",True
+"Mozzarella di Giovanni","12",7,"USA","ID","Boise",True
+"Mozzarella di Giovanni","20",7,"USA","WA","Seattle",True
+"Mozzarella di Giovanni","4",7,"Venezuela","DF","Caracas",True
+"Mozzarella di Giovanni","15",8,"Belgium",NULL,"Bruxelles",True
+"Mozzarella di Giovanni","7",8,"France",NULL,"Reims",True
+"Mozzarella di Giovanni","24",8,"USA","NM","Albuquerque",True
+"Mozzarella di Giovanni","3",8,"Venezuela","Lara","Barquisimeto",True
+"Mozzarella di Giovanni","60",8,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Mozzarella di Giovanni","20",9,"France",NULL,"Strasbourg",True
+"Mozzarella di Giovanni","40",10,"Germany",NULL,"Brandenburg",True
+"Mozzarella di Giovanni","25",10,"Germany",NULL,"München",True
+"Mozzarella di Giovanni","25",10,"Venezuela","Lara","Barquisimeto",True
+"Mozzarella di Giovanni","35",11,"Canada","BC","Tsawassen",True
+"Mozzarella di Giovanni","7",11,"Germany",NULL,"Cunewalde",True
+"Mozzarella di Giovanni","24",12,"Austria",NULL,"Graz",True
+"Mozzarella di Giovanni","42",12,"Brazil","SP","Sao Paulo",True
+"Mozzarella di Giovanni","21",12,"Germany",NULL,"München",True
+"Mozzarella di Giovanni","30",12,"Italy",NULL,"Bergamo",True
+"Mozzarella di Giovanni","10",12,"UK","Isle of Wight","Cowes",True
+"Nord-Ost Matjeshering","20",1,"Brazil","SP","Sao Paulo",False
+"Nord-Ost Matjeshering","18",1,"USA","NM","Albuquerque",False
+"Nord-Ost Matjeshering","35",2,"Germany",NULL,"Brandenburg",False
+"Nord-Ost Matjeshering","15",2,"Germany",NULL,"Frankfurt a.M.",False
+"Nord-Ost Matjeshering","36",2,"Ireland","Co. Cork","Cork",False
+"Nord-Ost Matjeshering","40",2,"Sweden",NULL,"Luleå",False
+"Nord-Ost Matjeshering","28",2,"Venezuela","Lara","Barquisimeto",False
+"Nord-Ost Matjeshering","8",3,"Germany",NULL,"Brandenburg",False
+"Nord-Ost Matjeshering","1",3,"Spain",NULL,"Madrid",False
+"Nord-Ost Matjeshering","30",3,"Venezuela","Táchira","San Cristóbal",False
+"Nord-Ost Matjeshering","20",4,"Germany",NULL,"Frankfurt a.M.",False
+"Nord-Ost Matjeshering","15",4,"Norway",NULL,"Stavern",False
+"Nord-Ost Matjeshering","10",5,"Germany",NULL,"Frankfurt a.M.",False
+"Nord-Ost Matjeshering","10",5,"Sweden",NULL,"Luleå",False
+"Nord-Ost Matjeshering","15",5,"UK",NULL,"London",False
+"Nord-Ost Matjeshering","4",5,"Venezuela","Lara","Barquisimeto",False
+"Nord-Ost Matjeshering","20",6,"Germany",NULL,"München",False
+"Nord-Ost Matjeshering","60",7,"Austria",NULL,"Graz",False
+"Nord-Ost Matjeshering","30",8,"Brazil","SP","Sao Paulo",False
+"Nord-Ost Matjeshering","6",8,"Spain",NULL,"Madrid",False
+"Nord-Ost Matjeshering","2",9,"Brazil","SP","Campinas",False
+"Nord-Ost Matjeshering","10",9,"Spain",NULL,"Madrid",False
+"Nord-Ost Matjeshering","35",10,"Sweden",NULL,"Bräcke",False
+"Nord-Ost Matjeshering","15",10,"USA","AK","Anchorage",False
+"Nord-Ost Matjeshering","3",10,"USA","CA","San Francisco",False
+"Nord-Ost Matjeshering","8",10,"USA","WY","Lander",False
+"Nord-Ost Matjeshering","15",11,"Brazil","SP","Campinas",False
+"Nord-Ost Matjeshering","15",11,"Brazil","SP","Sao Paulo",False
+"Nord-Ost Matjeshering","30",11,"Switzerland",NULL,"Genève",False
+"Nord-Ost Matjeshering","15",12,"Brazil","SP","Sao Paulo",False
+"Nord-Ost Matjeshering","25",12,"Denmark",NULL,"Kobenhavn",False
+"Nord-Ost Matjeshering","18",12,"Ireland","Co. Cork","Cork",False
+"Northwoods Cranberry Sauce","20",1,"UK","Isle of Wight","Cowes",True
+"Northwoods Cranberry Sauce","30",2,"Germany",NULL,"Brandenburg",True
+"Northwoods Cranberry Sauce","20",3,"Belgium",NULL,"Bruxelles",True
+"Northwoods Cranberry Sauce","16",3,"Canada","BC","Tsawassen",True
+"Northwoods Cranberry Sauce","10",4,"France",NULL,"Marseille",True
+"Northwoods Cranberry Sauce","24",4,"Germany",NULL,"Frankfurt a.M.",True
+"Northwoods Cranberry Sauce","30",4,"Portugal",NULL,"Lisboa",True
+"Northwoods Cranberry Sauce","2",5,"USA","NM","Albuquerque",True
+"Northwoods Cranberry Sauce","40",10,"Brazil","SP","Campinas",True
+"Northwoods Cranberry Sauce","10",10,"Finland",NULL,"Helsinki",True
+"Northwoods Cranberry Sauce","70",11,"Germany",NULL,"Cunewalde",True
+"Northwoods Cranberry Sauce","70",11,"USA","WA","Seattle",True
+"Northwoods Cranberry Sauce","30",12,"Brazil","SP","Sao Paulo",True
+"NuNuCa Nuß-Nougat-Creme","10",1,"Brazil","RJ","Rio de Janeiro",True
+"NuNuCa Nuß-Nougat-Creme","5",1,"Canada","BC","Vancouver",True
+"NuNuCa Nuß-Nougat-Creme","20",1,"France",NULL,"Lyon",True
+"NuNuCa Nuß-Nougat-Creme","10",1,"France",NULL,"Toulouse",True
+"NuNuCa Nuß-Nougat-Creme","6",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"NuNuCa Nuß-Nougat-Creme","5",2,"Spain",NULL,"Barcelona",True
+"NuNuCa Nuß-Nougat-Creme","12",3,"Italy",NULL,"Bergamo",True
+"NuNuCa Nuß-Nougat-Creme","24",3,"Venezuela","Nueva Esparta","I. de Margarita",True
+"NuNuCa Nuß-Nougat-Creme","60",4,"Canada","BC","Tsawassen",True
+"NuNuCa Nuß-Nougat-Creme","18",4,"Germany",NULL,"Brandenburg",True
+"NuNuCa Nuß-Nougat-Creme","15",4,"Venezuela","Táchira","San Cristóbal",True
+"NuNuCa Nuß-Nougat-Creme","4",10,"Germany",NULL,"Brandenburg",True
+"NuNuCa Nuß-Nougat-Creme","10",11,"Brazil","SP","Sao Paulo",True
+"NuNuCa Nuß-Nougat-Creme","50",11,"France",NULL,"Marseille",True
+"NuNuCa Nuß-Nougat-Creme","12",12,"Belgium",NULL,"Bruxelles",True
+"NuNuCa Nuß-Nougat-Creme","15",12,"Brazil","SP","Resende",True
+"NuNuCa Nuß-Nougat-Creme","7",12,"USA","ID","Boise",True
+"NuNuCa Nuß-Nougat-Creme","35",12,"USA","NM","Albuquerque",True
+"Original Frankfurter grüne Soße","15",1,"Belgium",NULL,"Charleroi",True
+"Original Frankfurter grüne Soße","10",1,"Brazil","RJ","Rio de Janeiro",True
+"Original Frankfurter grüne Soße","35",1,"Denmark",NULL,"Kobenhavn",True
+"Original Frankfurter grüne Soße","2",1,"Germany",NULL,"Berlin",True
+"Original Frankfurter grüne Soße","20",1,"Italy",NULL,"Reggio Emilia",True
+"Original Frankfurter grüne Soße","15",1,"Venezuela","Lara","Barquisimeto",True
+"Original Frankfurter grüne Soße","25",2,"Belgium",NULL,"Charleroi",True
+"Original Frankfurter grüne Soße","40",2,"Brazil","RJ","Rio de Janeiro",True
+"Original Frankfurter grüne Soße","55",2,"Germany",NULL,"Cunewalde",True
+"Original Frankfurter grüne Soße","15",3,"Argentina",NULL,"Buenos Aires",True
+"Original Frankfurter grüne Soße","40",3,"Denmark",NULL,"Århus",True
+"Original Frankfurter grüne Soße","15",3,"Germany",NULL,"München",True
+"Original Frankfurter grüne Soße","7",3,"Portugal",NULL,"Lisboa",True
+"Original Frankfurter grüne Soße","30",3,"USA","WA","Seattle",True
+"Original Frankfurter grüne Soße","5",4,"Canada","BC","Vancouver",True
+"Original Frankfurter grüne Soße","25",4,"Germany",NULL,"Frankfurt a.M.",True
+"Original Frankfurter grüne Soße","21",4,"Germany",NULL,"Köln",True
+"Original Frankfurter grüne Soße","10",4,"Italy",NULL,"Torino",True
+"Original Frankfurter grüne Soße","18",4,"Norway",NULL,"Stavern",True
+"Original Frankfurter grüne Soße","30",4,"USA","NM","Albuquerque",True
+"Original Frankfurter grüne Soße","28",5,"Brazil","SP","Sao Paulo",True
+"Original Frankfurter grüne Soße","10",5,"Germany",NULL,"Köln",True
+"Original Frankfurter grüne Soße","2",5,"USA","NM","Albuquerque",True
+"Original Frankfurter grüne Soße","18",6,"USA","WA","Kirkland",True
+"Original Frankfurter grüne Soße","20",7,"Brazil","RJ","Rio de Janeiro",True
+"Original Frankfurter grüne Soße","12",7,"Brazil","SP","Resende",True
+"Original Frankfurter grüne Soße","60",7,"Canada","Québec","Montréal",True
+"Original Frankfurter grüne Soße","5",7,"Denmark",NULL,"Århus",True
+"Original Frankfurter grüne Soße","15",7,"Venezuela","Táchira","San Cristóbal",True
+"Original Frankfurter grüne Soße","10",8,"Brazil","SP","Sao Paulo",True
+"Original Frankfurter grüne Soße","35",8,"Ireland","Co. Cork","Cork",True
+"Original Frankfurter grüne Soße","70",9,"Germany",NULL,"Cunewalde",True
+"Original Frankfurter grüne Soße","30",10,"Brazil","RJ","Rio de Janeiro",True
+"Original Frankfurter grüne Soße","7",11,"Denmark",NULL,"Århus",True
+"Original Frankfurter grüne Soße","5",11,"Spain",NULL,"Barcelona",True
+"Original Frankfurter grüne Soße","2",11,"USA","CA","San Francisco",True
+"Original Frankfurter grüne Soße","14",12,"Denmark",NULL,"Århus",True
+"Original Frankfurter grüne Soße","15",12,"Venezuela","Lara","Barquisimeto",True
+"Outback Lager","30",1,"Belgium",NULL,"Charleroi",False
+"Outback Lager","8",1,"Brazil","SP","Resende",False
+"Outback Lager","5",1,"Canada","BC","Vancouver",False
+"Outback Lager","30",1,"France",NULL,"Lyon",False
+"Outback Lager","4",1,"France",NULL,"Versailles",False
+"Outback Lager","12",1,"Mexico",NULL,"México D.F.",False
+"Outback Lager","9",1,"Sweden",NULL,"Bräcke",False
+"Outback Lager","6",1,"USA","WA","Kirkland",False
+"Outback Lager","30",2,"Belgium",NULL,"Charleroi",False
+"Outback Lager","3",2,"Brazil","SP","Resende",False
+"Outback Lager","50",2,"Sweden",NULL,"Bräcke",False
+"Outback Lager","25",2,"UK","Essex","Colchester",False
+"Outback Lager","60",3,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Outback Lager","12",3,"Venezuela","Táchira","San Cristóbal",False
+"Outback Lager","30",4,"Austria",NULL,"Graz",False
+"Outback Lager","14",4,"Germany",NULL,"Brandenburg",False
+"Outback Lager","20",4,"Germany",NULL,"Cunewalde",False
+"Outback Lager","12",4,"Italy",NULL,"Reggio Emilia",False
+"Outback Lager","4",4,"Spain",NULL,"Sevilla",False
+"Outback Lager","9",4,"UK",NULL,"London",False
+"Outback Lager","7",5,"UK",NULL,"London",False
+"Outback Lager","20",7,"France",NULL,"Strasbourg",False
+"Outback Lager","21",7,"Germany",NULL,"Köln",False
+"Outback Lager","15",7,"USA","OR","Eugene",False
+"Outback Lager","15",8,"Germany",NULL,"Stuttgart",False
+"Outback Lager","20",8,"UK","Isle of Wight","Cowes",False
+"Outback Lager","20",9,"Brazil","RJ","Rio de Janeiro",False
+"Outback Lager","40",9,"Brazil","SP","Sao Paulo",False
+"Outback Lager","5",9,"Mexico",NULL,"México D.F.",False
+"Outback Lager","30",9,"UK","Isle of Wight","Cowes",False
+"Outback Lager","8",10,"Austria",NULL,"Graz",False
+"Outback Lager","50",10,"Germany",NULL,"Cunewalde",False
+"Outback Lager","28",10,"UK","Essex","Colchester",False
+"Outback Lager","30",10,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Outback Lager","40",11,"Switzerland",NULL,"Genève",False
+"Outback Lager","30",12,"Canada","BC","Tsawassen",False
+"Outback Lager","30",12,"Ireland","Co. Cork","Cork",False
+"Outback Lager","35",12,"Venezuela","Lara","Barquisimeto",False
+"Pâté chinois","10",1,"France",NULL,"Toulouse",True
+"Pâté chinois","120",2,"Germany",NULL,"Cunewalde",True
+"Pâté chinois","10",2,"Spain",NULL,"Sevilla",True
+"Pâté chinois","30",2,"Sweden",NULL,"Bräcke",True
+"Pâté chinois","60",2,"Venezuela","Lara","Barquisimeto",True
+"Pâté chinois","25",3,"Belgium",NULL,"Charleroi",True
+"Pâté chinois","4",3,"Spain",NULL,"Sevilla",True
+"Pâté chinois","30",3,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Pâté chinois","2",3,"Venezuela","Táchira","San Cristóbal",True
+"Pâté chinois","65",4,"Austria",NULL,"Graz",True
+"Pâté chinois","35",4,"Germany",NULL,"Brandenburg",True
+"Pâté chinois","6",4,"Sweden",NULL,"Bräcke",True
+"Pâté chinois","35",4,"UK",NULL,"London",True
+"Pâté chinois","40",4,"USA","ID","Boise",True
+"Pâté chinois","14",5,"Belgium",NULL,"Bruxelles",True
+"Pâté chinois","4",5,"USA","ID","Boise",True
+"Pâté chinois","2",5,"USA","NM","Albuquerque",True
+"Pâté chinois","18",6,"France",NULL,"Strasbourg",True
+"Pâté chinois","25",6,"USA","NM","Albuquerque",True
+"Pâté chinois","20",7,"Brazil","SP","Sao Paulo",True
+"Pâté chinois","5",7,"Finland",NULL,"Helsinki",True
+"Pâté chinois","21",7,"Switzerland",NULL,"Bern",True
+"Pâté chinois","12",8,"Germany",NULL,"Brandenburg",True
+"Pâté chinois","20",8,"Sweden",NULL,"Luleå",True
+"Pâté chinois","4",9,"Germany",NULL,"Stuttgart",True
+"Pâté chinois","6",10,"Brazil","SP","Sao Paulo",True
+"Pâté chinois","40",10,"Germany",NULL,"München",True
+"Pâté chinois","21",10,"UK","Essex","Colchester",True
+"Pâté chinois","12",11,"Brazil","SP","Sao Paulo",True
+"Pâté chinois","12",11,"Germany",NULL,"Stuttgart",True
+"Pâté chinois","15",12,"Canada","BC","Tsawassen",True
+"Pâté chinois","60",12,"Denmark",NULL,"Kobenhavn",True
+"Pâté chinois","120",12,"USA","ID","Boise",True
+"Pavlova","21",1,"Austria",NULL,"Graz",True
+"Pavlova","50",1,"USA","AK","Anchorage",True
+"Pavlova","6",2,"Argentina",NULL,"Buenos Aires",True
+"Pavlova","30",2,"Brazil","RJ","Rio de Janeiro",True
+"Pavlova","16",2,"Canada","Québec","Montréal",True
+"Pavlova","12",2,"France",NULL,"Marseille",True
+"Pavlova","20",2,"France",NULL,"Toulouse",True
+"Pavlova","15",2,"Norway",NULL,"Stavern",True
+"Pavlova","49",2,"USA","ID","Boise",True
+"Pavlova","18",3,"Austria",NULL,"Salzburg",True
+"Pavlova","30",3,"France",NULL,"Marseille",True
+"Pavlova","36",3,"Ireland","Co. Cork","Cork",True
+"Pavlova","55",3,"USA","ID","Boise",True
+"Pavlova","35",3,"USA","WA","Seattle",True
+"Pavlova","52",3,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Pavlova","50",4,"Germany",NULL,"Cunewalde",True
+"Pavlova","14",5,"Denmark",NULL,"Kobenhavn",True
+"Pavlova","14",5,"Finland",NULL,"Oulu",True
+"Pavlova","30",5,"Germany",NULL,"Frankfurt a.M.",True
+"Pavlova","30",5,"Germany",NULL,"Köln",True
+"Pavlova","40",5,"Portugal",NULL,"Lisboa",True
+"Pavlova","2",5,"USA","NM","Albuquerque",True
+"Pavlova","3",5,"USA","WA","Seattle",True
+"Pavlova","12",6,"Sweden",NULL,"Luleå",True
+"Pavlova","60",7,"Austria",NULL,"Graz",True
+"Pavlova","30",7,"Canada","Québec","Montréal",True
+"Pavlova","35",7,"Switzerland",NULL,"Genève",True
+"Pavlova","40",8,"Brazil","RJ","Rio de Janeiro",True
+"Pavlova","3",9,"Finland",NULL,"Helsinki",True
+"Pavlova","10",9,"France",NULL,"Nantes",True
+"Pavlova","30",9,"Germany",NULL,"München",True
+"Pavlova","50",9,"USA","AK","Anchorage",True
+"Pavlova","10",9,"USA","OR","Portland",True
+"Pavlova","30",9,"Venezuela","Lara","Barquisimeto",True
+"Pavlova","20",10,"Germany",NULL,"Brandenburg",True
+"Pavlova","20",10,"USA","AK","Anchorage",True
+"Pavlova","21",10,"USA","ID","Boise",True
+"Pavlova","15",11,"France",NULL,"Marseille",True
+"Pavlova","3",11,"France",NULL,"Paris",True
+"Pavlova","56",11,"UK",NULL,"London",True
+"Pavlova","65",12,"Austria",NULL,"Graz",True
+"Pavlova","20",12,"Germany",NULL,"Leipzig",True
+"Perth Pasties","15",1,"Brazil","RJ","Rio de Janeiro",True
+"Perth Pasties","10",1,"Finland",NULL,"Oulu",True
+"Perth Pasties","20",1,"Germany",NULL,"Aachen",True
+"Perth Pasties","9",1,"Germany",NULL,"Köln",True
+"Perth Pasties","65",2,"Finland",NULL,"Oulu",True
+"Perth Pasties","3",2,"USA","OR","Portland",True
+"Perth Pasties","20",3,"Germany",NULL,"Cunewalde",True
+"Perth Pasties","2",3,"UK","Isle of Wight","Cowes",True
+"Perth Pasties","28",3,"USA","NM","Albuquerque",True
+"Perth Pasties","10",4,"Italy",NULL,"Reggio Emilia",True
+"Perth Pasties","6",4,"Mexico",NULL,"México D.F.",True
+"Perth Pasties","5",4,"Norway",NULL,"Stavern",True
+"Perth Pasties","70",4,"Switzerland",NULL,"Genève",True
+"Perth Pasties","10",4,"USA","WA","Seattle",True
+"Perth Pasties","25",5,"USA","ID","Boise",True
+"Perth Pasties","25",6,"Mexico",NULL,"México D.F.",True
+"Perth Pasties","18",6,"UK","Essex","Colchester",True
+"Perth Pasties","15",7,"Brazil","SP","Resende",True
+"Perth Pasties","25",8,"Brazil","SP","Sao Paulo",True
+"Perth Pasties","36",8,"Germany",NULL,"Cunewalde",True
+"Perth Pasties","12",8,"Sweden",NULL,"Luleå",True
+"Perth Pasties","10",9,"Germany",NULL,"München",True
+"Perth Pasties","20",9,"Germany",NULL,"Stuttgart",True
+"Perth Pasties","10",9,"Spain",NULL,"Madrid",True
+"Perth Pasties","3",10,"Ireland","Co. Cork","Cork",True
+"Perth Pasties","120",10,"USA","ID","Boise",True
+"Perth Pasties","20",12,"Ireland","Co. Cork","Cork",True
+"Perth Pasties","40",12,"UK",NULL,"London",True
+"Perth Pasties","70",12,"Venezuela","Táchira","San Cristóbal",True
+"Queso Cabrales","25",1,"Germany",NULL,"Frankfurt a.M.",False
+"Queso Cabrales","30",1,"Germany",NULL,"Köln",False
+"Queso Cabrales","15",1,"Mexico",NULL,"México D.F.",False
+"Queso Cabrales","20",1,"Venezuela","Lara","Barquisimeto",False
+"Queso Cabrales","30",2,"Austria",NULL,"Graz",False
+"Queso Cabrales","40",2,"Ireland","Co. Cork","Cork",False
+"Queso Cabrales","6",2,"Italy",NULL,"Reggio Emilia",False
+"Queso Cabrales","6",2,"Sweden",NULL,"Bräcke",False
+"Queso Cabrales","10",2,"UK",NULL,"London",False
+"Queso Cabrales","40",2,"USA","NM","Albuquerque",False
+"Queso Cabrales","30",3,"Argentina",NULL,"Buenos Aires",False
+"Queso Cabrales","15",3,"Austria",NULL,"Salzburg",False
+"Queso Cabrales","15",3,"Brazil","RJ","Rio de Janeiro",False
+"Queso Cabrales","10",3,"Brazil","SP","Sao Paulo",False
+"Queso Cabrales","5",3,"Canada","BC","Tsawassen",False
+"Queso Cabrales","2",3,"Mexico",NULL,"México D.F.",False
+"Queso Cabrales","5",3,"Venezuela","Táchira","San Cristóbal",False
+"Queso Cabrales","10",4,"France",NULL,"Paris",False
+"Queso Cabrales","15",5,"Finland",NULL,"Oulu",False
+"Queso Cabrales","15",5,"Germany",NULL,"Brandenburg",False
+"Queso Cabrales","60",5,"Mexico",NULL,"México D.F.",False
+"Queso Cabrales","3",5,"USA","OR","Eugene",False
+"Queso Cabrales","10",5,"USA","WA","Walla Walla",False
+"Queso Cabrales","15",6,"Canada","Québec","Montréal",False
+"Queso Cabrales","35",6,"France",NULL,"Strasbourg",False
+"Queso Cabrales","12",7,"France",NULL,"Reims",False
+"Queso Cabrales","14",7,"Germany",NULL,"Mannheim",False
+"Queso Cabrales","10",8,"Brazil","SP","Sao Paulo",False
+"Queso Cabrales","12",9,"Venezuela","Lara","Barquisimeto",False
+"Queso Cabrales","15",10,"Austria",NULL,"Graz",False
+"Queso Cabrales","50",10,"Sweden",NULL,"Bräcke",False
+"Queso Cabrales","12",11,"Austria",NULL,"Salzburg",False
+"Queso Cabrales","24",11,"Mexico",NULL,"México D.F.",False
+"Queso Cabrales","5",11,"UK",NULL,"London",False
+"Queso Cabrales","15",12,"Brazil","RJ","Rio de Janeiro",False
+"Queso Cabrales","20",12,"Germany",NULL,"Aachen",False
+"Queso Cabrales","50",12,"UK",NULL,"London",False
+"Queso Manchego La Pastora","15",2,"Canada","Québec","Montréal",True
+"Queso Manchego La Pastora","50",3,"Austria",NULL,"Graz",True
+"Queso Manchego La Pastora","4",4,"Brazil","SP","Campinas",True
+"Queso Manchego La Pastora","20",4,"Germany",NULL,"Stuttgart",True
+"Queso Manchego La Pastora","20",4,"USA","OR","Portland",True
+"Queso Manchego La Pastora","15",5,"Germany",NULL,"Frankfurt a.M.",True
+"Queso Manchego La Pastora","2",5,"USA","NM","Albuquerque",True
+"Queso Manchego La Pastora","30",5,"Venezuela","Lara","Barquisimeto",True
+"Queso Manchego La Pastora","12",7,"Finland",NULL,"Oulu",True
+"Queso Manchego La Pastora","36",8,"Austria",NULL,"Graz",True
+"Queso Manchego La Pastora","100",9,"USA","ID","Boise",True
+"Queso Manchego La Pastora","4",10,"Finland",NULL,"Helsinki",True
+"Queso Manchego La Pastora","36",10,"Germany",NULL,"Brandenburg",True
+"Raclette Courdavault","70",1,"Austria",NULL,"Graz",True
+"Raclette Courdavault","50",1,"Belgium",NULL,"Charleroi",True
+"Raclette Courdavault","42",1,"Brazil","RJ","Rio de Janeiro",True
+"Raclette Courdavault","20",1,"Brazil","SP","Campinas",True
+"Raclette Courdavault","25",1,"Canada","BC","Tsawassen",True
+"Raclette Courdavault","15",1,"Germany",NULL,"Berlin",True
+"Raclette Courdavault","40",1,"Venezuela","Lara","Barquisimeto",True
+"Raclette Courdavault","40",2,"Belgium",NULL,"Bruxelles",True
+"Raclette Courdavault","36",2,"Germany",NULL,"Brandenburg",True
+"Raclette Courdavault","12",3,"France",NULL,"Lille",True
+"Raclette Courdavault","30",3,"Germany",NULL,"München",True
+"Raclette Courdavault","4",3,"UK",NULL,"London",True
+"Raclette Courdavault","60",3,"USA","NM","Albuquerque",True
+"Raclette Courdavault","60",3,"Venezuela","Táchira","San Cristóbal",True
+"Raclette Courdavault","110",4,"Austria",NULL,"Graz",True
+"Raclette Courdavault","18",4,"Denmark",NULL,"Århus",True
+"Raclette Courdavault","10",4,"Finland",NULL,"Helsinki",True
+"Raclette Courdavault","30",4,"Germany",NULL,"Aachen",True
+"Raclette Courdavault","24",4,"Germany",NULL,"Brandenburg",True
+"Raclette Courdavault","4",4,"UK",NULL,"London",True
+"Raclette Courdavault","100",4,"USA","ID","Boise",True
+"Raclette Courdavault","30",4,"USA","WA","Seattle",True
+"Raclette Courdavault","2",5,"Argentina",NULL,"Buenos Aires",True
+"Raclette Courdavault","15",5,"Mexico",NULL,"México D.F.",True
+"Raclette Courdavault","12",6,"Germany",NULL,"Leipzig",True
+"Raclette Courdavault","40",6,"Ireland","Co. Cork","Cork",True
+"Raclette Courdavault","20",7,"Canada","Québec","Montréal",True
+"Raclette Courdavault","70",7,"Germany",NULL,"München",True
+"Raclette Courdavault","30",7,"Switzerland",NULL,"Genève",True
+"Raclette Courdavault","30",7,"USA","OR","Eugene",True
+"Raclette Courdavault","35",7,"Venezuela","Táchira","San Cristóbal",True
+"Raclette Courdavault","6",8,"Italy",NULL,"Bergamo",True
+"Raclette Courdavault","15",8,"Sweden",NULL,"Luleå",True
+"Raclette Courdavault","12",9,"France",NULL,"Strasbourg",True
+"Raclette Courdavault","30",9,"Ireland","Co. Cork","Cork",True
+"Raclette Courdavault","10",9,"Mexico",NULL,"México D.F.",True
+"Raclette Courdavault","1",9,"USA","OR","Portland",True
+"Raclette Courdavault","9",10,"Denmark",NULL,"Kobenhavn",True
+"Raclette Courdavault","25",10,"Germany",NULL,"Cunewalde",True
+"Raclette Courdavault","42",10,"Ireland","Co. Cork","Cork",True
+"Raclette Courdavault","9",10,"Portugal",NULL,"Lisboa",True
+"Raclette Courdavault","35",10,"Sweden",NULL,"Bräcke",True
+"Raclette Courdavault","8",10,"USA","AK","Anchorage",True
+"Raclette Courdavault","40",10,"USA","ID","Boise",True
+"Raclette Courdavault","25",11,"Finland",NULL,"Oulu",True
+"Raclette Courdavault","45",11,"Germany",NULL,"Cunewalde",True
+"Raclette Courdavault","10",11,"Italy",NULL,"Reggio Emilia",True
+"Raclette Courdavault","6",11,"UK","Isle of Wight","Cowes",True
+"Raclette Courdavault","7",11,"USA","ID","Boise",True
+"Raclette Courdavault","15",12,"Brazil","SP","Resende",True
+"Raclette Courdavault","25",12,"Germany",NULL,"Brandenburg",True
+"Raclette Courdavault","25",12,"Germany",NULL,"Frankfurt a.M.",True
+"Raclette Courdavault","12",12,"Norway",NULL,"Stavern",True
+"Ravioli Angelo","24",1,"Austria",NULL,"Graz",True
+"Ravioli Angelo","10",1,"Brazil","RJ","Rio de Janeiro",True
+"Ravioli Angelo","20",1,"Finland",NULL,"Oulu",True
+"Ravioli Angelo","15",1,"France",NULL,"Strasbourg",True
+"Ravioli Angelo","15",1,"Venezuela","Lara","Barquisimeto",True
+"Ravioli Angelo","20",2,"Argentina",NULL,"Buenos Aires",True
+"Ravioli Angelo","15",2,"Germany",NULL,"Münster",True
+"Ravioli Angelo","30",3,"Switzerland",NULL,"Genève",True
+"Ravioli Angelo","15",3,"USA","ID","Boise",True
+"Ravioli Angelo","28",4,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Ravioli Angelo","20",4,"Venezuela","Táchira","San Cristóbal",True
+"Ravioli Angelo","5",5,"Mexico",NULL,"México D.F.",True
+"Ravioli Angelo","4",6,"Germany",NULL,"Mannheim",True
+"Ravioli Angelo","6",6,"UK",NULL,"London",True
+"Ravioli Angelo","20",7,"Austria",NULL,"Salzburg",True
+"Ravioli Angelo","15",7,"France",NULL,"Lyon",True
+"Ravioli Angelo","50",7,"Germany",NULL,"Köln",True
+"Ravioli Angelo","2",8,"Spain",NULL,"Madrid",True
+"Ravioli Angelo","16",10,"Spain",NULL,"Madrid",True
+"Ravioli Angelo","40",10,"UK","Essex","Colchester",True
+"Ravioli Angelo","25",11,"Austria",NULL,"Graz",True
+"Ravioli Angelo","14",11,"France",NULL,"Marseille",True
+"Ravioli Angelo","25",11,"UK","Essex","Colchester",True
+"Rhönbräu Klosterbier","20",1,"Argentina",NULL,"Buenos Aires",True
+"Rhönbräu Klosterbier","14",2,"France",NULL,"Paris",True
+"Rhönbräu Klosterbier","24",2,"France",NULL,"Strasbourg",True
+"Rhönbräu Klosterbier","4",2,"Sweden",NULL,"Bräcke",True
+"Rhönbräu Klosterbier","120",2,"USA","ID","Boise",True
+"Rhönbräu Klosterbier","20",3,"Brazil","SP","Campinas",True
+"Rhönbräu Klosterbier","10",3,"Canada","BC","Tsawassen",True
+"Rhönbräu Klosterbier","20",3,"France",NULL,"Marseille",True
+"Rhönbräu Klosterbier","10",3,"France",NULL,"Versailles",True
+"Rhönbräu Klosterbier","49",3,"Germany",NULL,"München",True
+"Rhönbräu Klosterbier","10",3,"Mexico",NULL,"México D.F.",True
+"Rhönbräu Klosterbier","52",3,"Sweden",NULL,"Bräcke",True
+"Rhönbräu Klosterbier","6",3,"Sweden",NULL,"Luleå",True
+"Rhönbräu Klosterbier","50",3,"Switzerland",NULL,"Genève",True
+"Rhönbräu Klosterbier","36",3,"Venezuela","Táchira","San Cristóbal",True
+"Rhönbräu Klosterbier","50",4,"Austria",NULL,"Graz",True
+"Rhönbräu Klosterbier","30",4,"Poland",NULL,"Warszawa",True
+"Rhönbräu Klosterbier","36",4,"USA","ID","Boise",True
+"Rhönbräu Klosterbier","4",5,"USA","NM","Albuquerque",True
+"Rhönbräu Klosterbier","30",5,"Venezuela","Táchira","San Cristóbal",True
+"Rhönbräu Klosterbier","50",6,"Brazil","SP","Sao Paulo",True
+"Rhönbräu Klosterbier","20",6,"Germany",NULL,"Frankfurt a.M.",True
+"Rhönbräu Klosterbier","15",6,"Sweden",NULL,"Luleå",True
+"Rhönbräu Klosterbier","21",6,"USA","CA","San Francisco",True
+"Rhönbräu Klosterbier","20",6,"USA","WA","Kirkland",True
+"Rhönbräu Klosterbier","30",7,"USA","WA","Seattle",True
+"Rhönbräu Klosterbier","40",7,"Venezuela","Táchira","San Cristóbal",True
+"Rhönbräu Klosterbier","2",8,"France",NULL,"Lille",True
+"Rhönbräu Klosterbier","8",8,"France",NULL,"Toulouse",True
+"Rhönbräu Klosterbier","6",8,"Mexico",NULL,"México D.F.",True
+"Rhönbräu Klosterbier","30",8,"Sweden",NULL,"Luleå",True
+"Rhönbräu Klosterbier","6",8,"USA","NM","Albuquerque",True
+"Rhönbräu Klosterbier","25",9,"Germany",NULL,"München",True
+"Rhönbräu Klosterbier","10",9,"Germany",NULL,"Stuttgart",True
+"Rhönbräu Klosterbier","30",9,"Mexico",NULL,"México D.F.",True
+"Rhönbräu Klosterbier","50",10,"Spain",NULL,"Madrid",True
+"Rhönbräu Klosterbier","42",10,"USA","ID","Boise",True
+"Rhönbräu Klosterbier","6",11,"Brazil","SP","Sao Paulo",True
+"Rhönbräu Klosterbier","12",11,"Germany",NULL,"Aachen",True
+"Rhönbräu Klosterbier","20",11,"Ireland","Co. Cork","Cork",True
+"Rhönbräu Klosterbier","7",12,"Austria",NULL,"Graz",True
+"Rhönbräu Klosterbier","42",12,"Brazil","SP","Sao Paulo",True
+"Rhönbräu Klosterbier","40",12,"Germany",NULL,"Cunewalde",True
+"Rhönbräu Klosterbier","18",12,"USA","NM","Albuquerque",True
+"Rhönbräu Klosterbier","10",12,"Venezuela","DF","Caracas",True
+"Röd Kaviar","20",1,"Brazil","SP","Resende",True
+"Röd Kaviar","10",2,"Argentina",NULL,"Buenos Aires",True
+"Röd Kaviar","20",3,"Germany",NULL,"München",True
+"Röd Kaviar","24",5,"Sweden",NULL,"Bräcke",True
+"Röd Kaviar","9",5,"Switzerland",NULL,"Genève",True
+"Röd Kaviar","2",5,"USA","NM","Albuquerque",True
+"Röd Kaviar","3",6,"UK","Essex","Colchester",True
+"Röd Kaviar","30",7,"USA","OR","Elgin",True
+"Röd Kaviar","25",8,"Sweden",NULL,"Luleå",True
+"Röd Kaviar","35",8,"USA","ID","Boise",True
+"Röd Kaviar","50",9,"Germany",NULL,"München",True
+"Röd Kaviar","35",10,"Sweden",NULL,"Bräcke",True
+"Röd Kaviar","15",10,"USA","WA","Seattle",True
+"Röd Kaviar","15",11,"Switzerland",NULL,"Genève",True
+"Rogede sild","36",1,"USA","ID","Boise",False
+"Rogede sild","15",2,"Belgium",NULL,"Bruxelles",False
+"Rogede sild","30",3,"Denmark",NULL,"Århus",False
+"Rogede sild","30",3,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Rogede sild","21",4,"Mexico",NULL,"México D.F.",False
+"Rogede sild","20",4,"Spain",NULL,"Madrid",False
+"Rogede sild","100",5,"Germany",NULL,"Cunewalde",False
+"Rogede sild","20",8,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Rogede sild","110",10,"USA","ID","Boise",False
+"Rogede sild","40",11,"Finland",NULL,"Oulu",False
+"Rogede sild","4",11,"Italy",NULL,"Torino",False
+"Rogede sild","40",11,"USA","WA","Seattle",False
+"Rogede sild","27",12,"Austria",NULL,"Graz",False
+"Rogede sild","15",12,"UK",NULL,"London",False
+"Rössle Sauerkraut","42",1,"Brazil","SP","Sao Paulo",True
+"Rössle Sauerkraut","30",2,"Belgium",NULL,"Charleroi",True
+"Rössle Sauerkraut","3",2,"Finland",NULL,"Helsinki",True
+"Rössle Sauerkraut","12",2,"Italy",NULL,"Reggio Emilia",True
+"Rössle Sauerkraut","15",2,"USA","ID","Boise",True
+"Rössle Sauerkraut","8",3,"Argentina",NULL,"Buenos Aires",True
+"Rössle Sauerkraut","2",3,"Germany",NULL,"Berlin",True
+"Rössle Sauerkraut","18",3,"Mexico",NULL,"México D.F.",True
+"Rössle Sauerkraut","30",3,"Sweden",NULL,"Luleå",True
+"Rössle Sauerkraut","20",3,"Venezuela","Táchira","San Cristóbal",True
+"Rössle Sauerkraut","105",4,"Austria",NULL,"Graz",True
+"Rössle Sauerkraut","8",4,"France",NULL,"Toulouse",True
+"Rössle Sauerkraut","3",4,"Germany",NULL,"Mannheim",True
+"Rössle Sauerkraut","20",4,"Venezuela","Lara","Barquisimeto",True
+"Rössle Sauerkraut","20",4,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Rössle Sauerkraut","8",5,"Brazil","SP","Sao Paulo",True
+"Rössle Sauerkraut","7",5,"USA","OR","Portland",True
+"Rössle Sauerkraut","20",8,"Belgium",NULL,"Bruxelles",True
+"Rössle Sauerkraut","15",8,"Germany",NULL,"Berlin",True
+"Rössle Sauerkraut","20",8,"Germany",NULL,"Leipzig",True
+"Rössle Sauerkraut","10",8,"USA","MT","Butte",True
+"Rössle Sauerkraut","28",9,"Belgium",NULL,"Charleroi",True
+"Rössle Sauerkraut","4",9,"Germany",NULL,"Stuttgart",True
+"Rössle Sauerkraut","60",10,"Denmark",NULL,"Århus",True
+"Rössle Sauerkraut","14",10,"Mexico",NULL,"México D.F.",True
+"Rössle Sauerkraut","13",11,"Austria",NULL,"Graz",True
+"Rössle Sauerkraut","30",11,"France",NULL,"Strasbourg",True
+"Rössle Sauerkraut","20",11,"Sweden",NULL,"Luleå",True
+"Rössle Sauerkraut","5",11,"USA","WA","Seattle",True
+"Rössle Sauerkraut","6",12,"Norway",NULL,"Stavern",True
+"Rössle Sauerkraut","44",12,"UK",NULL,"London",True
+"Sasquatch Ale","10",2,"France",NULL,"Nantes",True
+"Sasquatch Ale","20",2,"Germany",NULL,"Münster",True
+"Sasquatch Ale","20",3,"Argentina",NULL,"Buenos Aires",True
+"Sasquatch Ale","35",3,"USA","WA","Seattle",True
+"Sasquatch Ale","150",4,"Austria",NULL,"Graz",True
+"Sasquatch Ale","30",4,"Ireland","Co. Cork","Cork",True
+"Sasquatch Ale","10",5,"Germany",NULL,"Münster",True
+"Sasquatch Ale","35",5,"USA","WA","Seattle",True
+"Sasquatch Ale","40",6,"Mexico",NULL,"México D.F.",True
+"Sasquatch Ale","20",8,"Brazil","RJ","Rio de Janeiro",True
+"Sasquatch Ale","14",9,"UK","Isle of Wight","Cowes",True
+"Sasquatch Ale","14",10,"Denmark",NULL,"Århus",True
+"Sasquatch Ale","12",10,"USA","ID","Boise",True
+"Sasquatch Ale","36",11,"Denmark",NULL,"Århus",True
+"Sasquatch Ale","10",11,"France",NULL,"Toulouse",True
+"Sasquatch Ale","30",11,"USA","ID","Boise",True
+"Sasquatch Ale","10",12,"Brazil","SP","Sao Paulo",True
+"Sasquatch Ale","10",12,"USA","OR","Portland",True
+"Schoggi Schokolade","10",1,"France",NULL,"Versailles",True
+"Schoggi Schokolade","50",2,"USA","AK","Anchorage",True
+"Schoggi Schokolade","30",3,"Austria",NULL,"Graz",True
+"Schoggi Schokolade","25",3,"Belgium",NULL,"Charleroi",True
+"Schoggi Schokolade","120",4,"Germany",NULL,"Cunewalde",True
+"Schoggi Schokolade","50",7,"USA","NM","Albuquerque",True
+"Schoggi Schokolade","25",7,"Venezuela","Táchira","San Cristóbal",True
+"Schoggi Schokolade","15",8,"Germany",NULL,"Frankfurt a.M.",True
+"Schoggi Schokolade","40",12,"Belgium",NULL,"Bruxelles",True
+"Scottish Longbreads","24",1,"Brazil","SP","Sao Paulo",False
+"Scottish Longbreads","30",1,"Canada","Québec","Montréal",False
+"Scottish Longbreads","36",1,"Denmark",NULL,"Kobenhavn",False
+"Scottish Longbreads","20",1,"Mexico",NULL,"México D.F.",False
+"Scottish Longbreads","20",2,"Brazil","RJ","Rio de Janeiro",False
+"Scottish Longbreads","18",2,"Spain",NULL,"Sevilla",False
+"Scottish Longbreads","21",2,"Sweden",NULL,"Bräcke",False
+"Scottish Longbreads","20",2,"UK",NULL,"London",False
+"Scottish Longbreads","80",3,"USA","ID","Boise",False
+"Scottish Longbreads","30",3,"Venezuela","Táchira","San Cristóbal",False
+"Scottish Longbreads","6",4,"Argentina",NULL,"Buenos Aires",False
+"Scottish Longbreads","42",4,"Canada","BC","Tsawassen",False
+"Scottish Longbreads","2",4,"Spain",NULL,"Madrid",False
+"Scottish Longbreads","20",5,"Belgium",NULL,"Bruxelles",False
+"Scottish Longbreads","35",5,"Germany",NULL,"Cunewalde",False
+"Scottish Longbreads","55",5,"USA","ID","Boise",False
+"Scottish Longbreads","18",8,"Brazil","RJ","Rio de Janeiro",False
+"Scottish Longbreads","15",8,"Canada","Québec","Montréal",False
+"Scottish Longbreads","3",8,"Italy",NULL,"Reggio Emilia",False
+"Scottish Longbreads","20",9,"Italy",NULL,"Bergamo",False
+"Scottish Longbreads","15",9,"Spain",NULL,"Sevilla",False
+"Scottish Longbreads","13",9,"USA","OR","Portland",False
+"Scottish Longbreads","10",10,"France",NULL,"Lyon",False
+"Scottish Longbreads","4",10,"Germany",NULL,"Frankfurt a.M.",False
+"Scottish Longbreads","10",10,"Portugal",NULL,"Lisboa",False
+"Scottish Longbreads","85",10,"USA","ID","Boise",False
+"Scottish Longbreads","6",11,"USA","WY","Lander",False
+"Scottish Longbreads","60",12,"Denmark",NULL,"Århus",False
+"Scottish Longbreads","18",12,"France",NULL,"Lille",False
+"Scottish Longbreads","40",12,"Germany",NULL,"Köln",False
+"Scottish Longbreads","15",12,"Poland",NULL,"Warszawa",False
+"Scottish Longbreads","8",12,"USA","WY","Lander",False
+"Singaporean Hokkien Fried Mee","42",1,"Germany",NULL,"Cunewalde",True
+"Singaporean Hokkien Fried Mee","40",1,"Italy",NULL,"Bergamo",True
+"Singaporean Hokkien Fried Mee","20",1,"Mexico",NULL,"México D.F.",True
+"Singaporean Hokkien Fried Mee","25",2,"USA","ID","Boise",True
+"Singaporean Hokkien Fried Mee","50",3,"Belgium",NULL,"Charleroi",True
+"Singaporean Hokkien Fried Mee","10",3,"France",NULL,"Toulouse",True
+"Singaporean Hokkien Fried Mee","30",4,"Belgium",NULL,"Charleroi",True
+"Singaporean Hokkien Fried Mee","20",4,"Canada","BC","Tsawassen",True
+"Singaporean Hokkien Fried Mee","40",4,"Germany",NULL,"Cunewalde",True
+"Singaporean Hokkien Fried Mee","20",4,"Ireland","Co. Cork","Cork",True
+"Singaporean Hokkien Fried Mee","14",4,"Portugal",NULL,"Lisboa",True
+"Singaporean Hokkien Fried Mee","4",4,"Spain",NULL,"Madrid",True
+"Singaporean Hokkien Fried Mee","24",4,"USA","ID","Boise",True
+"Singaporean Hokkien Fried Mee","30",4,"Venezuela","Táchira","San Cristóbal",True
+"Singaporean Hokkien Fried Mee","28",6,"Austria",NULL,"Graz",True
+"Singaporean Hokkien Fried Mee","10",7,"France",NULL,"Reims",True
+"Singaporean Hokkien Fried Mee","100",7,"Germany",NULL,"Cunewalde",True
+"Singaporean Hokkien Fried Mee","5",8,"Mexico",NULL,"México D.F.",True
+"Singaporean Hokkien Fried Mee","20",9,"Brazil","SP","Campinas",True
+"Singaporean Hokkien Fried Mee","6",9,"Finland",NULL,"Helsinki",True
+"Singaporean Hokkien Fried Mee","30",9,"France",NULL,"Marseille",True
+"Singaporean Hokkien Fried Mee","6",9,"France",NULL,"Nantes",True
+"Singaporean Hokkien Fried Mee","2",9,"Ireland","Co. Cork","Cork",True
+"Singaporean Hokkien Fried Mee","40",9,"USA","AK","Anchorage",True
+"Singaporean Hokkien Fried Mee","10",10,"Canada","Québec","Montréal",True
+"Singaporean Hokkien Fried Mee","9",11,"Germany",NULL,"Cunewalde",True
+"Singaporean Hokkien Fried Mee","28",11,"Switzerland",NULL,"Bern",True
+"Singaporean Hokkien Fried Mee","12",12,"Austria",NULL,"Graz",True
+"Singaporean Hokkien Fried Mee","2",12,"Belgium",NULL,"Charleroi",True
+"Singaporean Hokkien Fried Mee","20",12,"Brazil","SP","Campinas",True
+"Sir Rodney's Marmalade","5",1,"Argentina",NULL,"Buenos Aires",True
+"Sir Rodney's Marmalade","20",2,"Germany",NULL,"Cunewalde",True
+"Sir Rodney's Marmalade","15",3,"Argentina",NULL,"Buenos Aires",True
+"Sir Rodney's Marmalade","5",3,"France",NULL,"Versailles",True
+"Sir Rodney's Marmalade","50",3,"UK","Essex","Colchester",True
+"Sir Rodney's Marmalade","39",4,"Austria",NULL,"Graz",True
+"Sir Rodney's Marmalade","15",4,"Germany",NULL,"Cunewalde",True
+"Sir Rodney's Marmalade","15",5,"UK",NULL,"London",True
+"Sir Rodney's Marmalade","1",5,"USA","NM","Albuquerque",True
+"Sir Rodney's Marmalade","40",7,"Belgium",NULL,"Charleroi",True
+"Sir Rodney's Marmalade","21",7,"Germany",NULL,"Frankfurt a.M.",True
+"Sir Rodney's Marmalade","20",8,"Brazil","SP","Sao Paulo",True
+"Sir Rodney's Marmalade","6",8,"USA","NM","Albuquerque",True
+"Sir Rodney's Marmalade","21",9,"USA","OR","Elgin",True
+"Sir Rodney's Marmalade","12",12,"Brazil","SP","Sao Paulo",True
+"Sir Rodney's Marmalade","28",12,"Sweden",NULL,"Luleå",True
+"Sir Rodney's Scones","12",1,"Argentina",NULL,"Buenos Aires",False
+"Sir Rodney's Scones","50",1,"Austria",NULL,"Graz",False
+"Sir Rodney's Scones","30",1,"Brazil","SP","Sao Paulo",False
+"Sir Rodney's Scones","40",1,"USA","WA","Seattle",False
+"Sir Rodney's Scones","20",2,"Finland",NULL,"Helsinki",False
+"Sir Rodney's Scones","40",2,"Germany",NULL,"Brandenburg",False
+"Sir Rodney's Scones","40",2,"USA","CA","San Francisco",False
+"Sir Rodney's Scones","40",2,"Venezuela","Lara","Barquisimeto",False
+"Sir Rodney's Scones","40",3,"Belgium",NULL,"Bruxelles",False
+"Sir Rodney's Scones","36",3,"Belgium",NULL,"Charleroi",False
+"Sir Rodney's Scones","12",3,"Germany",NULL,"Mannheim",False
+"Sir Rodney's Scones","60",3,"Germany",NULL,"München",False
+"Sir Rodney's Scones","21",3,"Portugal",NULL,"Lisboa",False
+"Sir Rodney's Scones","14",3,"UK",NULL,"London",False
+"Sir Rodney's Scones","65",4,"Austria",NULL,"Graz",False
+"Sir Rodney's Scones","3",4,"Germany",NULL,"Mannheim",False
+"Sir Rodney's Scones","40",4,"Germany",NULL,"Stuttgart",False
+"Sir Rodney's Scones","15",4,"USA","AK","Anchorage",False
+"Sir Rodney's Scones","20",4,"USA","OR","Eugene",False
+"Sir Rodney's Scones","12",4,"USA","WA","Seattle",False
+"Sir Rodney's Scones","6",5,"Spain",NULL,"Sevilla",False
+"Sir Rodney's Scones","15",5,"UK",NULL,"London",False
+"Sir Rodney's Scones","20",7,"Brazil","RJ","Rio de Janeiro",False
+"Sir Rodney's Scones","6",7,"France",NULL,"Nantes",False
+"Sir Rodney's Scones","8",7,"Germany",NULL,"Mannheim",False
+"Sir Rodney's Scones","10",7,"Mexico",NULL,"México D.F.",False
+"Sir Rodney's Scones","42",8,"Canada","Québec","Montréal",False
+"Sir Rodney's Scones","30",8,"Denmark",NULL,"Kobenhavn",False
+"Sir Rodney's Scones","25",8,"Germany",NULL,"München",False
+"Sir Rodney's Scones","60",9,"Germany",NULL,"Cunewalde",False
+"Sir Rodney's Scones","12",9,"USA","OR","Eugene",False
+"Sir Rodney's Scones","5",10,"Argentina",NULL,"Buenos Aires",False
+"Sir Rodney's Scones","10",10,"Finland",NULL,"Oulu",False
+"Sir Rodney's Scones","32",10,"Germany",NULL,"München",False
+"Sir Rodney's Scones","5",11,"Austria",NULL,"Graz",False
+"Sir Rodney's Scones","40",11,"Switzerland",NULL,"Bern",False
+"Sir Rodney's Scones","30",11,"Venezuela","Nueva Esparta","I. de Margarita",False
+"Sir Rodney's Scones","40",12,"France",NULL,"Lille",False
+"Sir Rodney's Scones","10",12,"Portugal",NULL,"Lisboa",False
+"Sirop d'érable","30",1,"France",NULL,"Lyon",True
+"Sirop d'érable","16",1,"Germany",NULL,"Cunewalde",True
+"Sirop d'érable","5",2,"Finland",NULL,"Helsinki",True
+"Sirop d'érable","25",2,"Finland",NULL,"Oulu",True
+"Sirop d'érable","15",2,"Poland",NULL,"Warszawa",True
+"Sirop d'érable","30",2,"Sweden",NULL,"Bräcke",True
+"Sirop d'érable","90",2,"USA","ID","Boise",True
+"Sirop d'érable","30",3,"UK","Isle of Wight","Cowes",True
+"Sirop d'érable","66",4,"Austria",NULL,"Graz",True
+"Sirop d'érable","10",4,"Brazil","RJ","Rio de Janeiro",True
+"Sirop d'érable","4",4,"Brazil","SP","Sao Paulo",True
+"Sirop d'érable","4",4,"Germany",NULL,"Mannheim",True
+"Sirop d'érable","15",4,"Germany",NULL,"Stuttgart",True
+"Sirop d'érable","7",4,"Poland",NULL,"Warszawa",True
+"Sirop d'érable","6",4,"USA","AK","Anchorage",True
+"Sirop d'érable","25",4,"USA","WA","Seattle",True
+"Sirop d'érable","20",5,"Austria",NULL,"Salzburg",True
+"Sirop d'érable","10",5,"Spain",NULL,"Sevilla",True
+"Sirop d'érable","120",7,"Austria",NULL,"Graz",True
+"Sirop d'érable","20",8,"Denmark",NULL,"Kobenhavn",True
+"Sirop d'érable","10",10,"Argentina",NULL,"Buenos Aires",True
+"Sirop d'érable","5",10,"Canada","Québec","Montréal",True
+"Sirop d'érable","20",11,"USA","CA","San Francisco",True
+"Sirop d'érable","20",12,"Denmark",NULL,"Århus",True
+"Spegesild","35",1,"Brazil","RJ","Rio de Janeiro",True
+"Spegesild","2",1,"Denmark",NULL,"Kobenhavn",True
+"Spegesild","20",1,"Italy",NULL,"Reggio Emilia",True
+"Spegesild","20",2,"France",NULL,"Lyon",True
+"Spegesild","21",2,"France",NULL,"Marseille",True
+"Spegesild","5",2,"France",NULL,"Strasbourg",True
+"Spegesild","10",2,"France",NULL,"Toulouse",True
+"Spegesild","14",3,"Brazil","SP","Sao Paulo",True
+"Spegesild","15",3,"UK",NULL,"London",True
+"Spegesild","3",4,"Argentina",NULL,"Buenos Aires",True
+"Spegesild","9",4,"Brazil","SP","Sao Paulo",True
+"Spegesild","25",4,"Sweden",NULL,"Bräcke",True
+"Spegesild","20",4,"Venezuela","Lara","Barquisimeto",True
+"Spegesild","30",5,"Switzerland",NULL,"Genève",True
+"Spegesild","3",5,"USA","NM","Albuquerque",True
+"Spegesild","15",8,"Brazil","RJ","Rio de Janeiro",True
+"Spegesild","21",8,"Brazil","SP","Resende",True
+"Spegesild","2",8,"Germany",NULL,"Berlin",True
+"Spegesild","60",9,"Germany",NULL,"München",True
+"Spegesild","45",9,"USA","ID","Boise",True
+"Spegesild","54",10,"USA","ID","Boise",True
+"Spegesild","18",10,"USA","WA","Seattle",True
+"Spegesild","28",11,"UK","Essex","Colchester",True
+"Spegesild","45",12,"Austria",NULL,"Graz",True
+"Spegesild","28",12,"Venezuela","Táchira","San Cristóbal",True
+"Steeleye Stout","6",1,"Austria",NULL,"Graz",True
+"Steeleye Stout","60",1,"Canada","Québec","Montréal",True
+"Steeleye Stout","25",1,"Germany",NULL,"Cunewalde",True
+"Steeleye Stout","8",1,"Norway",NULL,"Stavern",True
+"Steeleye Stout","35",1,"UK",NULL,"London",True
+"Steeleye Stout","20",1,"USA","WY","Lander",True
+"Steeleye Stout","30",2,"Brazil","SP","Sao Paulo",True
+"Steeleye Stout","3",2,"Poland",NULL,"Warszawa",True
+"Steeleye Stout","8",2,"Sweden",NULL,"Luleå",True
+"Steeleye Stout","4",2,"UK","Essex","Colchester",True
+"Steeleye Stout","10",3,"Denmark",NULL,"Århus",True
+"Steeleye Stout","40",3,"Venezuela","Táchira","San Cristóbal",True
+"Steeleye Stout","3",4,"Argentina",NULL,"Buenos Aires",True
+"Steeleye Stout","60",4,"Belgium",NULL,"Charleroi",True
+"Steeleye Stout","18",4,"Germany",NULL,"Stuttgart",True
+"Steeleye Stout","15",4,"USA","ID","Boise",True
+"Steeleye Stout","24",4,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Steeleye Stout","6",5,"Finland",NULL,"Oulu",True
+"Steeleye Stout","30",5,"France",NULL,"Lyon",True
+"Steeleye Stout","20",5,"Portugal",NULL,"Lisboa",True
+"Steeleye Stout","20",6,"UK",NULL,"London",True
+"Steeleye Stout","30",7,"Austria",NULL,"Graz",True
+"Steeleye Stout","40",7,"Brazil","RJ","Rio de Janeiro",True
+"Steeleye Stout","4",7,"USA","OR","Eugene",True
+"Steeleye Stout","100",8,"Germany",NULL,"Cunewalde",True
+"Steeleye Stout","30",8,"Germany",NULL,"München",True
+"Steeleye Stout","4",8,"Spain",NULL,"Madrid",True
+"Steeleye Stout","21",10,"Brazil","RJ","Rio de Janeiro",True
+"Steeleye Stout","10",10,"UK","Isle of Wight","Cowes",True
+"Steeleye Stout","70",10,"USA","ID","Boise",True
+"Steeleye Stout","9",10,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Steeleye Stout","35",11,"USA","WA","Seattle",True
+"Steeleye Stout","40",12,"Austria",NULL,"Graz",True
+"Steeleye Stout","15",12,"France",NULL,"Lille",True
+"Steeleye Stout","30",12,"USA","ID","Boise",True
+"Tarte au sucre","35",1,"France",NULL,"Lille",True
+"Tarte au sucre","40",1,"France",NULL,"Toulouse",True
+"Tarte au sucre","25",1,"Germany",NULL,"Brandenburg",True
+"Tarte au sucre","50",1,"USA","NM","Albuquerque",True
+"Tarte au sucre","20",1,"USA","OR","Eugene",True
+"Tarte au sucre","3",1,"USA","WA","Kirkland",True
+"Tarte au sucre","3",1,"USA","WA","Seattle",True
+"Tarte au sucre","35",2,"France",NULL,"Strasbourg",True
+"Tarte au sucre","20",2,"Spain",NULL,"Sevilla",True
+"Tarte au sucre","6",2,"Sweden",NULL,"Bräcke",True
+"Tarte au sucre","35",2,"USA","WA","Seattle",True
+"Tarte au sucre","60",3,"Canada","BC","Tsawassen",True
+"Tarte au sucre","14",3,"France",NULL,"Marseille",True
+"Tarte au sucre","12",3,"Switzerland",NULL,"Bern",True
+"Tarte au sucre","30",3,"USA","ID","Boise",True
+"Tarte au sucre","40",3,"USA","NM","Albuquerque",True
+"Tarte au sucre","21",4,"Canada","BC","Tsawassen",True
+"Tarte au sucre","3",4,"Canada","Québec","Montréal",True
+"Tarte au sucre","12",4,"Poland",NULL,"Warszawa",True
+"Tarte au sucre","40",5,"France",NULL,"Lyon",True
+"Tarte au sucre","20",5,"Germany",NULL,"Köln",True
+"Tarte au sucre","15",6,"Germany",NULL,"München",True
+"Tarte au sucre","10",6,"Italy",NULL,"Reggio Emilia",True
+"Tarte au sucre","10",6,"USA","WA","Kirkland",True
+"Tarte au sucre","10",7,"Brazil","SP","Sao Paulo",True
+"Tarte au sucre","15",7,"Germany",NULL,"Köln",True
+"Tarte au sucre","10",7,"UK",NULL,"London",True
+"Tarte au sucre","80",8,"Austria",NULL,"Graz",True
+"Tarte au sucre","40",8,"Germany",NULL,"Cunewalde",True
+"Tarte au sucre","12",8,"Germany",NULL,"Leipzig",True
+"Tarte au sucre","15",8,"USA","ID","Boise",True
+"Tarte au sucre","10",9,"France",NULL,"Nantes",True
+"Tarte au sucre","15",9,"Ireland","Co. Cork","Cork",True
+"Tarte au sucre","95",9,"USA","NM","Albuquerque",True
+"Tarte au sucre","15",9,"USA","OR","Portland",True
+"Tarte au sucre","28",10,"Canada","Québec","Montréal",True
+"Tarte au sucre","20",10,"Germany",NULL,"Brandenburg",True
+"Tarte au sucre","48",10,"Germany",NULL,"Cunewalde",True
+"Tarte au sucre","9",11,"Switzerland",NULL,"Bern",True
+"Tarte au sucre","30",11,"USA","ID","Boise",True
+"Tarte au sucre","20",12,"Canada","BC","Tsawassen",True
+"Tarte au sucre","15",12,"Denmark",NULL,"Århus",True
+"Tarte au sucre","5",12,"Denmark",NULL,"Kobenhavn",True
+"Tarte au sucre","20",12,"Germany",NULL,"Leipzig",True
+"Tarte au sucre","2",12,"UK","Isle of Wight","Cowes",True
+"Tarte au sucre","10",12,"USA","OR","Elgin",True
+"Teatime Chocolate Biscuits","4",1,"Brazil","RJ","Rio de Janeiro",True
+"Teatime Chocolate Biscuits","18",1,"Brazil","SP","Sao Paulo",True
+"Teatime Chocolate Biscuits","20",1,"Finland",NULL,"Oulu",True
+"Teatime Chocolate Biscuits","2",1,"Norway",NULL,"Stavern",True
+"Teatime Chocolate Biscuits","12",1,"USA","ID","Boise",True
+"Teatime Chocolate Biscuits","15",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Teatime Chocolate Biscuits","40",2,"Brazil","RJ","Rio de Janeiro",True
+"Teatime Chocolate Biscuits","12",2,"Finland",NULL,"Helsinki",True
+"Teatime Chocolate Biscuits","27",2,"Germany",NULL,"Münster",True
+"Teatime Chocolate Biscuits","25",2,"Sweden",NULL,"Luleå",True
+"Teatime Chocolate Biscuits","21",3,"Belgium",NULL,"Charleroi",True
+"Teatime Chocolate Biscuits","5",3,"Brazil","SP","Sao Paulo",True
+"Teatime Chocolate Biscuits","12",3,"Germany",NULL,"Münster",True
+"Teatime Chocolate Biscuits","7",3,"Mexico",NULL,"México D.F.",True
+"Teatime Chocolate Biscuits","35",4,"Brazil","RJ","Rio de Janeiro",True
+"Teatime Chocolate Biscuits","50",4,"Germany",NULL,"München",True
+"Teatime Chocolate Biscuits","10",5,"France",NULL,"Marseille",True
+"Teatime Chocolate Biscuits","10",5,"Spain",NULL,"Sevilla",True
+"Teatime Chocolate Biscuits","42",5,"USA","WA","Seattle",True
+"Teatime Chocolate Biscuits","35",6,"USA","ID","Boise",True
+"Teatime Chocolate Biscuits","30",8,"Brazil","RJ","Rio de Janeiro",True
+"Teatime Chocolate Biscuits","15",8,"Germany",NULL,"München",True
+"Teatime Chocolate Biscuits","1",8,"Spain",NULL,"Madrid",True
+"Teatime Chocolate Biscuits","5",8,"UK","Isle of Wight","Cowes",True
+"Teatime Chocolate Biscuits","18",8,"Venezuela","Lara","Barquisimeto",True
+"Teatime Chocolate Biscuits","15",9,"Brazil","RJ","Rio de Janeiro",True
+"Teatime Chocolate Biscuits","12",9,"Germany",NULL,"Stuttgart",True
+"Teatime Chocolate Biscuits","7",9,"Mexico",NULL,"México D.F.",True
+"Teatime Chocolate Biscuits","30",9,"USA","OR","Eugene",True
+"Teatime Chocolate Biscuits","5",10,"Italy",NULL,"Torino",True
+"Teatime Chocolate Biscuits","12",10,"USA","ID","Boise",True
+"Teatime Chocolate Biscuits","10",10,"USA","WY","Lander",True
+"Teatime Chocolate Biscuits","7",10,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Teatime Chocolate Biscuits","80",11,"Germany",NULL,"Cunewalde",True
+"Teatime Chocolate Biscuits","24",12,"Brazil","SP","Resende",True
+"Teatime Chocolate Biscuits","50",12,"Germany",NULL,"Cunewalde",True
+"Thüringer Rostbratwurst","8",1,"Brazil","SP","Sao Paulo",True
+"Thüringer Rostbratwurst","10",1,"Sweden",NULL,"Luleå",True
+"Thüringer Rostbratwurst","21",1,"UK",NULL,"London",True
+"Thüringer Rostbratwurst","24",2,"Germany",NULL,"Brandenburg",True
+"Thüringer Rostbratwurst","140",2,"Ireland","Co. Cork","Cork",True
+"Thüringer Rostbratwurst","24",2,"USA","ID","Boise",True
+"Thüringer Rostbratwurst","18",3,"Denmark",NULL,"Århus",True
+"Thüringer Rostbratwurst","14",3,"France",NULL,"Nantes",True
+"Thüringer Rostbratwurst","10",4,"Portugal",NULL,"Lisboa",True
+"Thüringer Rostbratwurst","50",4,"Sweden",NULL,"Bräcke",True
+"Thüringer Rostbratwurst","96",4,"USA","ID","Boise",True
+"Thüringer Rostbratwurst","2",4,"USA","OR","Eugene",True
+"Thüringer Rostbratwurst","10",6,"Finland",NULL,"Oulu",True
+"Thüringer Rostbratwurst","10",7,"Venezuela","DF","Caracas",True
+"Thüringer Rostbratwurst","15",8,"Brazil","SP","Sao Paulo",True
+"Thüringer Rostbratwurst","20",8,"Spain",NULL,"Sevilla",True
+"Thüringer Rostbratwurst","6",8,"USA","MT","Butte",True
+"Thüringer Rostbratwurst","10",9,"Ireland","Co. Cork","Cork",True
+"Thüringer Rostbratwurst","36",9,"Switzerland",NULL,"Genève",True
+"Thüringer Rostbratwurst","25",9,"USA","AK","Anchorage",True
+"Thüringer Rostbratwurst","12",10,"Austria",NULL,"Graz",True
+"Thüringer Rostbratwurst","40",10,"Germany",NULL,"Cunewalde",True
+"Thüringer Rostbratwurst","35",11,"France",NULL,"Strasbourg",True
+"Thüringer Rostbratwurst","4",11,"Mexico",NULL,"México D.F.",True
+"Thüringer Rostbratwurst","14",12,"Austria",NULL,"Graz",True
+"Thüringer Rostbratwurst","20",12,"France",NULL,"Toulouse",True
+"Thüringer Rostbratwurst","18",12,"Germany",NULL,"Frankfurt a.M.",True
+"Thüringer Rostbratwurst","14",12,"Germany",NULL,"München",True
+"Thüringer Rostbratwurst","20",12,"Spain",NULL,"Madrid",True
+"Thüringer Rostbratwurst","20",12,"USA","WY","Lander",True
+"Tofu","12",1,"Argentina",NULL,"Buenos Aires",True
+"Tofu","35",1,"Austria",NULL,"Salzburg",True
+"Tofu","20",1,"Finland",NULL,"Oulu",True
+"Tofu","12",3,"Mexico",NULL,"México D.F.",True
+"Tofu","70",4,"Ireland","Co. Cork","Cork",True
+"Tofu","20",5,"France",NULL,"Marseille",True
+"Tofu","1",5,"USA","NM","Albuquerque",True
+"Tofu","11",6,"Austria",NULL,"Graz",True
+"Tofu","15",6,"Germany",NULL,"Köln",True
+"Tofu","30",6,"USA","ID","Boise",True
+"Tofu","9",7,"Germany",NULL,"Münster",True
+"Tofu","21",8,"Germany",NULL,"München",True
+"Tofu","3",8,"Mexico",NULL,"México D.F.",True
+"Tofu","30",9,"Germany",NULL,"München",True
+"Tofu","3",9,"USA","OR","Eugene",True
+"Tofu","10",10,"Finland",NULL,"Oulu",True
+"Tofu","9",10,"Germany",NULL,"Brandenburg",True
+"Tofu","5",11,"Finland",NULL,"Oulu",True
+"Tofu","16",11,"Sweden",NULL,"Luleå",True
+"Tofu","15",12,"Brazil","RJ","Rio de Janeiro",True
+"Tofu","42",12,"USA","ID","Boise",True
+"Tofu","15",12,"USA","OR","Elgin",True
+"Tourtière","6",1,"France",NULL,"Lille",True
+"Tourtière","35",1,"Germany",NULL,"München",True
+"Tourtière","40",1,"USA","WY","Lander",True
+"Tourtière","80",2,"Austria",NULL,"Graz",True
+"Tourtière","6",2,"France",NULL,"Lyon",True
+"Tourtière","10",2,"Mexico",NULL,"México D.F.",True
+"Tourtière","15",2,"Sweden",NULL,"Luleå",True
+"Tourtière","32",2,"USA","ID","Boise",True
+"Tourtière","24",3,"Brazil","SP","Sao Paulo",True
+"Tourtière","10",4,"Belgium",NULL,"Charleroi",True
+"Tourtière","20",4,"Germany",NULL,"Mannheim",True
+"Tourtière","24",5,"Germany",NULL,"Brandenburg",True
+"Tourtière","10",5,"Germany",NULL,"Frankfurt a.M.",True
+"Tourtière","15",5,"Sweden",NULL,"Luleå",True
+"Tourtière","20",5,"Venezuela","Lara","Barquisimeto",True
+"Tourtière","50",7,"Denmark",NULL,"Århus",True
+"Tourtière","4",7,"USA","OR","Elgin",True
+"Tourtière","30",8,"Brazil","SP","Sao Paulo",True
+"Tourtière","10",8,"Italy",NULL,"Reggio Emilia",True
+"Tourtière","5",9,"Spain",NULL,"Madrid",True
+"Tourtière","6",9,"Sweden",NULL,"Luleå",True
+"Tourtière","30",9,"USA","ID","Boise",True
+"Tourtière","15",10,"France",NULL,"Marseille",True
+"Tourtière","15",10,"Germany",NULL,"München",True
+"Tourtière","40",10,"USA","CA","San Francisco",True
+"Tourtière","60",10,"USA","WA","Seattle",True
+"Tourtière","18",11,"Denmark",NULL,"Århus",True
+"Tourtière","24",11,"France",NULL,"Marseille",True
+"Tourtière","28",11,"France",NULL,"Strasbourg",True
+"Tourtière","20",11,"Portugal",NULL,"Lisboa",True
+"Tourtière","24",11,"USA","WY","Lander",True
+"Tourtière","6",12,"Brazil","RJ","Rio de Janeiro",True
+"Tourtière","3",12,"Finland",NULL,"Oulu",True
+"Tourtière","3",12,"Poland",NULL,"Warszawa",True
+"Tourtière","7",12,"UK",NULL,"London",True
+"Tourtière","10",12,"USA","OR","Elgin",True
+"Tunnbröd","60",1,"Austria",NULL,"Graz",True
+"Tunnbröd","70",1,"Germany",NULL,"Cunewalde",True
+"Tunnbröd","18",1,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Tunnbröd","30",2,"Sweden",NULL,"Bräcke",True
+"Tunnbröd","50",2,"UK",NULL,"London",True
+"Tunnbröd","8",3,"Brazil","SP","Resende",True
+"Tunnbröd","15",3,"France",NULL,"Marseille",True
+"Tunnbröd","21",3,"UK",NULL,"London",True
+"Tunnbröd","10",4,"Canada","BC","Vancouver",True
+"Tunnbröd","10",4,"Spain",NULL,"Madrid",True
+"Tunnbröd","20",5,"Germany",NULL,"Köln",True
+"Tunnbröd","2",5,"USA","NM","Albuquerque",True
+"Tunnbröd","70",5,"Venezuela","Lara","Barquisimeto",True
+"Tunnbröd","10",8,"UK","Isle of Wight","Cowes",True
+"Tunnbröd","32",9,"Germany",NULL,"München",True
+"Tunnbröd","5",9,"UK","Isle of Wight","Cowes",True
+"Tunnbröd","40",10,"Germany",NULL,"München",True
+"Tunnbröd","25",11,"Germany",NULL,"Stuttgart",True
+"Tunnbröd","44",11,"USA","ID","Boise",True
+"Tunnbröd","40",12,"Germany",NULL,"München",True
+"Uncle Bob's Organic Dried Pears","5",1,"France",NULL,"Versailles",True
+"Uncle Bob's Organic Dried Pears","20",1,"Germany",NULL,"Köln",True
+"Uncle Bob's Organic Dried Pears","16",2,"France",NULL,"Lyon",True
+"Uncle Bob's Organic Dried Pears","20",2,"Italy",NULL,"Reggio Emilia",True
+"Uncle Bob's Organic Dried Pears","12",2,"Norway",NULL,"Stavern",True
+"Uncle Bob's Organic Dried Pears","6",3,"Argentina",NULL,"Buenos Aires",True
+"Uncle Bob's Organic Dried Pears","18",3,"Austria",NULL,"Graz",True
+"Uncle Bob's Organic Dried Pears","20",3,"Canada","BC","Tsawassen",True
+"Uncle Bob's Organic Dried Pears","8",3,"France",NULL,"Marseille",True
+"Uncle Bob's Organic Dried Pears","45",3,"Germany",NULL,"Cunewalde",True
+"Uncle Bob's Organic Dried Pears","90",3,"UK",NULL,"London",True
+"Uncle Bob's Organic Dried Pears","60",3,"USA","NM","Albuquerque",True
+"Uncle Bob's Organic Dried Pears","50",4,"France",NULL,"Marseille",True
+"Uncle Bob's Organic Dried Pears","20",4,"Italy",NULL,"Reggio Emilia",True
+"Uncle Bob's Organic Dried Pears","60",4,"Sweden",NULL,"Bräcke",True
+"Uncle Bob's Organic Dried Pears","44",4,"UK",NULL,"London",True
+"Uncle Bob's Organic Dried Pears","10",5,"France",NULL,"Lyon",True
+"Uncle Bob's Organic Dried Pears","1",5,"USA","NM","Albuquerque",True
+"Uncle Bob's Organic Dried Pears","15",5,"Venezuela","Lara","Barquisimeto",True
+"Uncle Bob's Organic Dried Pears","10",7,"Denmark",NULL,"Århus",True
+"Uncle Bob's Organic Dried Pears","45",7,"USA","ID","Boise",True
+"Uncle Bob's Organic Dried Pears","15",7,"USA","NM","Albuquerque",True
+"Uncle Bob's Organic Dried Pears","35",8,"France",NULL,"Lille",True
+"Uncle Bob's Organic Dried Pears","90",10,"Germany",NULL,"Cunewalde",True
+"Uncle Bob's Organic Dried Pears","3",12,"Brazil","SP","Campinas",True
+"Uncle Bob's Organic Dried Pears","35",12,"Germany",NULL,"Köln",True
+"Uncle Bob's Organic Dried Pears","10",12,"USA","WY","Lander",True
+"Valkoinen suklaa","40",1,"Ireland","Co. Cork","Cork",True
+"Valkoinen suklaa","25",3,"Denmark",NULL,"Århus",True
+"Valkoinen suklaa","9",3,"Spain",NULL,"Sevilla",True
+"Valkoinen suklaa","24",3,"UK","Essex","Colchester",True
+"Valkoinen suklaa","22",5,"Austria",NULL,"Graz",True
+"Valkoinen suklaa","25",8,"Brazil","SP","Sao Paulo",True
+"Valkoinen suklaa","15",11,"France",NULL,"Toulouse",True
+"Valkoinen suklaa","20",11,"Switzerland",NULL,"Genève",True
+"Valkoinen suklaa","40",11,"Venezuela","Nueva Esparta","I. de Margarita",True
+"Valkoinen suklaa","15",12,"UK","Essex","Colchester",True
+"Vegie-spread","65",1,"Austria",NULL,"Graz",True
+"Vegie-spread","35",1,"Ireland","Co. Cork","Cork",True
+"Vegie-spread","35",3,"Austria",NULL,"Graz",True
+"Vegie-spread","40",3,"Denmark",NULL,"Århus",True
+"Vegie-spread","20",3,"Sweden",NULL,"Bräcke",True
+"Vegie-spread","10",3,"USA","WY","Lander",True
+"Vegie-spread","42",4,"Switzerland",NULL,"Bern",True
+"Vegie-spread","6",6,"Germany",NULL,"Leipzig",True
+"Vegie-spread","24",7,"USA","WA","Seattle",True
+"Vegie-spread","5",8,"Mexico",NULL,"México D.F.",True
+"Vegie-spread","8",8,"Sweden",NULL,"Luleå",True
+"Vegie-spread","20",10,"Germany",NULL,"Berlin",True
+"Vegie-spread","80",10,"USA","ID","Boise",True
+"Vegie-spread","9",11,"Austria",NULL,"Salzburg",True
+"Vegie-spread","16",12,"Brazil","RJ","Rio de Janeiro",True
+"Vegie-spread","30",12,"France",NULL,"Lille",True
+"Wimmers gute Semmelknödel","30",1,"Austria",NULL,"Graz",False
+"Wimmers gute Semmelknödel","3",1,"France",NULL,"Toulouse",False
+"Wimmers gute Semmelknödel","48",1,"Germany",NULL,"Cunewalde",False
+"Wimmers gute Semmelknödel","30",1,"Germany",NULL,"München",False
+"Wimmers gute Semmelknödel","7",1,"Spain",NULL,"Barcelona",False
+"Wimmers gute Semmelknödel","6",2,"Canada","Québec","Montréal",False
+"Wimmers gute Semmelknödel","20",2,"France",NULL,"Marseille",False
+"Wimmers gute Semmelknödel","30",2,"France",NULL,"Strasbourg",False
+"Wimmers gute Semmelknödel","35",2,"Germany",NULL,"Cunewalde",False
+"Wimmers gute Semmelknödel","15",2,"Spain",NULL,"Sevilla",False
+"Wimmers gute Semmelknödel","4",3,"Austria",NULL,"Graz",False
+"Wimmers gute Semmelknödel","8",3,"France",NULL,"Marseille",False
+"Wimmers gute Semmelknödel","30",3,"USA","NM","Albuquerque",False
+"Wimmers gute Semmelknödel","8",3,"Venezuela","Táchira","San Cristóbal",False
+"Wimmers gute Semmelknödel","25",4,"Austria",NULL,"Salzburg",False
+"Wimmers gute Semmelknödel","20",4,"USA","ID","Boise",False
+"Wimmers gute Semmelknödel","130",5,"Austria",NULL,"Graz",False
+"Wimmers gute Semmelknödel","2",5,"USA","NM","Albuquerque",False
+"Wimmers gute Semmelknödel","18",6,"Canada","Québec","Montréal",False
+"Wimmers gute Semmelknödel","30",6,"Germany",NULL,"Frankfurt a.M.",False
+"Wimmers gute Semmelknödel","6",6,"USA","WA","Kirkland",False
+"Wimmers gute Semmelknödel","9",8,"Spain",NULL,"Sevilla",False
+"Wimmers gute Semmelknödel","9",8,"UK",NULL,"London",False
+"Wimmers gute Semmelknödel","15",9,"Germany",NULL,"Stuttgart",False
+"Wimmers gute Semmelknödel","28",9,"USA","OR","Eugene",False
+"Wimmers gute Semmelknödel","50",10,"Germany",NULL,"Frankfurt a.M.",False
+"Wimmers gute Semmelknödel","35",11,"Austria",NULL,"Graz",False
+"Wimmers gute Semmelknödel","24",11,"USA","ID","Boise",False
+"Wimmers gute Semmelknödel","30",12,"Switzerland",NULL,"Bern",False
+"Wimmers gute Semmelknödel","35",12,"Venezuela","Táchira","San Cristóbal",False
+"Zaanse koeken","30",1,"Canada","BC","Tsawassen",True
+"Zaanse koeken","55",1,"Germany",NULL,"Cunewalde",True
+"Zaanse koeken","40",1,"Sweden",NULL,"Luleå",True
+"Zaanse koeken","21",2,"Sweden",NULL,"Luleå",True
+"Zaanse koeken","30",3,"France",NULL,"Lille",True
+"Zaanse koeken","14",3,"Germany",NULL,"Mannheim",True
+"Zaanse koeken","5",3,"Spain",NULL,"Barcelona",True
+"Zaanse koeken","30",3,"Sweden",NULL,"Bräcke",True
+"Zaanse koeken","6",4,"Brazil","SP","Sao Paulo",True
+"Zaanse koeken","25",6,"UK","Essex","Colchester",True
+"Zaanse koeken","15",7,"Brazil","SP","Resende",True
+"Zaanse koeken","15",9,"Brazil","SP","Campinas",True
+"Zaanse koeken","40",9,"Germany",NULL,"Köln",True
+"Zaanse koeken","10",9,"USA","ID","Boise",True
+"Zaanse koeken","6",9,"USA","OR","Eugene",True
+"Zaanse koeken","16",10,"Canada","Québec","Montréal",True
+"Zaanse koeken","12",10,"Germany",NULL,"Leipzig",True
+"Zaanse koeken","5",10,"Italy",NULL,"Torino",True
+"Zaanse koeken","50",10,"USA","ID","Boise",True
+"Zaanse koeken","30",11,"France",NULL,"Marseille",True
+"Zaanse koeken","30",12,"Sweden",NULL,"Bräcke",True

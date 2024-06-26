@@ -1,0 +1,102 @@
+--criação do datawarehouse (modelo dimensional a partir do relacional northwind)
+
+
+create table data_warehouse.dim_tempo(
+	id serial primary key,
+	data date,
+	ano INTEGEr,
+	mes INTEGER,
+	dia INTEGER,
+	dia_da_semana TEXT,
+	mes_extenso text );
+	
+create table data_warehouse.dim_cliente(
+	id serial primary key,
+	nome_empresa text,
+	cidade text,
+	regiao text,
+	pais  text);
+
+create table data_warehouse.dim_produto(
+	id serial primary key,
+	nome text,
+	categoria text);
+	
+create table data_warehouse.dim_local(
+	id serial primary key,
+	cidade text,
+	pais text,
+	regiao text);
+	
+create table data_warehouse.fato_vendas_estoque(
+	id serial primary key,
+	id_tempo integer REFERENCES data_warehouse.dim_tempo (id) ,
+	id_produto integer REFERENCES data_warehouse.dim_produto (id) ,
+	id_cliente integer REFERENCES data_warehouse.dim_cliente (id) ,
+	id_local integer REFERENCES data_warehouse.dim_local (id),
+	unidades_em_estoque numeric(18,2),
+	nivel_reabastecimento numeric(18,2),
+	valor_venda_real numeric(18,2),
+	valor_custo numeric(18,2),
+	lucro numeric(18,2),
+	quantidade_vendida integer
+);
+
+INSERT INTO data_warehouse.dim_tempo(data, ano, mes, dia, dia_da_semana, mes_extenso)
+select dt::date as data_inteira,
+	extract(year from dt) as ano,
+	extract(month from dt) as mes,
+	extract(day from dt) as dia,
+	TO_CHAR(dt,'Day') as dia_da_semana,
+	TO_CHAR(dt,'Month') as dia_da_semana
+from generate_series ((select min(data_pedido)from public.pedidos),
+		current_date +interval '5 years',
+		interval '1 day'
+		) as dt
+		order by data_inteira asc;
+
+--INSERINDO DADOS NO DATAWAREHOUSE
+
+select * from data_warehouse.dim_tempo
+
+INSERT INTO data_warehouse.dim_produto (id, nome, categoria)
+select pro.id, pro.nome, cat.nome
+from public.produtos as pro
+inner join public.categorias as cat on cat.id = pro.id_categoria
+
+select count(distinct id) from public.produtos
+
+SELECT * FROM DATA_WAREHOUSE.DIM_PRODUTO
+
+
+INSERT INTO data_warehouse.dim_local(pais,regiao, cidade)
+SELECT DISTINCT pais_navio, regiao_navio, cidade_navio
+from public.pedidos p
+order by cidade_navio, regiao_navio, pais_navio;
+
+INSERT INTO data_warehouse.dim_cliente(nome_empresa, cidade, regiao, pais)
+select nome_empresa, cidade, regiao, pais
+from public.clientes
+order by nome_empresa;
+
+select * from public.clientes
+order by id
+
+INSERT INTO data_warehouse.fato_vendas_estoque(
+	id_tempo, id_produto, id_cliente, id_local, unidades_em_estoque, nivel_reabastecimento,
+	valor_venda_real, valor_custo, lucro, quantidade_vendida) 
+SELECT dt.id as id_tempo, dpr.id as id_produto, dc.id as id_cliente, dl.id as id_local,
+pr.unidades_em_estoque, pr.nivel_reabastecimento,
+(pd.quantidade * pd.preco_unitario * (1 - pd.desconto))::numeric(18,2) as valor_venda_real,
+(pd.quantidade * pd.preco_unitario)::numeric(18,2) as valor_custo,
+((pd.quantidade * pd.preco_unitario * (1 - pd.desconto)) - 
+(pd.quantidade * pd.preco_unitario))::numeric(18,2) as lucro,
+pd.quantidade
+FROM public.pedido_detalhe pd
+INNER JOIN public.pedidos p ON p.id = pd.id_pedido
+INNER JOIN public.produtos pr ON pr.id = pd.id_produto
+INNER JOIN public.clientes c ON c.id = p.id_cliente
+INNER JOIN data_warehouse.dim_produto dpr ON dpr.nome = pr.nome
+INNER JOIN data_warehouse.dim_tempo dt ON dt.data = p.data_pedido
+INNER JOIN data_warehouse.dim_cliente dc ON dc.nome_empresa = c.nome_empresa
+INNER JOIN data_warehouse.dim_local dl ON dl.cidade = p.cidade_navio
